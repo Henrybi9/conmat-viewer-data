@@ -1,0 +1,14 @@
+{
+  "data_version": 3,
+  "files": {
+    "board_index.json": {
+      "sha256": "a3d1a85551ae24e80f42ef435629cf467934aa68f3a84279f4706b313f872a20",
+      "size": 69752
+    }
+  },
+  "app": {
+    "version": "1.0.0",
+    "asset": "CON_MAT_Viewer.zip",
+    "notes": "Ban dau tien - he thong tai khoan + license qua Firebase"
+  }
+}

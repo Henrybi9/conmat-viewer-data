@@ -1,0 +1,2332 @@
+[
+  {
+    "board_id": "ipad/iPxd10_820-02772_A2757 A2777 A3162(5G) motherboard copperAB",
+    "display_name": "iPxd10_820-02772_A2757 A2777 A3162(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd10_820-03001_A2696(WIFI) motherboard copperAB",
+    "display_name": "iPxd10_820-03001_A2696(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd11_820-03902-A_A3354 motherboard copperAB",
+    "display_name": "iPxd11_820-03902-A_A3354 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd2_820-3069_A1395 motherboardAB",
+    "display_name": "iPxd2_820-3069_A1395 motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd2_820-3204_A1396 A1397 motherboardAB",
+    "display_name": "iPxd2_820-3204_A1396 A1397 motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd3_820-2996_A1416 motherboardAB",
+    "display_name": "iPxd3_820-2996_A1416 motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd4_820-3249_A1458 motherboardAB",
+    "display_name": "iPxd4_820-3249_A1458 motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd5_820-00724_A1823(4G) motherboard copperAB",
+    "display_name": "iPxd5_820-00724_A1823(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd5_820-00725_A1822(WIFI) motherboard copperAB",
+    "display_name": "iPxd5_820-00725_A1822(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd6_820-00996_A1893(WIFI) motherboard copperAB",
+    "display_name": "iPxd6_820-00996_A1893(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd6_820-01327_A1954(4G) motherboardAB",
+    "display_name": "iPxd6_820-01327_A1954(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd7_820-01685_A2197(WIFI) motherboard copperAB",
+    "display_name": "iPxd7_820-01685_A2197(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd7_820-01686_A2198 A2200(4G) motherboard copperAB",
+    "display_name": "iPxd7_820-01686_A2198 A2200(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd8_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
+    "display_name": "iPxd8_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd8_820-02133_A2270(WIFI) motherboard copperAB",
+    "display_name": "iPxd8_820-02133_A2270(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd9_820-02558-A_A2602(WIFI) motherboard copperAB",
+    "display_name": "iPxd9_820-02558-A_A2602(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxd9_821-02623-A_A2603 A2604 A2605(4G) motherboard copperAB",
+    "display_name": "iPxd9_821-02623-A_A2603 A2604 A2605(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir1_820-3399_A1475 A1476(4G) motherboardAB",
+    "display_name": "iPxdAir1_820-3399_A1475 A1476(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir1_820-3508_A1474(WIFI) motherboardAB",
+    "display_name": "iPxdAir1_820-3508_A1474(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir2_820-3633_A1567(4G) motherboardAB",
+    "display_name": "iPxdAir2_820-3633_A1567(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir2_820-4550_A1566(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir2_820-4550_A1566(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir3 display motherboard copperAB",
+    "display_name": "iPxdAir3 display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir3_820-01529_A2152(WIFI) motherboardAB",
+    "display_name": "iPxdAir3_820-01529_A2152(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir3_820-01531_A2123 A2153 A2154(4G) motherboard copperAB",
+    "display_name": "iPxdAir3_820-01531_A2123 A2153 A2154(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir4 display motherboard copperAB",
+    "display_name": "iPxdAir4 display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir4_820-02251_A2324 A2072 A2325(4G) motherboard copperAB",
+    "display_name": "iPxdAir4_820-02251_A2324 A2072 A2325(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir4_820-02274_A2316(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir4_820-02274_A2316(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir5_820-02532_A2589 A2591(5G) motherboard copperAB",
+    "display_name": "iPxdAir5_820-02532_A2589 A2591(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir5_820-02587_A2588(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir5_820-02587_A2588(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir6_820-03110_A2902(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir6_820-03110_A2902(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdAir6_820-03121_A2898(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir6_820-03121_A2898(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1(2015 12.9in)_4G_A1652 motherboard copperAB",
+    "display_name": "iPxdPro1(2015 12.9in)_4G_A1652 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1(2016 9.7in)_4G_A1674 A1675 motherboard copperAB",
+    "display_name": "iPxdPro1(2016 9.7in)_4G_A1674 A1675 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1(2016 9.7in)_WIFI_A1673 motherboardAB",
+    "display_name": "iPxdPro1(2016 9.7in)_WIFI_A1673 motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1_820-00432_A1701(WIFI) motherboardAB",
+    "display_name": "iPxdPro1_820-00432_A1701(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1_820-00433_A1709 A1852(4G) motherboardAB",
+    "display_name": "iPxdPro1_820-00433_A1709 A1852(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1_820-01352_A1934 A1979 A2013(4G) motherboardAB",
+    "display_name": "iPxdPro1_820-01352_A1934 A1979 A2013(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro1_820-01353_A1980(WIFI) motherboardAB",
+    "display_name": "iPxdPro1_820-01353_A1980(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro2(2017 12.9in)_4G_A1671 A1821 motherboard copperAB",
+    "display_name": "iPxdPro2(2017 12.9in)_4G_A1671 A1821 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro2(2017 12.9in)_WIFI_A1670 motherboard copperAB",
+    "display_name": "iPxdPro2(2017 12.9in)_WIFI_A1670 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro2_820-01839_A2228(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro2_820-01839_A2228(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3(2018 12.9in)_4G_A2014 A1895 A1983 motherboard copperAB",
+    "display_name": "iPxdPro3(2018 12.9in)_4G_A2014 A1895 A1983 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3(2018 12.9in)_WIFI_A1876 motherboard copperAB",
+    "display_name": "iPxdPro3(2018 12.9in)_WIFI_A1876 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
+    "display_name": "iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
+    "display_name": "iPxdPro3_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3_820-02300_A2377(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro3_820-02300_A2377(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro4(12.9in) display motherboard copperAB",
+    "display_name": "iPxdPro4(12.9in) display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233 motherboard copperAB",
+    "display_name": "iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro4(2020 12.9in)_WIFI_A2229 motherboard copperAB",
+    "display_name": "iPxdPro4(2020 12.9in)_WIFI_A2229 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro4_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
+    "display_name": "iPxdPro4_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro4_820-03154_A2759(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro4_820-03154_A2759(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro5(11in) display motherboard copperAB",
+    "display_name": "iPxdPro5(11in) display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro5(12.9in) display motherboard copperAB",
+    "display_name": "iPxdPro5(12.9in) display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro5(2021 12.9in)_5G_A2379 A2461 A2462 motherboard copperAB",
+    "display_name": "iPxdPro5(2021 12.9in)_5G_A2379 A2461 A2462 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro5(2021 12.9in)_WIFI_A2378 motherboard copperAB",
+    "display_name": "iPxdPro5(2021 12.9in)_WIFI_A2378 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro5_820-03371_A2836(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro5_820-03371_A2836(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro6_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
+    "display_name": "iPxdPro6_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini1_820-3243_A1454 A1455(3G) motherboardAB",
+    "display_name": "iPxdmini1_820-3243_A1454 A1455(3G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini1_820-3400_A1432(WIFI) motherboardAB",
+    "display_name": "iPxdmini1_820-3400_A1432(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini2_820-3683_A1489(WIFI) motherboardAB",
+    "display_name": "iPxdmini2_820-3683_A1489(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini3_820-00002_A1600(4G) motherboardAB",
+    "display_name": "iPxdmini3_820-00002_A1600(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini3_820-00008_A1599(WIFI) motherboard copperAB",
+    "display_name": "iPxdmini3_820-00008_A1599(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini4_820-00177_A1550(4G) motherboardAB",
+    "display_name": "iPxdmini4_820-00177_A1550(4G) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini4_820-00180_A1538(WIFI) motherboard copperAB",
+    "display_name": "iPxdmini4_820-00180_A1538(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini5_820-01495_A2124 A2125 A2126(4G) motherboard copperAB",
+    "display_name": "iPxdmini5_820-01495_A2124 A2125 A2126(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini5_820-01591_A2133(WIFI) motherboardAB",
+    "display_name": "iPxdmini5_820-01591_A2133(WIFI) motherboardAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini6 display motherboard copperAB",
+    "display_name": "iPxdmini6 display motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini6_820-02349_A2568 A2569(5G) motherboard copperAB",
+    "display_name": "iPxdmini6_820-02349_A2568 A2569(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini6_820-02482_A2567(WIFI) motherboard copperAB",
+    "display_name": "iPxdmini6_820-02482_A2567(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdmini7_820-03060_A2995 motherboard copperAB",
+    "display_name": "iPxdmini7_820-03060_A2995 motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "iphone/iPhxne6Plus motherboard",
+    "display_name": "iPhxne6Plus motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne6S motherboard",
+    "display_name": "iPhxne6S motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne6SPlus motherboard",
+    "display_name": "iPhxne6SPlus motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne7Plus_Intel motherboard",
+    "display_name": "iPhxne7Plus_Intel motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne7Plus_Qualcomm motherboard",
+    "display_name": "iPhxne7Plus_Qualcomm motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne7_Intel motherboard",
+    "display_name": "iPhxne7_Intel motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne7_Qualcomm motherboard",
+    "display_name": "iPhxne7_Qualcomm motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne8Plus_Qualcomm motherboard",
+    "display_name": "iPhxne8Plus_Qualcomm motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iPhxne8_Qualcomm motherboard",
+    "display_name": "iPhxne8_Qualcomm motherboard",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne11Pro Max motherboard copperAB",
+    "display_name": "iphxne11Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne11Pro motherboard copperAB",
+    "display_name": "iphxne11Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne11 motherboard copperAB",
+    "display_name": "iphxne11_motherboard_copperAB_PCB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne12 motherboard copperAB",
+    "display_name": "iphxne12 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne12Mini motherboard copperAB",
+    "display_name": "iphxne12Mini motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne12Pro Max motherboard copperAB",
+    "display_name": "iphxne12Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne12Pro motherboard copperAB",
+    "display_name": "iphxne12Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne13 motherboard copperAB",
+    "display_name": "iphxne13 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne13Mini motherboard copperAB",
+    "display_name": "iphxne13Mini motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Max motherboard copperAB",
+    "display_name": "iphxne13Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne13Pro motherboard copperAB",
+    "display_name": "iphxne13Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne14 motherboard copperAB",
+    "display_name": "iphxne14 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne14Plus motherboard copperAB",
+    "display_name": "iphxne14Plus motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Max motherboard copperAB",
+    "display_name": "iphxne14Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne14Pro motherboard copperAB",
+    "display_name": "iphxne14Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15 motherboard copperAB",
+    "display_name": "iphxne15 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15Plus motherboard copperAB",
+    "display_name": "iphxne15Plus motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max USA motherboard copperAB",
+    "display_name": "iphxne15Pro Max USA motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max motherboard copperAB",
+    "display_name": "iphxne15Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15Pro USA motherboard copperAB",
+    "display_name": "iphxne15Pro USA motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne15Pro motherboard copperAB",
+    "display_name": "iphxne15Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne16 motherboard copperAB",
+    "display_name": "iphxne16 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne16E motherboard copperAB",
+    "display_name": "iphxne16E motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne16Plus motherboard copperAB",
+    "display_name": "iphxne16Plus motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Max motherboard copperAB",
+    "display_name": "iphxne16Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne16Pro motherboardAB",
+    "display_name": "iphxne16Pro motherboardAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne17 motherboard copperAB",
+    "display_name": "iphxne17 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne17Air motherboard copperAB",
+    "display_name": "iphxne17Air motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne17Pro Max motherboard copperAB",
+    "display_name": "iphxne17Pro Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne17Pro motherboard copperAB",
+    "display_name": "iphxne17Pro motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne8Plus_Intel motherboard copperAB",
+    "display_name": "iphxne8Plus_Intel motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxne8_Intel motherboard copperAB",
+    "display_name": "iphxne8_Intel motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneSE(2020) motherboard copperAB",
+    "display_name": "iphxneSE(2020) motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneSE3 motherboard copperAB",
+    "display_name": "iphxneSE3 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneXR motherboard copperAB",
+    "display_name": "iphxneXR motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneXS Max motherboard copperAB",
+    "display_name": "iphxneXS Max motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneXS motherboard copperAB",
+    "display_name": "iphxneXS motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneX_Intel motherboard copperAB",
+    "display_name": "iphxneX_Intel motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "iphone/iphxneX_Qualcomm motherboard copperAB",
+    "display_name": "iphxneX_Qualcomm motherboard copperAB",
+    "category": "iphone"
+  },
+  {
+    "board_id": "macbook/A1369_820-2838 K16 motherboardAB",
+    "display_name": "A1369_820-2838 K16 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1369_820-3023-A motherboardAB",
+    "display_name": "A1369_820-3023-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1425_820-3462 D1 motherboardAB",
+    "display_name": "A1425_820-3462 D1 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1465_820-00164-A motherboardAB",
+    "display_name": "A1465_820-00164-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1465_820-3435 J41 motherboardAB",
+    "display_name": "A1465_820-3435 J41 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1466_820-00165-A motherboardAB",
+    "display_name": "A1466_820-00165-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1466_820-3209 J13 motherboardAB",
+    "display_name": "A1466_820-3209 J13 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1466_820-3437-B motherboardAB",
+    "display_name": "A1466_820-3437-B motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1502_820-3476-A motherboardAB",
+    "display_name": "A1502_820-3476-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1534_820-00045 J92 motherboardAB",
+    "display_name": "A1534_820-00045 J92 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1534_820-00244 X260 motherboardAB",
+    "display_name": "A1534_820-00244 X260 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1706 820-00923-A motherboard copperAB",
+    "display_name": "A1706 820-00923-A motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1707 820-00281-10 motherboard copperAB",
+    "display_name": "A1707 820-00281-10 motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1708_820-00840-A motherboardAB",
+    "display_name": "A1708_820-00840-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1932_820-01521-A motherboard copperAB",
+    "display_name": "A1932_820-01521-A motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1989 820-00850-A motherboard copperAB",
+    "display_name": "A1989 820-00850-A motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A1990 820-01041-A motherboardAB",
+    "display_name": "A1990 820-01041-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2179_820-01958 J230 motherboardAB",
+    "display_name": "A2179_820-01958 J230 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2179_820-01958-04 motherboard copperAB",
+    "display_name": "A2179_820-01958-04 motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2251 820-01949-A motherboard copperAB",
+    "display_name": "A2251 820-01949-A motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2289_820-01987 J223 motherboardAB",
+    "display_name": "A2289_820-01987 J223 motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2337_820-02016-07 motherboard copperAB",
+    "display_name": "A2337_820-02016-07 motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2681_820-02536-A motherboardAB",
+    "display_name": "A2681_820-02536-A motherboardAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "macbook/A2941_820-03160 motherboard copperAB",
+    "display_name": "A2941_820-03160 motherboard copperAB",
+    "category": "macbook"
+  },
+  {
+    "board_id": "samsung/SX A02 A022F motherboardAB",
+    "display_name": "SX A02 A022F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A02 A022G motherboardAB",
+    "display_name": "SX A02 A022G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A02 A022M motherboardAB",
+    "display_name": "SX A02 A022M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A02 E625F motherboardAB",
+    "display_name": "SX A02 E625F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A02 M625F motherboardAB",
+    "display_name": "SX A02 M625F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A06 A065M motherboardAB",
+    "display_name": "SX A06 A065M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10 A105F motherboardAB",
+    "display_name": "SX A10 A105F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10 A105FN motherboardAB",
+    "display_name": "SX A10 A105FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10 A105G motherboardAB",
+    "display_name": "SX A10 A105G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10 A105M motherboardAB",
+    "display_name": "SX A10 A105M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10 A105N motherboardAB",
+    "display_name": "SX A10 A105N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A10E A102U motherboardAB",
+    "display_name": "SX A10E A102U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A12 A127F motherboardAB",
+    "display_name": "SX A12 A127F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A13 A136B motherboardAB",
+    "display_name": "SX A13 A136B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A13 A137F motherboardAB",
+    "display_name": "SX A13 A137F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A14 A146B motherboardAB",
+    "display_name": "SX A14 A146B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A14 A146M motherboardAB",
+    "display_name": "SX A14 A146M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A14 A146N motherboardAB",
+    "display_name": "SX A14 A146N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205F motherboardAB",
+    "display_name": "SX A20 A205F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205FN motherboardAB",
+    "display_name": "SX A20 A205FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205GN motherboardAB",
+    "display_name": "SX A20 A205GN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205S motherboardAB",
+    "display_name": "SX A20 A205S motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205W motherboardAB",
+    "display_name": "SX A20 A205W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A20 A205YN motherboardAB",
+    "display_name": "SX A20 A205YN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A21S A217F motherboardAB",
+    "display_name": "SX A21S A217F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A21S A217M motherboardAB",
+    "display_name": "SX A21S A217M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A21S A217N motherboardAB",
+    "display_name": "SX A21S A217N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A22 A225F motherboardAB",
+    "display_name": "SX A22 A225F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A22 A225M motherboardAB",
+    "display_name": "SX A22 A225M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A22 A225N motherboardAB",
+    "display_name": "SX A22 A225N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A24 A245F motherboardAB",
+    "display_name": "SX A24 A245F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A24 A245M motherboardAB",
+    "display_name": "SX A24 A245M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A24 A245N motherboardAB",
+    "display_name": "SX A24 A245N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A25 A256U motherboardAB",
+    "display_name": "SX A25 A256U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A25 A256U1 motherboardAB",
+    "display_name": "SX A25 A256U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A3 A320F motherboardAB",
+    "display_name": "SX A3 A320F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30 A305N motherboardAB",
+    "display_name": "SX A30 A305N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30 A305YN motherboardAB",
+    "display_name": "SX A30 A305YN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30S A307FN motherboardAB",
+    "display_name": "SX A30S A307FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30S A307G motherboardAB",
+    "display_name": "SX A30S A307G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30S A307GN motherboardAB",
+    "display_name": "SX A30S A307GN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A30S A307GT motherboardAB",
+    "display_name": "SX A30S A307GT motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A31 A315F motherboardAB",
+    "display_name": "SX A31 A315F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A31 A315G motherboardAB",
+    "display_name": "SX A31 A315G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A31 A315N motherboardAB",
+    "display_name": "SX A31 A315N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A325F motherboardAB",
+    "display_name": "SX A32 A325F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A325G motherboardAB",
+    "display_name": "SX A32 A325G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A325M motherboardAB",
+    "display_name": "SX A32 A325M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326B motherboardAB",
+    "display_name": "SX A32 A326B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326BR motherboardAB",
+    "display_name": "SX A32 A326BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326DL motherboardAB",
+    "display_name": "SX A32 A326DL motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326U motherboardAB",
+    "display_name": "SX A32 A326U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326U1 motherboardAB",
+    "display_name": "SX A32 A326U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A32 A326W motherboardAB",
+    "display_name": "SX A32 A326W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A3360 motherboardAB",
+    "display_name": "SX A33 A3360 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336B motherboardAB",
+    "display_name": "SX A33 A336B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336E_SEA_MEA motherboardAB",
+    "display_name": "SX A33 A336E_SEA_MEA motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336E_SWA motherboardAB",
+    "display_name": "SX A33 A336E_SWA motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336M motherboardAB",
+    "display_name": "SX A33 A336M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336N motherboardAB",
+    "display_name": "SX A33 A336N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A33 A336S motherboardAB",
+    "display_name": "SX A33 A336S motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A34 A3460 motherboardAB",
+    "display_name": "SX A34 A3460 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A34 A346B motherboardAB",
+    "display_name": "SX A34 A346B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A34 A346E motherboardAB",
+    "display_name": "SX A34 A346E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A34 A346M motherboardAB",
+    "display_name": "SX A34 A346M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A34 A346N motherboardAB",
+    "display_name": "SX A34 A346N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A40 A405F motherboardAB",
+    "display_name": "SX A40 A405F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A40 A405FN motherboardAB",
+    "display_name": "SX A40 A405FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A40 A405S motherboardAB",
+    "display_name": "SX A40 A405S motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A40S A3050 motherboard copperAB",
+    "display_name": "SX A40S A3050 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 A4260 motherboardAB",
+    "display_name": "SX A42 A4260 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 A426B motherboardAB",
+    "display_name": "SX A42 A426B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 A426M motherboardAB",
+    "display_name": "SX A42 A426M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 A426U motherboardAB",
+    "display_name": "SX A42 A426U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 A426U1 motherboardAB",
+    "display_name": "SX A42 A426U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A42 S426DL motherboardAB",
+    "display_name": "SX A42 S426DL motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A5 A510F motherboardAB",
+    "display_name": "SX A5 A510F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A5 A520F motherboardAB",
+    "display_name": "SX A5 A520F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505F motherboardAB",
+    "display_name": "SX A50 A505F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505FN motherboardAB",
+    "display_name": "SX A50 A505FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505G motherboardAB",
+    "display_name": "SX A50 A505G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505GN motherboardAB",
+    "display_name": "SX A50 A505GN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505GT motherboardAB",
+    "display_name": "SX A50 A505GT motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505U motherboardAB",
+    "display_name": "SX A50 A505U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50 A505W motherboardAB",
+    "display_name": "SX A50 A505W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50S A5070 motherboardAB",
+    "display_name": "SX A50S A5070 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50S A507FN motherboardAB",
+    "display_name": "SX A50S A507FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A50S A507GN motherboardAB",
+    "display_name": "SX A50S A507GN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A51 A515F motherboardAB",
+    "display_name": "SX A51 A515F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A51 A515FN motherboardAB",
+    "display_name": "SX A51 A515FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A51 A515FT motherboardAB",
+    "display_name": "SX A51 A515FT motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A52 A5260 motherboardAB",
+    "display_name": "SX A52 A5260 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A52 A526B motherboardAB",
+    "display_name": "SX A52 A526B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A52 A526N motherboardAB",
+    "display_name": "SX A52 A526N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A52S A528B motherboardAB",
+    "display_name": "SX A52S A528B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A52S A528N motherboardAB",
+    "display_name": "SX A52S A528N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A53 A5360 motherboardAB",
+    "display_name": "SX A53 A5360 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A53 A536B motherboardAB",
+    "display_name": "SX A53 A536B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A53 A536E motherboardAB",
+    "display_name": "SX A53 A536E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A53 A536N motherboardAB",
+    "display_name": "SX A53 A536N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A6+ A605FN motherboardAB",
+    "display_name": "SX A6+ A605FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A60 A6060 motherboard copperAB",
+    "display_name": "SX A60 A6060 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A7 A710FD motherboardAB",
+    "display_name": "SX A7 A710FD motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A7 A720F motherboardAB",
+    "display_name": "SX A7 A720F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A7 A730F motherboardAB",
+    "display_name": "SX A7 A730F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A7 A750FN motherboardAB",
+    "display_name": "SX A7 A750FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A7050 motherboardAB",
+    "display_name": "SX A70 A7050 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705F motherboardAB",
+    "display_name": "SX A70 A705F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705FN motherboardAB",
+    "display_name": "SX A70 A705FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705GM motherboardAB",
+    "display_name": "SX A70 A705GM motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705MN motherboardAB",
+    "display_name": "SX A70 A705MN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705W motherboardAB",
+    "display_name": "SX A70 A705W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A70 A705YN motherboardAB",
+    "display_name": "SX A70 A705YN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A72 A725F motherboardAB",
+    "display_name": "SX A72 A725F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A72 A725M motherboardAB",
+    "display_name": "SX A72 A725M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A8 A530F motherboardAB",
+    "display_name": "SX A8 A530F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A80 A8050 motherboardAB",
+    "display_name": "SX A80 A8050 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A80 A805F motherboardAB",
+    "display_name": "SX A80 A805F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A80 A805N motherboardAB",
+    "display_name": "SX A80 A805N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX A9 A920F motherboardAB",
+    "display_name": "SX A9 A920F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX F12 F127FG motherboardAB",
+    "display_name": "SX F12 F127FG motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX F13 E135F motherboardAB",
+    "display_name": "SX F13 E135F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX F41 F415 motherboardAB",
+    "display_name": "SX F41 F415 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX F9000Fold motherboard copperAB",
+    "display_name": "SX F9000Fold motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold F9000 motherboardAB",
+    "display_name": "SX Fold F9000 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold F900D motherboardAB",
+    "display_name": "SX Fold F900D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold F900F motherboardAB",
+    "display_name": "SX Fold F900F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold F900J motherboardAB",
+    "display_name": "SX Fold F900J motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold F900U motherboardAB",
+    "display_name": "SX Fold F900U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold5 F9460 motherboardAB",
+    "display_name": "SX Fold5 F9460 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold6 F9560 motherboardAB",
+    "display_name": "SX Fold6 F9560 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold6 F956B motherboardAB",
+    "display_name": "SX Fold6 F956B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold6 F956U motherboardAB",
+    "display_name": "SX Fold6 F956U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Fold6 F956W motherboardAB",
+    "display_name": "SX Fold6 F956W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M02 M022F motherboardAB",
+    "display_name": "SX M02 M022F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M02 M022G motherboardAB",
+    "display_name": "SX M02 M022G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M02 M022M motherboardAB",
+    "display_name": "SX M02 M022M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M04 M045F motherboardAB",
+    "display_name": "SX M04 M045F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M12 M125F motherboardAB",
+    "display_name": "SX M12 M125F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M12 M127F motherboardAB",
+    "display_name": "SX M12 M127F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M12 M127G motherboardAB",
+    "display_name": "SX M12 M127G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M13 M135F motherboardAB",
+    "display_name": "SX M13 M135F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M13 M135M motherboardAB",
+    "display_name": "SX M13 M135M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M20 M205F motherboardAB",
+    "display_name": "SX M20 M205F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M20 M205FN motherboardAB",
+    "display_name": "SX M20 M205FN motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M20 M205G motherboardAB",
+    "display_name": "SX M20 M205G motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M20 M205M motherboardAB",
+    "display_name": "SX M20 M205M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M32 M225F motherboardAB",
+    "display_name": "SX M32 M225F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M32 M225FV motherboardAB",
+    "display_name": "SX M32 M225FV motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M32 M325F motherboardAB",
+    "display_name": "SX M32 M325F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M32 M325FV motherboardAB",
+    "display_name": "SX M32 M325FV motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M33 M336B motherboardAB",
+    "display_name": "SX M33 M336B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M33 M336BU motherboardAB",
+    "display_name": "SX M33 M336BU motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M33 M336K motherboardAB",
+    "display_name": "SX M33 M336K motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M52 M526B motherboardAB",
+    "display_name": "SX M52 M526B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M52 M526BR motherboardAB",
+    "display_name": "SX M52 M526BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX M53 M536B motherboardAB",
+    "display_name": "SX M53 M536B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note10 N970F motherboardAB",
+    "display_name": "SX Note10 N970F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note10+ N976B motherboardAB",
+    "display_name": "SX Note10+ N976B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note10Lite N770F motherboardAB",
+    "display_name": "SX Note10Lite N770F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20 N980F motherboardAB",
+    "display_name": "SX Note20 N980F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20 N981B motherboardAB",
+    "display_name": "SX Note20 N981B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20 N981BR motherboardAB",
+    "display_name": "SX Note20 N981BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20 N981U motherboard copperAB",
+    "display_name": "SX Note20 N981U motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N985F motherboardAB",
+    "display_name": "SX Note20Ultra N985F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N9860 motherboardAB",
+    "display_name": "SX Note20Ultra N9860 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986B motherboardAB",
+    "display_name": "SX Note20Ultra N986B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986BR motherboardAB",
+    "display_name": "SX Note20Ultra N986BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986D motherboardAB",
+    "display_name": "SX Note20Ultra N986D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986N motherboardAB",
+    "display_name": "SX Note20Ultra N986N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986U motherboardAB",
+    "display_name": "SX Note20Ultra N986U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note20Ultra N986W motherboardAB",
+    "display_name": "SX Note20Ultra N986W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note4 N910C motherboardAB",
+    "display_name": "SX Note4 N910C motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note4 N910F motherboardAB",
+    "display_name": "SX Note4 N910F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note5 N920C motherboardAB",
+    "display_name": "SX Note5 N920C motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note8 N950D motherboardAB",
+    "display_name": "SX Note8 N950D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note8 N950F motherboardAB",
+    "display_name": "SX Note8 N950F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note8 N950U motherboardAB",
+    "display_name": "SX Note8 N950U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Note9 N960F motherboardAB",
+    "display_name": "SX Note9 N960F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S10 G970F motherboardAB",
+    "display_name": "SX S10 G970F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S10 G973F motherboardAB",
+    "display_name": "SX S10 G973F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S10+ G9750 motherboardAB",
+    "display_name": "SX S10+ G9750 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S10+ G975F motherboardAB",
+    "display_name": "SX S10+ G975F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S10+ G975U motherboardAB",
+    "display_name": "SX S10+ G975U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G980F motherboardAB",
+    "display_name": "SX S20 G980F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G9810 motherboard copperAB",
+    "display_name": "SX S20 G9810 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G981B motherboardAB",
+    "display_name": "SX S20 G981B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G981N motherboard copperAB",
+    "display_name": "SX S20 G981N motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G981U motherboard copperAB",
+    "display_name": "SX S20 G981U motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G981V motherboardAB",
+    "display_name": "SX S20 G981V motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20 G981W motherboard copperAB",
+    "display_name": "SX S20 G981W motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G985F motherboardAB",
+    "display_name": "SX S20+ G985F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G9860 motherboard copperAB",
+    "display_name": "SX S20+ G9860 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G986B motherboardAB",
+    "display_name": "SX S20+ G986B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G986BR motherboardAB",
+    "display_name": "SX S20+ G986BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G986N motherboard copperAB",
+    "display_name": "SX S20+ G986N motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G986U motherboard copperAB",
+    "display_name": "SX S20+ G986U motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20+ G986W motherboard copperAB",
+    "display_name": "SX S20+ G986W motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20FE G781U motherboardAB",
+    "display_name": "SX S20FE G781U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20FE G781U1 motherboardAB",
+    "display_name": "SX S20FE G781U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20FE G781V motherboardAB",
+    "display_name": "SX S20FE G781V motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20FE G781W motherboardAB",
+    "display_name": "SX S20FE G781W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20Ultra G988B motherboardAB",
+    "display_name": "SX S20Ultra G988B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20Ultra G988BR motherboardAB",
+    "display_name": "SX S20Ultra G988BR motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S20Ultra G988U motherboardAB",
+    "display_name": "SX S20Ultra G988U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G990F motherboardAB",
+    "display_name": "SX S21 G990F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G9910 motherboardAB",
+    "display_name": "SX S21 G9910 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991B motherboardAB",
+    "display_name": "SX S21 G991B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991D motherboardAB",
+    "display_name": "SX S21 G991D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991N motherboardAB",
+    "display_name": "SX S21 G991N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991U motherboardAB",
+    "display_name": "SX S21 G991U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991U1 motherboardAB",
+    "display_name": "SX S21 G991U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21 G991W motherboardAB",
+    "display_name": "SX S21 G991W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21+ G9960 motherboard copperAB",
+    "display_name": "SX S21+ G9960 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21+ G996D motherboard copperAB",
+    "display_name": "SX S21+ G996D motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21+ G996U motherboard copperAB",
+    "display_name": "SX S21+ G996U motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21+ G996U1 motherboard copperAB",
+    "display_name": "SX S21+ G996U1 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21+ G996W motherboard copperAB",
+    "display_name": "SX S21+ G996W motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G9900 motherboardAB",
+    "display_name": "SX S21FE G9900 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G990B motherboardAB",
+    "display_name": "SX S21FE G990B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G990E motherboardAB",
+    "display_name": "SX S21FE G990E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G990U motherboardAB",
+    "display_name": "SX S21FE G990U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G990U1 motherboardAB",
+    "display_name": "SX S21FE G990U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21FE G990W motherboardAB",
+    "display_name": "SX S21FE G990W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Plus G996B motherboardAB",
+    "display_name": "SX S21Plus G996B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Plus G996N motherboardAB",
+    "display_name": "SX S21Plus G996N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G9980 motherboardAB",
+    "display_name": "SX S21Ultra G9980 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998B motherboardAB",
+    "display_name": "SX S21Ultra G998B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998D motherboardAB",
+    "display_name": "SX S21Ultra G998D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998N motherboardAB",
+    "display_name": "SX S21Ultra G998N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998U motherboardAB",
+    "display_name": "SX S21Ultra G998U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998U1 motherboardAB",
+    "display_name": "SX S21Ultra G998U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S21Ultra G998W motherboardAB",
+    "display_name": "SX S21Ultra G998W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22 S901E motherboardAB",
+    "display_name": "SX S22 S901E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22 S901U motherboardAB",
+    "display_name": "SX S22 S901U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22+ S906B motherboardAB",
+    "display_name": "SX S22+ S906B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22+ S906BE motherboardAB",
+    "display_name": "SX S22+ S906BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Plus S906E motherboardAB",
+    "display_name": "SX S22Plus S906E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Plus S906U motherboardAB",
+    "display_name": "SX S22Plus S906U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S9080 motherboardAB",
+    "display_name": "SX S22Ultra S9080 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908B motherboardAB",
+    "display_name": "SX S22Ultra S908B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908BE motherboardAB",
+    "display_name": "SX S22Ultra S908BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908D motherboardAB",
+    "display_name": "SX S22Ultra S908D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908E motherboardAB",
+    "display_name": "SX S22Ultra S908E motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908U motherboardAB",
+    "display_name": "SX S22Ultra S908U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S22Ultra S908W motherboardAB",
+    "display_name": "SX S22Ultra S908W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23 S911B motherboardAB",
+    "display_name": "SX S23 S911B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23 S911BE motherboardAB",
+    "display_name": "SX S23 S911BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23 S911U motherboardAB",
+    "display_name": "SX S23 S911U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23+ S916U motherboardAB",
+    "display_name": "SX S23+ S916U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23+ S916W motherboardAB",
+    "display_name": "SX S23+ S916W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23FE S711B motherboardAB",
+    "display_name": "SX S23FE S711B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23FE S711BE motherboardAB",
+    "display_name": "SX S23FE S711BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23Plus S916B motherboardAB",
+    "display_name": "SX S23Plus S916B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23Plus S916BE motherboardAB",
+    "display_name": "SX S23Plus S916BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23Ultra S918B motherboardAB",
+    "display_name": "SX S23Ultra S918B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23Ultra S918U motherboardAB",
+    "display_name": "SX S23Ultra S918U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S23Ultra S918W motherboardAB",
+    "display_name": "SX S23Ultra S918W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24 S921U motherboardAB",
+    "display_name": "SX S24 S921U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24+ S926U motherboardAB",
+    "display_name": "SX S24+ S926U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24Ultra S9280 motherboardAB",
+    "display_name": "SX S24Ultra S9280 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24Ultra S928D motherboardAB",
+    "display_name": "SX S24Ultra S928D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24Ultra S928U motherboardAB",
+    "display_name": "SX S24Ultra S928U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S24Ultra S928W motherboardAB",
+    "display_name": "SX S24Ultra S928W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6 G920A motherboardAB",
+    "display_name": "SX S6 G920A motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6 G920F motherboardAB",
+    "display_name": "SX S6 G920F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6 G925F motherboardAB",
+    "display_name": "SX S6 G925F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6 G928F motherboardAB",
+    "display_name": "SX S6 G928F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6 G928X motherboardAB",
+    "display_name": "SX S6 G928X motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S6E+ G928A motherboardAB",
+    "display_name": "SX S6E+ G928A motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S7 G930FD motherboardAB",
+    "display_name": "SX S7 G930FD motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S7 G930V motherboardAB",
+    "display_name": "SX S7 G930V motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S7E G935F motherboardAB",
+    "display_name": "SX S7E G935F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S8 G950F motherboardAB",
+    "display_name": "SX S8 G950F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S8 G950U motherboardAB",
+    "display_name": "SX S8 G950U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S8 G955U motherboardAB",
+    "display_name": "SX S8 G955U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S8+ G955D motherboardAB",
+    "display_name": "SX S8+ G955D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S8+ G955F motherboardAB",
+    "display_name": "SX S8+ G955F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S9 G960D motherboardAB",
+    "display_name": "SX S9 G960D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S9 G960F motherboardAB",
+    "display_name": "SX S9 G960F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S9 G960U motherboardAB",
+    "display_name": "SX S9 G960U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S9+ G965F motherboardAB",
+    "display_name": "SX S9+ G965F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX S9+ G965U motherboardAB",
+    "display_name": "SX S9+ G965U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX W2016 motherboard copperAB",
+    "display_name": "SX W2016 motherboard copperAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX W22 W2022 motherboardAB",
+    "display_name": "SX W22 W2022 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX W23 W9023 motherboardAB",
+    "display_name": "SX W23 W9023 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX W24 W9024 motherboardAB",
+    "display_name": "SX W24 W9024 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip F7000 motherboardAB",
+    "display_name": "SX Z Flip F7000 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip F700F motherboardAB",
+    "display_name": "SX Z Flip F700F motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip F700J motherboardAB",
+    "display_name": "SX Z Flip F700J motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip F700M motherboardAB",
+    "display_name": "SX Z Flip F700M motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip F700U motherboardAB",
+    "display_name": "SX Z Flip F700U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F711U motherboardAB",
+    "display_name": "SX Z Flip3 F711U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F711W motherboardAB",
+    "display_name": "SX Z Flip3 F711W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F7210 motherboardAB",
+    "display_name": "SX Z Flip4 F7210 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721B motherboardAB",
+    "display_name": "SX Z Flip4 F721B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721BE motherboardAB",
+    "display_name": "SX Z Flip4 F721BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721D motherboardAB",
+    "display_name": "SX Z Flip4 F721D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721N motherboardAB",
+    "display_name": "SX Z Flip4 F721N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721U motherboardAB",
+    "display_name": "SX Z Flip4 F721U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip4 F721W motherboardAB",
+    "display_name": "SX Z Flip4 F721W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip5 F731B motherboardAB",
+    "display_name": "SX Z Flip5 F731B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip5 F731BE motherboardAB",
+    "display_name": "SX Z Flip5 F731BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip5 F731U motherboardAB",
+    "display_name": "SX Z Flip5 F731U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Flip5 F731W motherboardAB",
+    "display_name": "SX Z Flip5 F731W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F9260 motherboardAB",
+    "display_name": "SX Z Fold3 F9260 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926B motherboardAB",
+    "display_name": "SX Z Fold3 F926B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926D motherboardAB",
+    "display_name": "SX Z Fold3 F926D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926N motherboardAB",
+    "display_name": "SX Z Fold3 F926N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926U motherboardAB",
+    "display_name": "SX Z Fold3 F926U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926U1 motherboardAB",
+    "display_name": "SX Z Fold3 F926U1 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold3 F926W motherboardAB",
+    "display_name": "SX Z Fold3 F926W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F9360 motherboardAB",
+    "display_name": "SX Z Fold4 F9360 motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936B motherboardAB",
+    "display_name": "SX Z Fold4 F936B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936BE motherboardAB",
+    "display_name": "SX Z Fold4 F936BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936C motherboardAB",
+    "display_name": "SX Z Fold4 F936C motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936D motherboardAB",
+    "display_name": "SX Z Fold4 F936D motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936N motherboardAB",
+    "display_name": "SX Z Fold4 F936N motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936U motherboardAB",
+    "display_name": "SX Z Fold4 F936U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold4 F936W motherboardAB",
+    "display_name": "SX Z Fold4 F936W motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold5 F946B motherboardAB",
+    "display_name": "SX Z Fold5 F946B motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold5 F946BE motherboardAB",
+    "display_name": "SX Z Fold5 F946BE motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold5 F946U motherboardAB",
+    "display_name": "SX Z Fold5 F946U motherboardAB",
+    "category": "samsung"
+  },
+  {
+    "board_id": "samsung/SX Z Fold5 F946W motherboardAB",
+    "display_name": "SX Z Fold5 F946W motherboardAB",
+    "category": "samsung"
+  }
+]
