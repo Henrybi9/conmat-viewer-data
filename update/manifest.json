@@ -1,5 +1,5 @@
 {
-  "data_version": 3,
+  "data_version": 4,
   "files": {
     "board_index.json": {
       "sha256": "a3d1a85551ae24e80f42ef435629cf467934aa68f3a84279f4706b313f872a20",
@@ -7,8 +7,8 @@
     }
   },
   "app": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "asset": "CON_MAT_Viewer.zip",
-    "notes": "Ban dau tien - he thong tai khoan + license qua Firebase"
+    "notes": "Va bao mat: gioi han toc do xin khoa, chu ky app, log IP. Sua loi crash khi dong goi (encoding tieng Viet)."
   }
 }
