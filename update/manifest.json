@@ -1,5 +1,5 @@
 {
-  "data_version": 5,
+  "data_version": 6,
   "files": {
     "board_index.json": {
       "sha256": "a3d1a85551ae24e80f42ef435629cf467934aa68f3a84279f4706b313f872a20",
@@ -7,8 +7,8 @@
     }
   },
   "app": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "asset": "CON_MAT_Viewer.zip",
-    "notes": "Dang ky tai khoan che do duyet tay qua Telegram - chi mo cho nhom nho test truoc."
+    "notes": "Tu dong do cap nhat dinh ky moi 15 phut ngay ca khi app dang mo san, khong can dong/mo lai hay bam tay."
   }
 }
