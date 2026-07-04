@@ -1,5 +1,5 @@
 {
-  "data_version": 7,
+  "data_version": 9,
   "files": {
     "board_index.json": {
       "sha256": "a3d1a85551ae24e80f42ef435629cf467934aa68f3a84279f4706b313f872a20",
@@ -7,8 +7,8 @@
     }
   },
   "app": {
-    "version": "1.0.4",
-    "asset": "CON_MAT_Viewer.zip",
-    "notes": "Hien so phien ban trong thong bao 'dang dung ban moi nhat'."
+    "version": "1.1.0",
+    "asset": "VNboards.zip",
+    "notes": "Doi ten VNboards + can chinh ten linh kien chinh xac hon (snap tam o vien)"
   }
 }
