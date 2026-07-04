@@ -1,5 +1,5 @@
 {
-  "data_version": 9,
+  "data_version": 10,
   "files": {
     "board_index.json": {
       "sha256": "a3d1a85551ae24e80f42ef435629cf467934aa68f3a84279f4706b313f872a20",
@@ -7,8 +7,8 @@
     }
   },
   "app": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "asset": "VNboards.zip",
-    "notes": "Doi ten VNboards + can chinh ten linh kien chinh xac hon (snap tam o vien)"
+    "notes": "Hien ten dang nhap trong giao dien (tin hieu bao mat), Quen mat khau qua Telegram, khung Lien he 2 chieu qua Telegram"
   }
 }
