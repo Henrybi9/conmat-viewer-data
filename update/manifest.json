@@ -6,5 +6,10 @@
       "sha256": "10622e5340c81c4324ed564697945e848d4c22f44506d5bb8da0dcb10f118645",
       "size": 69903
     }
+  },
+  "app": {
+    "version": "1.2.1",
+    "asset": "VNboards.zip",
+    "notes": "Cache ciphertext cuc bo theo phien ban board - giam tai lai du lieu Firebase khi mo lai board da xem"
   }
 }
