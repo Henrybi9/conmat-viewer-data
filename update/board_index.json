@@ -690,6 +690,11 @@
     "category": "macbook"
   },
   {
+    "board_id": "macbook/A2251_820-01949-05 motherboardAB",
+    "display_name": "A2251_820-01949-05 motherboardAB",
+    "category": "macbook"
+  },
+  {
     "board_id": "macbook/A2289_820-01987 J223 motherboardAB",
     "display_name": "A2289_820-01987 J223 motherboardAB",
     "category": "macbook"
