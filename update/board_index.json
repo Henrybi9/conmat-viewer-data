@@ -2333,5 +2333,10 @@
     "board_id": "samsung/SX Z Fold5 F946W motherboardAB",
     "display_name": "SX Z Fold5 F946W motherboardAB",
     "category": "samsung"
+  },
+  {
+    "board_id": "unclassified/OPP A1 Pro motherboardAB",
+    "display_name": "OPP A1 Pro motherboardAB",
+    "category": "unclassified"
   }
 ]
