@@ -1,5 +1,10 @@
 [
   {
+    "board_id": "OPP/OPP A1 Pro motherboardAB",
+    "display_name": "OPP A1 Pro motherboardAB",
+    "category": "OPP"
+  },
+  {
     "board_id": "ipad/iPxd10_820-02772_A2757 A2777 A3162(5G) motherboard copperAB",
     "display_name": "iPxd10_820-02772_A2757 A2777 A3162(5G) motherboard copperAB",
     "category": "ipad"
@@ -2333,10 +2338,5 @@
     "board_id": "samsung/SX Z Fold5 F946W motherboardAB",
     "display_name": "SX Z Fold5 F946W motherboardAB",
     "category": "samsung"
-  },
-  {
-    "board_id": "unclassified/OPP A1 Pro motherboardAB",
-    "display_name": "OPP A1 Pro motherboardAB",
-    "category": "unclassified"
   }
 ]
