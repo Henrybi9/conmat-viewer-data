@@ -1,5 +1,2900 @@
 [
   {
+    "board_id": "ASUS/ASUS Rog5 motherboard copperAB",
+    "display_name": "ASUS Rog5 motherboard copperAB",
+    "category": "ASUS"
+  },
+  {
+    "board_id": "Car_keys/BMW big full smart card motherboardAB",
+    "display_name": "BMW big full smart card motherboardAB",
+    "category": "Car_keys"
+  },
+  {
+    "board_id": "Car_keys/BMW small full smart card motherboardAB",
+    "display_name": "BMW small full smart card motherboardAB",
+    "category": "Car_keys"
+  },
+  {
+    "board_id": "Car_keys/Test2 motherboard copperAB",
+    "display_name": "Test2 motherboard copperAB",
+    "category": "Car_keys"
+  },
+  {
+    "board_id": "Game/Switch Lite motherboard copperAB",
+    "display_name": "Switch Lite motherboard copperAB",
+    "category": "Game"
+  },
+  {
+    "board_id": "Game/Switch Long endurance motherboard copperAB",
+    "display_name": "Switch Long endurance motherboard copperAB",
+    "category": "Game"
+  },
+  {
+    "board_id": "Game/Switch NS motherboard copperAB",
+    "display_name": "Switch NS motherboard copperAB",
+    "category": "Game"
+  },
+  {
+    "board_id": "Game/Switch Oled motherboard copperAB",
+    "display_name": "Switch Oled motherboard copperAB",
+    "category": "Game"
+  },
+  {
+    "board_id": "Golge/Golge Pixel6 motherboard copperAB",
+    "display_name": "Golge Pixel6 motherboard copperAB",
+    "category": "Golge"
+  },
+  {
+    "board_id": "HONORY/HONORY 10 motherboardAB",
+    "display_name": "HONORY 10 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 100 motherboardAB",
+    "display_name": "HONORY 100 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 10Youth motherboardAB",
+    "display_name": "HONORY 10Youth motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20 motherboardAB",
+    "display_name": "HONORY 20 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 200 motherboard copperAB",
+    "display_name": "HONORY 200 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 200Pro motherboard copperAB",
+    "display_name": "HONORY 200Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20Pro motherboardAB",
+    "display_name": "HONORY 20Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20S motherboardAB",
+    "display_name": "HONORY 20S motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20Youth motherboardAB",
+    "display_name": "HONORY 20Youth motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20iVer1 motherboardAB",
+    "display_name": "HONORY 20iVer1 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 20iVer2 motherboardAB",
+    "display_name": "HONORY 20iVer2 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 300 motherboard copperAB",
+    "display_name": "HONORY 300 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 300Pro motherboard copperAB",
+    "display_name": "HONORY 300Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 300Ultra motherboard copperAB",
+    "display_name": "HONORY 300Ultra motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 30Pro motherboardAB",
+    "display_name": "HONORY 30Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 30S motherboardAB",
+    "display_name": "HONORY 30S motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 30Youth motherboardAB",
+    "display_name": "HONORY 30Youth motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 30_5G motherboardAB",
+    "display_name": "HONORY 30_5G motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 400 motherboard copperAB",
+    "display_name": "HONORY 400 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 400Pro motherboard copperAB",
+    "display_name": "HONORY 400Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 50 motherboardAB",
+    "display_name": "HONORY 50 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 500 motherboard copperAB",
+    "display_name": "HONORY 500 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 50HN3 motherboardAB",
+    "display_name": "HONORY 50HN3 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 50Pro HN3 motherboardAB",
+    "display_name": "HONORY 50Pro HN3 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 50Pro motherboardAB",
+    "display_name": "HONORY 50Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 50SE motherboardAB",
+    "display_name": "HONORY 50SE motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 60 motherboardAB",
+    "display_name": "HONORY 60 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 60HN2 motherboardAB",
+    "display_name": "HONORY 60HN2 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 60Pro motherboardAB",
+    "display_name": "HONORY 60Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 60SE motherboardAB",
+    "display_name": "HONORY 60SE motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 70 motherboardAB",
+    "display_name": "HONORY 70 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 70Pro motherboardAB",
+    "display_name": "HONORY 70Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 70Pro+ motherboardAB",
+    "display_name": "HONORY 70Pro+ motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 8 motherboardAB",
+    "display_name": "HONORY 8 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 80 motherboardAB",
+    "display_name": "HONORY 80 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 80GT motherboardAB",
+    "display_name": "HONORY 80GT motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 80HN1 motherboardAB",
+    "display_name": "HONORY 80HN1 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 80Pro motherboardAB",
+    "display_name": "HONORY 80Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 80SE motherboardAB",
+    "display_name": "HONORY 80SE motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 8X Max motherboardAB",
+    "display_name": "HONORY 8X Max motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 8X motherboardAB",
+    "display_name": "HONORY 8X motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 8Youth motherboardAB",
+    "display_name": "HONORY 8Youth motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 90 motherboardAB",
+    "display_name": "HONORY 90 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 90GT motherboard copperAB",
+    "display_name": "HONORY 90GT motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 90Pro motherboardAB",
+    "display_name": "HONORY 90Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 9X motherboardAB",
+    "display_name": "HONORY 9X motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 9XPro motherboardAB",
+    "display_name": "HONORY 9XPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY 9Youth motherboardAB",
+    "display_name": "HONORY 9Youth motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan20 motherboardAB",
+    "display_name": "HONORY ChangWan20 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan20Pro motherboardAB",
+    "display_name": "HONORY ChangWan20Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan30 motherboardAB",
+    "display_name": "HONORY ChangWan30 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan30M motherboardAB",
+    "display_name": "HONORY ChangWan30M motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan30Plus motherboardAB",
+    "display_name": "HONORY ChangWan30Plus motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan40 motherboardAB",
+    "display_name": "HONORY ChangWan40 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan40Plus motherboardAB",
+    "display_name": "HONORY ChangWan40Plus motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan50Plus motherboard copperAB",
+    "display_name": "HONORY ChangWan50Plus motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan60 motherboard copperAB",
+    "display_name": "HONORY ChangWan60 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan60Plus motherboardAB",
+    "display_name": "HONORY ChangWan60Plus motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan7 motherboardAB",
+    "display_name": "HONORY ChangWan7 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan7A motherboardAB",
+    "display_name": "HONORY ChangWan7A motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan8A motherboardAB",
+    "display_name": "HONORY ChangWan8A motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY ChangWan8C motherboardAB",
+    "display_name": "HONORY ChangWan8C motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY GTPro motherboard copperAB",
+    "display_name": "HONORY GTPro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V Flip motherboard copperAB",
+    "display_name": "HONORY Magic V Flip motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V motherboardAB",
+    "display_name": "HONORY Magic V motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V2 motherboard copperAB",
+    "display_name": "HONORY Magic V2 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V3 motherboard copperAB",
+    "display_name": "HONORY Magic V3 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V5 motherboard copperAB",
+    "display_name": "HONORY Magic V5 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic VS motherboardAB",
+    "display_name": "HONORY Magic VS motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic VS2 motherboard copperAB",
+    "display_name": "HONORY Magic VS2 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic VS3 motherboard copperAB",
+    "display_name": "HONORY Magic VS3 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic motherboardAB",
+    "display_name": "HONORY Magic motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic2 motherboardAB",
+    "display_name": "HONORY Magic2 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic3 Perfection motherboardAB",
+    "display_name": "HONORY Magic3 Perfection motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic4 Perfection motherboardAB",
+    "display_name": "HONORY Magic4 Perfection motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic4 motherboardAB",
+    "display_name": "HONORY Magic4 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic4Pro motherboardAB",
+    "display_name": "HONORY Magic4Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic5 motherboardAB",
+    "display_name": "HONORY Magic5 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic5Pro motherboardAB",
+    "display_name": "HONORY Magic5Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic6Pro motherboard copperAB",
+    "display_name": "HONORY Magic6Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic7 motherboard copperAB",
+    "display_name": "HONORY Magic7 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Magic7Pro motherboard copperAB",
+    "display_name": "HONORY Magic7Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Note10 motherboardAB",
+    "display_name": "HONORY Note10 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Note8 motherboardAB",
+    "display_name": "HONORY Note8 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play motherboardAB",
+    "display_name": "HONORY Play motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play3 motherboardAB",
+    "display_name": "HONORY Play3 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play4 motherboardAB",
+    "display_name": "HONORY Play4 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play4Pro motherboardAB",
+    "display_name": "HONORY Play4Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play4T motherboardAB",
+    "display_name": "HONORY Play4T motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play4TPro motherboardAB",
+    "display_name": "HONORY Play4TPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play5 motherboardAB",
+    "display_name": "HONORY Play5 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play5T motherboardAB",
+    "display_name": "HONORY Play5T motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play5T vitality motherboardAB",
+    "display_name": "HONORY Play5T vitality motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play5TPro motherboardAB",
+    "display_name": "HONORY Play5TPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play6C motherboardAB",
+    "display_name": "HONORY Play6C motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play6T motherboardAB",
+    "display_name": "HONORY Play6T motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play6TPro motherboardAB",
+    "display_name": "HONORY Play6TPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play7T motherboardAB",
+    "display_name": "HONORY Play7T motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play7TPro motherboardAB",
+    "display_name": "HONORY Play7TPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play8T motherboard copperAB",
+    "display_name": "HONORY Play8T motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Play8TPro motherboardAB",
+    "display_name": "HONORY Play8TPro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Power motherboard copperAB",
+    "display_name": "HONORY Power motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY Power2 motherboard copperAB",
+    "display_name": "HONORY Power2 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V10 motherboardAB",
+    "display_name": "HONORY V10 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V20 motherboardAB",
+    "display_name": "HONORY V20 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V30 motherboardAB",
+    "display_name": "HONORY V30 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V30Pro motherboardAB",
+    "display_name": "HONORY V30Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V40 Light luxury motherboardAB",
+    "display_name": "HONORY V40 Light luxury motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V40 motherboardAB",
+    "display_name": "HONORY V40 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V9 motherboardAB",
+    "display_name": "HONORY V9 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY V9Play motherboardAB",
+    "display_name": "HONORY V9Play motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X10 motherboardAB",
+    "display_name": "HONORY X10 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X10Max motherboardAB",
+    "display_name": "HONORY X10Max motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X20 motherboardAB",
+    "display_name": "HONORY X20 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X20SE motherboardAB",
+    "display_name": "HONORY X20SE motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X20SEVer2 motherboard copperAB",
+    "display_name": "HONORY X20SEVer2 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X30 motherboardAB",
+    "display_name": "HONORY X30 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X30Max motherboardAB",
+    "display_name": "HONORY X30Max motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X30i motherboardAB",
+    "display_name": "HONORY X30i motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X40 motherboardAB",
+    "display_name": "HONORY X40 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X40GT motherboardAB",
+    "display_name": "HONORY X40GT motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X40i motherboardAB",
+    "display_name": "HONORY X40i motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X50 motherboardAB",
+    "display_name": "HONORY X50 motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X50GT motherboard copperAB",
+    "display_name": "HONORY X50GT motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X50Pro motherboard copperAB",
+    "display_name": "HONORY X50Pro motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X50i motherboardAB",
+    "display_name": "HONORY X50i motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X60 motherboard copperAB",
+    "display_name": "HONORY X60 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X60Pro motherboardAB",
+    "display_name": "HONORY X60Pro motherboardAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X60i motherboard copperAB",
+    "display_name": "HONORY X60i motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X70 motherboard copperAB",
+    "display_name": "HONORY X70 motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HONORY/HONORY X70i motherboard copperAB",
+    "display_name": "HONORY X70i motherboard copperAB",
+    "category": "HONORY"
+  },
+  {
+    "board_id": "HW/HW ChangXiang10 motherboardAB",
+    "display_name": "HW ChangXiang10 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang10E motherboardAB",
+    "display_name": "HW ChangXiang10E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang10Plus motherboardAB",
+    "display_name": "HW ChangXiang10Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang10S motherboardAB",
+    "display_name": "HW ChangXiang10S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang20 motherboardAB",
+    "display_name": "HW ChangXiang20 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang20E motherboardAB",
+    "display_name": "HW ChangXiang20E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang20Plus motherboardAB",
+    "display_name": "HW ChangXiang20Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang20Pro motherboardAB",
+    "display_name": "HW ChangXiang20Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang20SE motherboardAB",
+    "display_name": "HW ChangXiang20SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang50 motherboardAB",
+    "display_name": "HW ChangXiang50 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang50Pro motherboardAB",
+    "display_name": "HW ChangXiang50Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang50Z motherboardAB",
+    "display_name": "HW ChangXiang50Z motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang60 motherboardAB",
+    "display_name": "HW ChangXiang60 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang60Pro motherboardAB",
+    "display_name": "HW ChangXiang60Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang60X motherboardAB",
+    "display_name": "HW ChangXiang60X motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang70 motherboardAB",
+    "display_name": "HW ChangXiang70 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang70Pro motherboard copperAB",
+    "display_name": "HW ChangXiang70Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang70S motherboardAB",
+    "display_name": "HW ChangXiang70S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang70X motherboardAB",
+    "display_name": "HW ChangXiang70X motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang70Z motherboardAB",
+    "display_name": "HW ChangXiang70Z motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang7Plus motherboardAB",
+    "display_name": "HW ChangXiang7Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang7S motherboardAB",
+    "display_name": "HW ChangXiang7S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang8 motherboardAB",
+    "display_name": "HW ChangXiang8 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang80 motherboard copperAB",
+    "display_name": "HW ChangXiang80 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang8E motherboardAB",
+    "display_name": "HW ChangXiang8E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang8Plus motherboardAB",
+    "display_name": "HW ChangXiang8Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang9 motherboardAB",
+    "display_name": "HW ChangXiang9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang9E motherboardAB",
+    "display_name": "HW ChangXiang9E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang9P motherboardAB",
+    "display_name": "HW ChangXiang9P motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang9Plus motherboardAB",
+    "display_name": "HW ChangXiang9Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiang9S motherboardAB",
+    "display_name": "HW ChangXiang9S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiangMax motherboardAB",
+    "display_name": "HW ChangXiangMax motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW ChangXiangZ_5G motherboardAB",
+    "display_name": "HW ChangXiangZ_5G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi ChangXiang60 motherboardAB",
+    "display_name": "HW Hi ChangXiang60 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi ChangXiang60Pro motherboardAB",
+    "display_name": "HW Hi ChangXiang60Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi ChangXiang60S motherboardAB",
+    "display_name": "HW Hi ChangXiang60S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi ChangXiang70Plus motherboardAB",
+    "display_name": "HW Hi ChangXiang70Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi ChangXiang70Pro motherboardAB",
+    "display_name": "HW Hi ChangXiang70Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova10 motherboardAB",
+    "display_name": "HW Hi Nova10 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova10Pro motherboardAB",
+    "display_name": "HW Hi Nova10Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova11 motherboardAB",
+    "display_name": "HW Hi Nova11 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova9 motherboardAB",
+    "display_name": "HW Hi Nova9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova9Pro motherboardAB",
+    "display_name": "HW Hi Nova9Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Hi Nova9SE motherboardAB",
+    "display_name": "HW Hi Nova9SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang10 motherboardAB",
+    "display_name": "HW MaiMang10 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang10SE motherboardAB",
+    "display_name": "HW MaiMang10SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang11 motherboardAB",
+    "display_name": "HW MaiMang11 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang20 motherboardAB",
+    "display_name": "HW MaiMang20 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang30 motherboardAB",
+    "display_name": "HW MaiMang30 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang5 motherboardAB",
+    "display_name": "HW MaiMang5 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang6 motherboardAB",
+    "display_name": "HW MaiMang6 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang7 motherboardAB",
+    "display_name": "HW MaiMang7 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang8 motherboardAB",
+    "display_name": "HW MaiMang8 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MaiMang9 motherboardAB",
+    "display_name": "HW MaiMang9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate10 motherboardAB",
+    "display_name": "HW Mate10 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate10Pro motherboardAB",
+    "display_name": "HW Mate10Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate20 motherboardAB",
+    "display_name": "HW Mate20 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate20Pro motherboardAB",
+    "display_name": "HW Mate20Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate20X_4G motherboardAB",
+    "display_name": "HW Mate20X_4G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate20X_5G motherboardAB",
+    "display_name": "HW Mate20X_5G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30 RS motherboardAB",
+    "display_name": "HW Mate30 RS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30EPro motherboardAB",
+    "display_name": "HW Mate30EPro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30Pro_4G motherboardAB",
+    "display_name": "HW Mate30Pro_4G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30Pro_5G motherboardAB",
+    "display_name": "HW Mate30Pro_5G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30_4G motherboardAB",
+    "display_name": "HW Mate30_4G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate30_5G motherboardAB",
+    "display_name": "HW Mate30_5G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40 RS motherboardAB",
+    "display_name": "HW Mate40 RS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40 motherboardAB",
+    "display_name": "HW Mate40 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40E_4G motherboardAB",
+    "display_name": "HW Mate40E_4G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40Pro HN2 motherboardAB",
+    "display_name": "HW Mate40Pro HN2 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40Pro HN3 motherboardAB",
+    "display_name": "HW Mate40Pro HN3 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40Pro HN5 motherboardAB",
+    "display_name": "HW Mate40Pro HN5 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40Pro motherboard copperAB",
+    "display_name": "HW Mate40Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40Pro+ motherboardAB",
+    "display_name": "HW Mate40Pro+ motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate40_5G motherboard copperAB",
+    "display_name": "HW Mate40_5G motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate50 RS motherboardAB",
+    "display_name": "HW Mate50 RS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate50 motherboardAB",
+    "display_name": "HW Mate50 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate50E motherboardAB",
+    "display_name": "HW Mate50E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate50Pro motherboardAB",
+    "display_name": "HW Mate50Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate60 motherboardAB",
+    "display_name": "HW Mate60 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate60Pro motherboard copperAB",
+    "display_name": "HW Mate60Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate60Pro+ motherboard copperAB",
+    "display_name": "HW Mate60Pro+ motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate70 RS motherboard copperAB",
+    "display_name": "HW Mate70 RS motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate70 motherboard copperAB",
+    "display_name": "HW Mate70 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate70Pro motherboard copperAB",
+    "display_name": "HW Mate70Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate80 motherboard copperAB",
+    "display_name": "HW Mate80 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate80Pro Max motherboard copperAB",
+    "display_name": "HW Mate80Pro Max motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate9 motherboardAB",
+    "display_name": "HW Mate9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Mate9Pro motherboardAB",
+    "display_name": "HW Mate9Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateRS motherboardAB",
+    "display_name": "HW MateRS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX motherboardAB",
+    "display_name": "HW MateX motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX2 motherboardAB",
+    "display_name": "HW MateX2 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX3 motherboardAB",
+    "display_name": "HW MateX3 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX5 motherboard copperAB",
+    "display_name": "HW MateX5 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX6 motherboard copperAB",
+    "display_name": "HW MateX6 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateX7 motherboard copperAB",
+    "display_name": "HW MateX7 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateXS motherboardAB",
+    "display_name": "HW MateXS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateXS2 motherboard copperAB",
+    "display_name": "HW MateXS2 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateXS_Ver2 motherboardAB",
+    "display_name": "HW MateXS_Ver2 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateXT motherboard copperAB",
+    "display_name": "HW MateXT motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW MateXTS motherboard copperAB",
+    "display_name": "HW MateXTS motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW NZONES7Pro motherboardAB",
+    "display_name": "HW NZONES7Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova10 motherboardAB",
+    "display_name": "HW Nova10 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova10Pro motherboardAB",
+    "display_name": "HW Nova10Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova10SE motherboardAB",
+    "display_name": "HW Nova10SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova10Ver2 motherboardAB",
+    "display_name": "HW Nova10Ver2 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova11 motherboardAB",
+    "display_name": "HW Nova11 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova11Pro motherboardAB",
+    "display_name": "HW Nova11Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova11SE motherboardAB",
+    "display_name": "HW Nova11SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova11Ultra motherboardAB",
+    "display_name": "HW Nova11Ultra motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova12 motherboardAB",
+    "display_name": "HW Nova12 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova12 vitality motherboardAB",
+    "display_name": "HW Nova12 vitality motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova12Pro motherboardAB",
+    "display_name": "HW Nova12Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova12Ultra motherboardAB",
+    "display_name": "HW Nova12Ultra motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova13HL1 motherboard copperAB",
+    "display_name": "HW Nova13HL1 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova13HL3 motherboardAB",
+    "display_name": "HW Nova13HL3 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova13Pro motherboard copperAB",
+    "display_name": "HW Nova13Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova14 motherboardAB",
+    "display_name": "HW Nova14 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova14Pro motherboard copperAB",
+    "display_name": "HW Nova14Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova14Ultra motherboard copperAB",
+    "display_name": "HW Nova14Ultra motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova15 motherboard copperAB",
+    "display_name": "HW Nova15 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova15Pro motherboard copperAB",
+    "display_name": "HW Nova15Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova15Ultra motherboard copperAB",
+    "display_name": "HW Nova15Ultra motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova2Plus motherboardAB",
+    "display_name": "HW Nova2Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova2S motherboardAB",
+    "display_name": "HW Nova2S motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova3 motherboardAB",
+    "display_name": "HW Nova3 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova3E motherboardAB",
+    "display_name": "HW Nova3E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova3i motherboardAB",
+    "display_name": "HW Nova3i motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova4 motherboardAB",
+    "display_name": "HW Nova4 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova4E motherboardAB",
+    "display_name": "HW Nova4E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova5 motherboardAB",
+    "display_name": "HW Nova5 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova5Pro motherboardAB",
+    "display_name": "HW Nova5Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova5Z motherboardAB",
+    "display_name": "HW Nova5Z motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova5i motherboardAB",
+    "display_name": "HW Nova5i motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova5iPro motherboardAB",
+    "display_name": "HW Nova5iPro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova6SE motherboardAB",
+    "display_name": "HW Nova6SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova6_4G motherboardAB",
+    "display_name": "HW Nova6_4G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova6_5G motherboardAB",
+    "display_name": "HW Nova6_5G motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova7 motherboardAB",
+    "display_name": "HW Nova7 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova7Pro motherboard copperAB",
+    "display_name": "HW Nova7Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova7SE motherboardAB",
+    "display_name": "HW Nova7SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova7SE vitality motherboardAB",
+    "display_name": "HW Nova7SE vitality motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova7i motherboardAB",
+    "display_name": "HW Nova7i motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova8 motherboardAB",
+    "display_name": "HW Nova8 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova8Pro motherboardAB",
+    "display_name": "HW Nova8Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova8SE motherboardAB",
+    "display_name": "HW Nova8SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova8SE vitality motherboardAB",
+    "display_name": "HW Nova8SE vitality motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova9 motherboardAB",
+    "display_name": "HW Nova9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova9Pro motherboardAB",
+    "display_name": "HW Nova9Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova9SE motherboardAB",
+    "display_name": "HW Nova9SE motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Nova9Z motherboard copperAB",
+    "display_name": "HW Nova9Z motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW NovaFlip motherboard copperAB",
+    "display_name": "HW NovaFlip motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P10 motherboard copperAB",
+    "display_name": "HW P10 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P10Plus motherboardAB",
+    "display_name": "HW P10Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P20 motherboardAB",
+    "display_name": "HW P20 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P20Pro motherboardAB",
+    "display_name": "HW P20Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P30 motherboardAB",
+    "display_name": "HW P30 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P30HL5 motherboardAB",
+    "display_name": "HW P30HL5 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P30Pro motherboardAB",
+    "display_name": "HW P30Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P40 motherboardAB",
+    "display_name": "HW P40 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P40Pro motherboardAB",
+    "display_name": "HW P40Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P40Pro+ motherboardAB",
+    "display_name": "HW P40Pro+ motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50 motherboard copperAB",
+    "display_name": "HW P50 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50E motherboardAB",
+    "display_name": "HW P50E motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50EHL6 motherboardAB",
+    "display_name": "HW P50EHL6 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50Pocket motherboardAB",
+    "display_name": "HW P50Pocket motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50Pro Kirin motherboardAB",
+    "display_name": "HW P50Pro Kirin motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P50Pro QUAL motherboardAB",
+    "display_name": "HW P50Pro QUAL motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P60 motherboardAB",
+    "display_name": "HW P60 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P60Pro motherboardAB",
+    "display_name": "HW P60Pro motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P9 motherboardAB",
+    "display_name": "HW P9 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW P9Plus motherboardAB",
+    "display_name": "HW P9Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pocket2 motherboard copperAB",
+    "display_name": "HW Pocket2 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW PocketS motherboardAB",
+    "display_name": "HW PocketS motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pura70 Ultra motherboard copperAB",
+    "display_name": "HW Pura70 Ultra motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pura70Pro+ motherboard copperAB",
+    "display_name": "HW Pura70Pro+ motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pura80 motherboard copperAB",
+    "display_name": "HW Pura80 motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pura80Pro motherboard copperAB",
+    "display_name": "HW Pura80Pro motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW Pura80Pro+ motherboard copperAB",
+    "display_name": "HW Pura80Pro+ motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW PuraX motherboard copperAB",
+    "display_name": "HW PuraX motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW TDTech P50 motherboardAB",
+    "display_name": "HW TDTech P50 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW TDTech TechM40 motherboardAB",
+    "display_name": "HW TDTech TechM40 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW TDTech TechP50 motherboardAB",
+    "display_name": "HW TDTech TechP50 motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW YouChangXiang30E motherboard copperAB",
+    "display_name": "HW YouChangXiang30E motherboard copperAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW/HW YouChangXiang50Plus motherboardAB",
+    "display_name": "HW YouChangXiang50Plus motherboardAB",
+    "category": "HW"
+  },
+  {
+    "board_id": "HW_Tablets/HW MatePad Air DBY2 motherboard copperAB",
+    "display_name": "HW MatePad Air DBY2 motherboard copperAB",
+    "category": "HW_Tablets"
+  },
+  {
+    "board_id": "Helo/Helo 2 motherboardAB",
+    "display_name": "Helo 2 motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 2Pro motherboardAB",
+    "display_name": "Helo 2Pro motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 3 motherboard copperAB",
+    "display_name": "Helo 3 motherboard copperAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 3Pro motherboard copperAB",
+    "display_name": "Helo 3Pro motherboard copperAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 3S motherboard copperAB",
+    "display_name": "Helo 3S motherboard copperAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 4 motherboardAB",
+    "display_name": "Helo 4 motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 4Pro motherboardAB",
+    "display_name": "Helo 4Pro motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 4S motherboardAB",
+    "display_name": "Helo 4S motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 4SPro motherboardAB",
+    "display_name": "Helo 4SPro motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 5 motherboardAB",
+    "display_name": "Helo 5 motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 5Pro motherboardAB",
+    "display_name": "Helo 5Pro motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo 5RS motherboardAB",
+    "display_name": "Helo 5RS motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "Helo/Helo Helo motherboardAB",
+    "display_name": "Helo Helo motherboardAB",
+    "category": "Helo"
+  },
+  {
+    "board_id": "MI/XIAO MI 10 motherboard copperAB",
+    "display_name": "XIAO MI 10 motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 10Pro motherboardAB",
+    "display_name": "XIAO MI 10Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 10S motherboardAB",
+    "display_name": "XIAO MI 10S motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 10T motherboardAB",
+    "display_name": "XIAO MI 10T motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 10Youth motherboardAB",
+    "display_name": "XIAO MI 10Youth motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 11 Ultra motherboardAB",
+    "display_name": "XIAO MI 11 Ultra motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 11 motherboardAB",
+    "display_name": "XIAO MI 11 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 11Pro motherboardAB",
+    "display_name": "XIAO MI 11Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 11TPro motherboardAB",
+    "display_name": "XIAO MI 11TPro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 11Youth motherboardAB",
+    "display_name": "XIAO MI 11Youth motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 12 motherboardAB",
+    "display_name": "XIAO MI 12 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 12Pro motherboardAB",
+    "display_name": "XIAO MI 12Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 12SPro motherboardAB",
+    "display_name": "XIAO MI 12SPro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 12SUltra motherboardAB",
+    "display_name": "XIAO MI 12SUltra motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 12X motherboardAB",
+    "display_name": "XIAO MI 12X motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 13 motherboardAB",
+    "display_name": "XIAO MI 13 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 13Pro motherboardAB",
+    "display_name": "XIAO MI 13Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 13Ultra motherboardAB",
+    "display_name": "XIAO MI 13Ultra motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 14 motherboardAB",
+    "display_name": "XIAO MI 14 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 14Pro motherboardAB",
+    "display_name": "XIAO MI 14Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 14Ultra motherboardAB",
+    "display_name": "XIAO MI 14Ultra motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 15 motherboardAB",
+    "display_name": "XIAO MI 15 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 15Pro motherboard copperAB",
+    "display_name": "XIAO MI 15Pro motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 15Ultra motherboard copperAB",
+    "display_name": "XIAO MI 15Ultra motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 17Pro Max motherboard copperAB",
+    "display_name": "XIAO MI 17Pro Max motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 17Pro motherboardAB",
+    "display_name": "XIAO MI 17Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 17Ultra motherboard copperAB",
+    "display_name": "XIAO MI 17Ultra motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 5 motherboardAB",
+    "display_name": "XIAO MI 5 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 5C motherboardAB",
+    "display_name": "XIAO MI 5C motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 5S motherboardAB",
+    "display_name": "XIAO MI 5S motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 5X motherboardAB",
+    "display_name": "XIAO MI 5X motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 6 motherboardAB",
+    "display_name": "XIAO MI 6 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 8Back fingerprint motherboardAB",
+    "display_name": "XIAO MI 8Back fingerprint motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 8Exploration motherboardAB",
+    "display_name": "XIAO MI 8Exploration motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 8SE motherboard copperAB",
+    "display_name": "XIAO MI 8SE motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 8Screen fingerprint motherboardAB",
+    "display_name": "XIAO MI 8Screen fingerprint motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 8Youth motherboardAB",
+    "display_name": "XIAO MI 8Youth motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 9 motherboardAB",
+    "display_name": "XIAO MI 9 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 9Pro motherboardAB",
+    "display_name": "XIAO MI 9Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 9SE motherboardAB",
+    "display_name": "XIAO MI 9SE motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 9T motherboardAB",
+    "display_name": "XIAO MI 9T motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI 9TPro motherboardAB",
+    "display_name": "XIAO MI 9TPro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI CC9 motherboard copperAB",
+    "display_name": "XIAO MI CC9 motherboard copperAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI CC9E motherboardAB",
+    "display_name": "XIAO MI CC9E motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI CC9Pro motherboardAB",
+    "display_name": "XIAO MI CC9Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Civi motherboardAB",
+    "display_name": "XIAO MI Civi motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Civi1S motherboardAB",
+    "display_name": "XIAO MI Civi1S motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Civi2 motherboardAB",
+    "display_name": "XIAO MI Civi2 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Civi3 motherboardAB",
+    "display_name": "XIAO MI Civi3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Civi4Pro motherboardAB",
+    "display_name": "XIAO MI Civi4Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Max1 motherboardAB",
+    "display_name": "XIAO MI Max1 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Max3 motherboardAB",
+    "display_name": "XIAO MI Max3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Fold motherboardAB",
+    "display_name": "XIAO MI Mix Fold motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Fold2 motherboardAB",
+    "display_name": "XIAO MI Mix Fold2 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Fold3 motherboardAB",
+    "display_name": "XIAO MI Mix Fold3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix1 motherboardAB",
+    "display_name": "XIAO MI Mix1 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix2 motherboardAB",
+    "display_name": "XIAO MI Mix2 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix2S motherboardAB",
+    "display_name": "XIAO MI Mix2S motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix3 motherboardAB",
+    "display_name": "XIAO MI Mix3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Mix4 motherboardAB",
+    "display_name": "XIAO MI Mix4 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Note2 motherboardAB",
+    "display_name": "XIAO MI Note2 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Note3 motherboardAB",
+    "display_name": "XIAO MI Note3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI PcohponeF1 motherboardAB",
+    "display_name": "XIAO MI PcohponeF1 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Play motherboardAB",
+    "display_name": "XIAO MI Play motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Poco M6Pro motherboardAB",
+    "display_name": "XIAO MI Poco M6Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI Poco X3 motherboardAB",
+    "display_name": "XIAO MI Poco X3 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI PocoF1 motherboardAB",
+    "display_name": "XIAO MI PocoF1 motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI PocoX3Pro motherboardAB",
+    "display_name": "XIAO MI PocoX3Pro motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI/XIAO MI motherboardAB",
+    "display_name": "XIAO MI motherboardAB",
+    "category": "MI"
+  },
+  {
+    "board_id": "MI_RED/MI RED 10A motherboardAB",
+    "display_name": "MI RED 10A motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 10X_4G motherboardAB",
+    "display_name": "MI RED 10X_4G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 10X_5G motherboardAB",
+    "display_name": "MI RED 10X_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 12C motherboardAB",
+    "display_name": "MI RED 12C motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 12_5G motherboardAB",
+    "display_name": "MI RED 12_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 13C_5G motherboardAB",
+    "display_name": "MI RED 13C_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 13R motherboardAB",
+    "display_name": "MI RED 13R motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 14C motherboardAB",
+    "display_name": "MI RED 14C motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 14R motherboardAB",
+    "display_name": "MI RED 14R motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 3S motherboardAB",
+    "display_name": "MI RED 3S motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 4 motherboardAB",
+    "display_name": "MI RED 4 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 4A motherboardAB",
+    "display_name": "MI RED 4A motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 5 motherboardAB",
+    "display_name": "MI RED 5 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 6 motherboardAB",
+    "display_name": "MI RED 6 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 6A motherboardAB",
+    "display_name": "MI RED 6A motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 6Pro motherboardAB",
+    "display_name": "MI RED 6Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 8 motherboardAB",
+    "display_name": "MI RED 8 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 8A motherboardAB",
+    "display_name": "MI RED 8A motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 9 motherboardAB",
+    "display_name": "MI RED 9 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED 9A motherboardAB",
+    "display_name": "MI RED 9A motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED A3 motherboardAB",
+    "display_name": "MI RED A3 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K20 motherboardAB",
+    "display_name": "MI RED K20 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K20Pro motherboardAB",
+    "display_name": "MI RED K20Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30Pro_5G motherboardAB",
+    "display_name": "MI RED K30Pro_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30S Ultra motherboardAB",
+    "display_name": "MI RED K30S Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30S motherboardAB",
+    "display_name": "MI RED K30S motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30Ultra motherboardAB",
+    "display_name": "MI RED K30Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30_4G motherboardAB",
+    "display_name": "MI RED K30_4G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K30_5G motherboardAB",
+    "display_name": "MI RED K30_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K40 motherboardAB",
+    "display_name": "MI RED K40 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K40Gaming motherboardAB",
+    "display_name": "MI RED K40Gaming motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K40Pro motherboardAB",
+    "display_name": "MI RED K40Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K40Pro+ motherboardAB",
+    "display_name": "MI RED K40Pro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K40S motherboardAB",
+    "display_name": "MI RED K40S motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K50 ESports motherboardAB",
+    "display_name": "MI RED K50 ESports motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K50 Ultra motherboardAB",
+    "display_name": "MI RED K50 Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K50 motherboardAB",
+    "display_name": "MI RED K50 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K50Pro motherboardAB",
+    "display_name": "MI RED K50Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K60 Ultra motherboardAB",
+    "display_name": "MI RED K60 Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K60 motherboardAB",
+    "display_name": "MI RED K60 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K60E motherboardAB",
+    "display_name": "MI RED K60E motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K60Pro motherboardAB",
+    "display_name": "MI RED K60Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K60Ultra motherboardAB",
+    "display_name": "MI RED K60Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K70 motherboardAB",
+    "display_name": "MI RED K70 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K70E motherboardAB",
+    "display_name": "MI RED K70E motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K70Pro motherboardAB",
+    "display_name": "MI RED K70Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K70Ultra motherboardAB",
+    "display_name": "MI RED K70Ultra motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K80 motherboardAB",
+    "display_name": "MI RED K80 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED K80Pro motherboardAB",
+    "display_name": "MI RED K80Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note motherboardAB",
+    "display_name": "MI RED Note motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note10 4G International motherboardAB",
+    "display_name": "MI RED Note10 4G International motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note10 motherboardAB",
+    "display_name": "MI RED Note10 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note10Pro motherboardAB",
+    "display_name": "MI RED Note10Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note10S International motherboardAB",
+    "display_name": "MI RED Note10S International motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note10S motherboardAB",
+    "display_name": "MI RED Note10S motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11E motherboardAB",
+    "display_name": "MI RED Note11E motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11EPro motherboardAB",
+    "display_name": "MI RED Note11EPro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11Pro motherboardAB",
+    "display_name": "MI RED Note11Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11Pro+ motherboardAB",
+    "display_name": "MI RED Note11Pro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11R motherboardAB",
+    "display_name": "MI RED Note11R motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11TPro motherboardAB",
+    "display_name": "MI RED Note11TPro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11TPro+ motherboardAB",
+    "display_name": "MI RED Note11TPro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11_4G motherboardAB",
+    "display_name": "MI RED Note11_4G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note11_5G motherboardAB",
+    "display_name": "MI RED Note11_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12 motherboardAB",
+    "display_name": "MI RED Note12 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12Pro Extreme speed motherboardAB",
+    "display_name": "MI RED Note12Pro Extreme speed motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12Pro motherboardAB",
+    "display_name": "MI RED Note12Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12Pro+ motherboardAB",
+    "display_name": "MI RED Note12Pro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12R motherboardAB",
+    "display_name": "MI RED Note12R motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12RPro motherboardAB",
+    "display_name": "MI RED Note12RPro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12TPro motherboardAB",
+    "display_name": "MI RED Note12TPro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note12Turbo motherboardAB",
+    "display_name": "MI RED Note12Turbo motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note13Pro motherboardAB",
+    "display_name": "MI RED Note13Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note13Pro+ motherboardAB",
+    "display_name": "MI RED Note13Pro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note13R motherboardAB",
+    "display_name": "MI RED Note13R motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note14 motherboardAB",
+    "display_name": "MI RED Note14 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note14Pro motherboardAB",
+    "display_name": "MI RED Note14Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note14Pro+ motherboardAB",
+    "display_name": "MI RED Note14Pro+ motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note15Pro+ motherboard copperAB",
+    "display_name": "MI RED Note15Pro+ motherboard copperAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note4 motherboardAB",
+    "display_name": "MI RED Note4 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note4X motherboardAB",
+    "display_name": "MI RED Note4X motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note7 motherboardAB",
+    "display_name": "MI RED Note7 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note7Pro motherboardAB",
+    "display_name": "MI RED Note7Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note8 motherboardAB",
+    "display_name": "MI RED Note8 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note8Pro motherboardAB",
+    "display_name": "MI RED Note8Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note9Pro International motherboardAB",
+    "display_name": "MI RED Note9Pro International motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note9Pro motherboardAB",
+    "display_name": "MI RED Note9Pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note9_4G motherboardAB",
+    "display_name": "MI RED Note9_4G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Note9_5G motherboardAB",
+    "display_name": "MI RED Note9_5G motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED S2 motherboardAB",
+    "display_name": "MI RED S2 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Turbo3 motherboardAB",
+    "display_name": "MI RED Turbo3 motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MI_RED/MI RED Turbo4pro motherboardAB",
+    "display_name": "MI RED Turbo4pro motherboardAB",
+    "category": "MI_RED"
+  },
+  {
+    "board_id": "MOTO/MOTO Action motherboardAB",
+    "display_name": "MOTO Action motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E20 motherboardAB",
+    "display_name": "MOTO E20 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E40 motherboardAB",
+    "display_name": "MOTO E40 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E5P motherboardAB",
+    "display_name": "MOTO E5P motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E5Play motherboardAB",
+    "display_name": "MOTO E5Play motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E5Plus motherboardAB",
+    "display_name": "MOTO E5Plus motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO E6P motherboardAB",
+    "display_name": "MOTO E6P motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO EdgeS motherboardAB",
+    "display_name": "MOTO EdgeS motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO EdgeS30 motherboardAB",
+    "display_name": "MOTO EdgeS30 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO EdgeS30Pro motherboardAB",
+    "display_name": "MOTO EdgeS30Pro motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO EdgeSpro motherboardAB",
+    "display_name": "MOTO EdgeSpro motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G30 motherboardAB",
+    "display_name": "MOTO G30 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G4Play motherboardAB",
+    "display_name": "MOTO G4Play motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G50 motherboardAB",
+    "display_name": "MOTO G50 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G5P motherboardAB",
+    "display_name": "MOTO G5P motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G5S_Plus motherboardAB",
+    "display_name": "MOTO G5S_Plus motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G71 motherboardAB",
+    "display_name": "MOTO G71 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G7Plus motherboardAB",
+    "display_name": "MOTO G7Plus motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G7Power motherboardAB",
+    "display_name": "MOTO G7Power motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G8P motherboardAB",
+    "display_name": "MOTO G8P motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G8Power_Lite motherboardAB",
+    "display_name": "MOTO G8Power_Lite motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO G9Power motherboardAB",
+    "display_name": "MOTO G9Power motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO K motherboardAB",
+    "display_name": "MOTO K motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO K5 motherboardAB",
+    "display_name": "MOTO K5 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO M motherboardAB",
+    "display_name": "MOTO M motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO OneP30 motherboardAB",
+    "display_name": "MOTO OneP30 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO Onefusion_J motherboardAB",
+    "display_name": "MOTO Onefusion_J motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO P30Note motherboardAB",
+    "display_name": "MOTO P30Note motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO Razr2Gen_2022 motherboardAB",
+    "display_name": "MOTO Razr2Gen_2022 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO X30Pro motherboardAB",
+    "display_name": "MOTO X30Pro motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO X50Ultra motherboardAB",
+    "display_name": "MOTO X50Ultra motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1025(E_Dual) motherboardAB",
+    "display_name": "MOTO XT1025(E_Dual) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1097 motherboardAB",
+    "display_name": "MOTO XT1097 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1097(X2) motherboardAB",
+    "display_name": "MOTO XT1097(X2) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1621(G4) motherboardAB",
+    "display_name": "MOTO XT1621(G4) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1672(G5) motherboardAB",
+    "display_name": "MOTO XT1672(G5) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1726 motherboardAB",
+    "display_name": "MOTO XT1726 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1763(E4) motherboardAB",
+    "display_name": "MOTO XT1763(E4) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1770(E4 Plus) motherboardAB",
+    "display_name": "MOTO XT1770(E4 Plus) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1773(E4) motherboardAB",
+    "display_name": "MOTO XT1773(E4) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1922_4(G6 Play) motherboardAB",
+    "display_name": "MOTO XT1922_4(G6 Play) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1944_3(E5) motherboardAB",
+    "display_name": "MOTO XT1944_3(E5) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1952_2 motherboardAB",
+    "display_name": "MOTO XT1952_2 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT1952_2(G7 Play) motherboardAB",
+    "display_name": "MOTO XT1952_2(G7 Play) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2016(One Macro) motherboardAB",
+    "display_name": "MOTO XT2016(One Macro) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2041(G8 Power) motherboardAB",
+    "display_name": "MOTO XT2041(G8 Power) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2063 motherboardAB",
+    "display_name": "MOTO XT2063 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2083(G9 Play) motherboardAB",
+    "display_name": "MOTO XT2083(G9 Play) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2128(G20) motherboardAB",
+    "display_name": "MOTO XT2128(G20) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2133(60S_3) motherboardAB",
+    "display_name": "MOTO XT2133(60S_3) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2139(Edge20_Lite) motherboardAB",
+    "display_name": "MOTO XT2139(Edge20_Lite) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2149(G50_5G) motherboardAB",
+    "display_name": "MOTO XT2149(G50_5G) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2153 motherboardAB",
+    "display_name": "MOTO XT2153 motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2301(X40) motherboardAB",
+    "display_name": "MOTO XT2301(X40) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MOTO/MOTO XT2335(G53_5G) motherboardAB",
+    "display_name": "MOTO XT2335(G53_5G) motherboardAB",
+    "category": "MOTO"
+  },
+  {
+    "board_id": "MZ/ML 2 motherboardAB",
+    "display_name": "ML 2 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML 3S motherboardAB",
+    "display_name": "ML 3S motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML 5 motherboardAB",
+    "display_name": "ML 5 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML E motherboardAB",
+    "display_name": "ML E motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Max motherboardAB",
+    "display_name": "ML Max motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Metal motherboardAB",
+    "display_name": "ML Metal motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Mx4 motherboardAB",
+    "display_name": "ML Mx4 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Note motherboardAB",
+    "display_name": "ML Note motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Note2 motherboardAB",
+    "display_name": "ML Note2 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML Note5 motherboardAB",
+    "display_name": "ML Note5 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML U10 motherboardAB",
+    "display_name": "ML U10 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/ML U20 motherboardAB",
+    "display_name": "ML U20 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ 16S motherboardAB",
+    "display_name": "MZ 16S motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ 16T motherboardAB",
+    "display_name": "MZ 16T motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ 18 motherboardAB",
+    "display_name": "MZ 18 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ 18Pro motherboardAB",
+    "display_name": "MZ 18Pro motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Max6 motherboardAB",
+    "display_name": "MZ Max6 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Mx4Pro motherboardAB",
+    "display_name": "MZ Mx4Pro motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Mx5 motherboardAB",
+    "display_name": "MZ Mx5 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Pro5 motherboardAB",
+    "display_name": "MZ Pro5 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Pro6 motherboardAB",
+    "display_name": "MZ Pro6 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Pro6Plus motherboardAB",
+    "display_name": "MZ Pro6Plus motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Pro7 motherboardAB",
+    "display_name": "MZ Pro7 motherboardAB",
+    "category": "MZ"
+  },
+  {
+    "board_id": "MZ/MZ Pro7Plus motherboardAB",
+    "display_name": "MZ Pro7Plus motherboardAB",
+    "category": "MZ"
+  },
+  {
     "board_id": "OPP/OPP A1 Pro motherboardAB",
     "display_name": "OPP A1 Pro motherboardAB",
     "category": "OPP"
@@ -1073,6 +3968,1946 @@
     "board_id": "OPP/OPP RenoZ motherboardAB",
     "display_name": "OPP RenoZ motherboardAB",
     "category": "OPP"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 10Pro motherboardAB",
+    "display_name": "OnePlus 10Pro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 11 2S motherboardAB",
+    "display_name": "OnePlus 11 2S motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 11 motherboardAB",
+    "display_name": "OnePlus 11 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 12 motherboard copperAB",
+    "display_name": "OnePlus 12 motherboard copperAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 13 motherboard copperAB",
+    "display_name": "OnePlus 13 motherboard copperAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 3T motherboardAB",
+    "display_name": "OnePlus 3T motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 5 motherboardAB",
+    "display_name": "OnePlus 5 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 5T motherboardAB",
+    "display_name": "OnePlus 5T motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 6 motherboardAB",
+    "display_name": "OnePlus 6 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 6T motherboardAB",
+    "display_name": "OnePlus 6T motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 7 motherboardAB",
+    "display_name": "OnePlus 7 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 7Pro motherboardAB",
+    "display_name": "OnePlus 7Pro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 7T motherboardAB",
+    "display_name": "OnePlus 7T motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 8Pro motherboardAB",
+    "display_name": "OnePlus 8Pro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 8T motherboardAB",
+    "display_name": "OnePlus 8T motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 9 motherboardAB",
+    "display_name": "OnePlus 9 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 9Pro motherboardAB",
+    "display_name": "OnePlus 9Pro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 9R motherboardAB",
+    "display_name": "OnePlus 9R motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus 9RT motherboardAB",
+    "display_name": "OnePlus 9RT motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace Speed motherboardAB",
+    "display_name": "OnePlus Ace Speed motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace motherboardAB",
+    "display_name": "OnePlus Ace motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace2 motherboardAB",
+    "display_name": "OnePlus Ace2 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace2Pro motherboardAB",
+    "display_name": "OnePlus Ace2Pro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace3 motherboardAB",
+    "display_name": "OnePlus Ace3 motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace3V motherboard copperAB",
+    "display_name": "OnePlus Ace3V motherboard copperAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace5 Ultra motherboard copperAB",
+    "display_name": "OnePlus Ace5 Ultra motherboard copperAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus Ace5 motherboard copperAB",
+    "display_name": "OnePlus Ace5 motherboard copperAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "OnePlus/OnePlus AcePro motherboardAB",
+    "display_name": "OnePlus AcePro motherboardAB",
+    "category": "OnePlus"
+  },
+  {
+    "board_id": "RedMO/RedMO 7Pro motherboardAB",
+    "display_name": "RedMO 7Pro motherboardAB",
+    "category": "RedMO"
+  },
+  {
+    "board_id": "RedMO/RedMO 7S motherboardAB",
+    "display_name": "RedMO 7S motherboardAB",
+    "category": "RedMO"
+  },
+  {
+    "board_id": "UAV/DJ Air2 motherboard copperAB",
+    "display_name": "DJ Air2 motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ Mini2 motherboard copperAB",
+    "display_name": "DJ Mini2 motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ Mini3Pro motherboard copperAB",
+    "display_name": "DJ Mini3Pro motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ Mini4Pro motherboard copperAB",
+    "display_name": "DJ Mini4Pro motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ Yu2 motherboard copperAB",
+    "display_name": "DJ Yu2 motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ Yu3Pro motherboard copperAB",
+    "display_name": "DJ Yu3Pro motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "UAV/DJ YuPro motherboard copperAB",
+    "display_name": "DJ YuPro motherboard copperAB",
+    "category": "UAV"
+  },
+  {
+    "board_id": "VIV/VIV Nex Double screen motherboardAB",
+    "display_name": "VIV Nex Double screen motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Nex motherboardAB",
+    "display_name": "VIV Nex motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Nex2 motherboardAB",
+    "display_name": "VIV Nex2 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Nex3 motherboardAB",
+    "display_name": "VIV Nex3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Nex3S motherboardAB",
+    "display_name": "VIV Nex3S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV NexA motherboardAB",
+    "display_name": "VIV NexA motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV NexS motherboardAB",
+    "display_name": "VIV NexS motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S1 motherboardAB",
+    "display_name": "VIV S1 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S10 motherboardAB",
+    "display_name": "VIV S10 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S10E motherboard copperAB",
+    "display_name": "VIV S10E motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S10Pro motherboardAB",
+    "display_name": "VIV S10Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S12 motherboardAB",
+    "display_name": "VIV S12 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S12Pro motherboardAB",
+    "display_name": "VIV S12Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S15 motherboardAB",
+    "display_name": "VIV S15 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S15E motherboardAB",
+    "display_name": "VIV S15E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S15Pro motherboardAB",
+    "display_name": "VIV S15Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S16 motherboardAB",
+    "display_name": "VIV S16 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S16E motherboardAB",
+    "display_name": "VIV S16E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S16Pro motherboardAB",
+    "display_name": "VIV S16Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S17 motherboardAB",
+    "display_name": "VIV S17 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S17E motherboardAB",
+    "display_name": "VIV S17E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S17Pro motherboardAB",
+    "display_name": "VIV S17Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S17T motherboardAB",
+    "display_name": "VIV S17T motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S18 motherboard copperAB",
+    "display_name": "VIV S18 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S18E motherboardAB",
+    "display_name": "VIV S18E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S18Pro motherboardAB",
+    "display_name": "VIV S18Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S19 motherboard copperAB",
+    "display_name": "VIV S19 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S19Pro motherboard copperAB",
+    "display_name": "VIV S19Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S1Pro motherboardAB",
+    "display_name": "VIV S1Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S30 motherboard copperAB",
+    "display_name": "VIV S30 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S5 motherboard copperAB",
+    "display_name": "VIV S5 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S50 motherboard copperAB",
+    "display_name": "VIV S50 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S6 motherboardAB",
+    "display_name": "VIV S6 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7 QUAL motherboardAB",
+    "display_name": "VIV S7 QUAL motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7 motherboardAB",
+    "display_name": "VIV S7 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7E vitality motherboardAB",
+    "display_name": "VIV S7E vitality motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7E_5G motherboardAB",
+    "display_name": "VIV S7E_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7T motherboardAB",
+    "display_name": "VIV S7T motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S7Ver2 motherboardAB",
+    "display_name": "VIV S7Ver2 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S9 motherboardAB",
+    "display_name": "VIV S9 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV S9E motherboardAB",
+    "display_name": "VIV S9E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV T1 motherboard copperAB",
+    "display_name": "VIV T1 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV T1X motherboardAB",
+    "display_name": "VIV T1X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV T2X motherboardAB",
+    "display_name": "VIV T2X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV U1 motherboardAB",
+    "display_name": "VIV U1 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV U3 motherboardAB",
+    "display_name": "VIV U3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V11 motherboardAB",
+    "display_name": "VIV V11 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V15 motherboardAB",
+    "display_name": "VIV V15 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V15Pro motherboardAB",
+    "display_name": "VIV V15Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V19 motherboardAB",
+    "display_name": "VIV V19 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V20 motherboardAB",
+    "display_name": "VIV V20 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V20SE motherboardAB",
+    "display_name": "VIV V20SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V21 motherboardAB",
+    "display_name": "VIV V21 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V23 motherboardAB",
+    "display_name": "VIV V23 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V23E motherboardAB",
+    "display_name": "VIV V23E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V25 motherboardAB",
+    "display_name": "VIV V25 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V25E motherboardAB",
+    "display_name": "VIV V25E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V27E motherboardAB",
+    "display_name": "VIV V27E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V27E_5G motherboardAB",
+    "display_name": "VIV V27E_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V29 motherboardAB",
+    "display_name": "VIV V29 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V29E motherboardAB",
+    "display_name": "VIV V29E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V30E motherboardAB",
+    "display_name": "VIV V30E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V30Pro motherboardAB",
+    "display_name": "VIV V30Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V30_5G motherboardAB",
+    "display_name": "VIV V30_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V3Max motherboardAB",
+    "display_name": "VIV V3Max motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V5S motherboardAB",
+    "display_name": "VIV V5S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V7 motherboardAB",
+    "display_name": "VIV V7 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV V9 motherboardAB",
+    "display_name": "VIV V9 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Flip motherboardAB",
+    "display_name": "VIV X Flip motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Flod2 motherboardAB",
+    "display_name": "VIV X Flod2 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Flod3Pro motherboard copperAB",
+    "display_name": "VIV X Flod3Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Fold motherboardAB",
+    "display_name": "VIV X Fold motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Fold3 motherboard copperAB",
+    "display_name": "VIV X Fold3 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Fold5 motherboard copperAB",
+    "display_name": "VIV X Fold5 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X Note motherboardAB",
+    "display_name": "VIV X Note motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X100 motherboardAB",
+    "display_name": "VIV X100 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X100Pro motherboard copperAB",
+    "display_name": "VIV X100Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X200 motherboard copperAB",
+    "display_name": "VIV X200 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X200S motherboard copperAB",
+    "display_name": "VIV X200S motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X20A motherboardAB",
+    "display_name": "VIV X20A motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X20Plus motherboardAB",
+    "display_name": "VIV X20Plus motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X21 motherboardAB",
+    "display_name": "VIV X21 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X21S motherboardAB",
+    "display_name": "VIV X21S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X21UDScreen fingerprint motherboardAB",
+    "display_name": "VIV X21UDScreen fingerprint motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X21i motherboardAB",
+    "display_name": "VIV X21i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X21iA motherboardAB",
+    "display_name": "VIV X21iA motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X23 Phantom motherboardAB",
+    "display_name": "VIV X23 Phantom motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X23 motherboardAB",
+    "display_name": "VIV X23 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X27 motherboardAB",
+    "display_name": "VIV X27 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X27Pro motherboard AB",
+    "display_name": "VIV X27Pro motherboard AB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X30 motherboardAB",
+    "display_name": "VIV X30 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X300 motherboard copperAB",
+    "display_name": "VIV X300 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X30Pro motherboardAB",
+    "display_name": "VIV X30Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X50 motherboard copperAB",
+    "display_name": "VIV X50 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X50Pro motherboard copperAB",
+    "display_name": "VIV X50Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X50Pro+ motherboardAB",
+    "display_name": "VIV X50Pro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60 Edge motherboard copperAB",
+    "display_name": "VIV X60 Edge motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60 motherboard copperAB",
+    "display_name": "VIV X60 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60Pro motherboard copperAB",
+    "display_name": "VIV X60Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60Pro+ motherboardAB",
+    "display_name": "VIV X60Pro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60T motherboard copperAB",
+    "display_name": "VIV X60T motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X60TPro+ motherboardAB",
+    "display_name": "VIV X60TPro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X70 motherboardAB",
+    "display_name": "VIV X70 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X70Pro motherboardAB",
+    "display_name": "VIV X70Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X70Pro+ motherboardAB",
+    "display_name": "VIV X70Pro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X70T motherboard copperAB",
+    "display_name": "VIV X70T motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X70TVer2 motherboardAB",
+    "display_name": "VIV X70TVer2 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X7Plus motherboardAB",
+    "display_name": "VIV X7Plus motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X80 motherboardAB",
+    "display_name": "VIV X80 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X80Pro motherboardAB",
+    "display_name": "VIV X80Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X9 motherboardAB",
+    "display_name": "VIV X9 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X90 motherboardAB",
+    "display_name": "VIV X90 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X90Pro motherboardAB",
+    "display_name": "VIV X90Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X90Pro+ motherboardAB",
+    "display_name": "VIV X90Pro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X90S motherboardAB",
+    "display_name": "VIV X90S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X9Plus motherboardAB",
+    "display_name": "VIV X9Plus motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X9S motherboardAB",
+    "display_name": "VIV X9S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X9SPlus motherboardAB",
+    "display_name": "VIV X9SPlus motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV X9i motherboardAB",
+    "display_name": "VIV X9i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Xplay5 motherboard AB",
+    "display_name": "VIV Xplay5 motherboard AB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Xplay6 motherboardAB",
+    "display_name": "VIV Xplay6 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y10 T1 motherboardAB",
+    "display_name": "VIV Y10 T1 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y10 motherboardAB",
+    "display_name": "VIV Y10 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y100 motherboardAB",
+    "display_name": "VIV Y100 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y100i motherboardAB",
+    "display_name": "VIV Y100i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y11S motherboardAB",
+    "display_name": "VIV Y11S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y11_4G motherboardAB",
+    "display_name": "VIV Y11_4G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y200 motherboard copperAB",
+    "display_name": "VIV Y200 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y200i motherboard copperAB",
+    "display_name": "VIV Y200i motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y3 motherboardAB",
+    "display_name": "VIV Y3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y30 motherboardAB",
+    "display_name": "VIV Y30 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y300 motherboard copperAB",
+    "display_name": "VIV Y300 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y300Pro motherboard copperAB",
+    "display_name": "VIV Y300Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y300Pro+ motherboard copperAB",
+    "display_name": "VIV Y300Pro+ motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y30G motherboard copperAB",
+    "display_name": "VIV Y30G motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y31S Standard motherboardAB",
+    "display_name": "VIV Y31S Standard motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y31S motherboardAB",
+    "display_name": "VIV Y31S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y32 motherboardAB",
+    "display_name": "VIV Y32 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y32T motherboardAB",
+    "display_name": "VIV Y32T motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y33S motherboardAB",
+    "display_name": "VIV Y33S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y35 motherboardAB",
+    "display_name": "VIV Y35 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y35M motherboardAB",
+    "display_name": "VIV Y35M motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y36 motherboard copperAB",
+    "display_name": "VIV Y36 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y36M motherboard copperAB",
+    "display_name": "VIV Y36M motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y37 motherboardAB",
+    "display_name": "VIV Y37 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y3S motherboardAB",
+    "display_name": "VIV Y3S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y50 motherboardAB",
+    "display_name": "VIV Y50 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y500 motherboard copperAB",
+    "display_name": "VIV Y500 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y51S motherboardAB",
+    "display_name": "VIV Y51S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y52S T1 motherboard copperAB",
+    "display_name": "VIV Y52S T1 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y52S motherboardAB",
+    "display_name": "VIV Y52S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y53S NFC motherboardAB",
+    "display_name": "VIV Y53S NFC motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y53S T1 motherboard copperAB",
+    "display_name": "VIV Y53S T1 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y53S T2 motherboardAB",
+    "display_name": "VIV Y53S T2 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y53S motherboardAB",
+    "display_name": "VIV Y53S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y53T motherboardAB",
+    "display_name": "VIV Y53T motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y55S motherboard copperAB",
+    "display_name": "VIV Y55S motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y5S motherboardAB",
+    "display_name": "VIV Y5S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y66BA motherboardAB",
+    "display_name": "VIV Y66BA motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y67 motherboardAB",
+    "display_name": "VIV Y67 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y70S motherboardAB",
+    "display_name": "VIV Y70S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y70T motherboardAB",
+    "display_name": "VIV Y70T motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y73S motherboardAB",
+    "display_name": "VIV Y73S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y73T motherboard copperAB",
+    "display_name": "VIV Y73T motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y75 motherboardAB",
+    "display_name": "VIV Y75 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y76S motherboardAB",
+    "display_name": "VIV Y76S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y77 motherboardAB",
+    "display_name": "VIV Y77 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y77E motherboardAB",
+    "display_name": "VIV Y77E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y78 motherboardAB",
+    "display_name": "VIV Y78 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y78M motherboardAB",
+    "display_name": "VIV Y78M motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y7S motherboardAB",
+    "display_name": "VIV Y7S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y83 motherboardAB",
+    "display_name": "VIV Y83 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y85A motherboardAB",
+    "display_name": "VIV Y85A motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y91 motherboardAB",
+    "display_name": "VIV Y91 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y93 motherboardAB",
+    "display_name": "VIV Y93 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y93A motherboardAB",
+    "display_name": "VIV Y93A motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y93S motherboardAB",
+    "display_name": "VIV Y93S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y97 motherboardAB",
+    "display_name": "VIV Y97 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y97A motherboardAB",
+    "display_name": "VIV Y97A motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y9S motherboardAB",
+    "display_name": "VIV Y9S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Y_PD2140AM motherboard copperAB",
+    "display_name": "VIV Y_PD2140AM motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Z3 motherboardAB",
+    "display_name": "VIV Z3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Z3i motherboardAB",
+    "display_name": "VIV Z3i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Z5X motherboardAB",
+    "display_name": "VIV Z5X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Z5i motherboardAB",
+    "display_name": "VIV Z5i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV Z6 motherboardAB",
+    "display_name": "VIV Z6 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 10 Mann SE motherboardAB",
+    "display_name": "VIV iqoo 10 Mann SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 10 Track SE motherboardAB",
+    "display_name": "VIV iqoo 10 Track SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 10 motherboardAB",
+    "display_name": "VIV iqoo 10 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 10Pro motherboardAB",
+    "display_name": "VIV iqoo 10Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 11 Mann SE motherboardAB",
+    "display_name": "VIV iqoo 11 Mann SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 11 motherboardAB",
+    "display_name": "VIV iqoo 11 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 11Pro motherboardAB",
+    "display_name": "VIV iqoo 11Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 11S motherboardAB",
+    "display_name": "VIV iqoo 11S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 12 motherboardAB",
+    "display_name": "VIV iqoo 12 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 12Pro motherboard copperAB",
+    "display_name": "VIV iqoo 12Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 3 motherboardAB",
+    "display_name": "VIV iqoo 3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 5 motherboardAB",
+    "display_name": "VIV iqoo 5 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 5Pro motherboardAB",
+    "display_name": "VIV iqoo 5Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 5Pro_5G Legend motherboardAB",
+    "display_name": "VIV iqoo 5Pro_5G Legend motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 5Pro_5G Track motherboardAB",
+    "display_name": "VIV iqoo 5Pro_5G Track motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 7 motherboardAB",
+    "display_name": "VIV iqoo 7 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 8 motherboardAB",
+    "display_name": "VIV iqoo 8 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 8Pro motherboardAB",
+    "display_name": "VIV iqoo 8Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 9 motherboardAB",
+    "display_name": "VIV iqoo 9 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo 9Pro motherboardAB",
+    "display_name": "VIV iqoo 9Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo3 motherboardAB",
+    "display_name": "VIV iqoo Neo3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo5 motherboardAB",
+    "display_name": "VIV iqoo Neo5 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo5 vitality motherboard copperAB",
+    "display_name": "VIV iqoo Neo5 vitality motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo5S motherboardAB",
+    "display_name": "VIV iqoo Neo5S motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo5SE motherboardAB",
+    "display_name": "VIV iqoo Neo5SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo6 motherboardAB",
+    "display_name": "VIV iqoo Neo6 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo6SE motherboardAB",
+    "display_name": "VIV iqoo Neo6SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo7 motherboardAB",
+    "display_name": "VIV iqoo Neo7 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo7SE motherboardAB",
+    "display_name": "VIV iqoo Neo7SE motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo7Speed motherboardAB",
+    "display_name": "VIV iqoo Neo7Speed motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo8 motherboardAB",
+    "display_name": "VIV iqoo Neo8 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo845 motherboardAB",
+    "display_name": "VIV iqoo Neo845 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo855 Speed motherboardAB",
+    "display_name": "VIV iqoo Neo855 Speed motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo855 motherboardAB",
+    "display_name": "VIV iqoo Neo855 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo8Pro motherboardAB",
+    "display_name": "VIV iqoo Neo8Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo9 motherboard copperAB",
+    "display_name": "VIV iqoo Neo9 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo9Pro motherboard copperAB",
+    "display_name": "VIV iqoo Neo9Pro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo9SPro motherboard copperAB",
+    "display_name": "VIV iqoo Neo9SPro motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo9SPro+ motherboardAB",
+    "display_name": "VIV iqoo Neo9SPro+ motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Pro motherboardAB",
+    "display_name": "VIV iqoo Pro motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Pro_5G motherboardAB",
+    "display_name": "VIV iqoo Pro_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U1X motherboardAB",
+    "display_name": "VIV iqoo U1X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U3 motherboardAB",
+    "display_name": "VIV iqoo U3 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U3X_5G motherboardAB",
+    "display_name": "VIV iqoo U3X_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U5 motherboardAB",
+    "display_name": "VIV iqoo U5 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U5E motherboardAB",
+    "display_name": "VIV iqoo U5E motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo U5X motherboardAB",
+    "display_name": "VIV iqoo U5X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z1X_5G motherboardAB",
+    "display_name": "VIV iqoo Z1X_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z1_5G motherboardAB",
+    "display_name": "VIV iqoo Z1_5G motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z3 motherboard copperAB",
+    "display_name": "VIV iqoo Z3 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z5 motherboard copperAB",
+    "display_name": "VIV iqoo Z5 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z5X motherboardAB",
+    "display_name": "VIV iqoo Z5X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z6 motherboardAB",
+    "display_name": "VIV iqoo Z6 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z6X motherboard copperAB",
+    "display_name": "VIV iqoo Z6X motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z7 motherboardAB",
+    "display_name": "VIV iqoo Z7 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z7X motherboardAB",
+    "display_name": "VIV iqoo Z7X motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z7i motherboardAB",
+    "display_name": "VIV iqoo Z7i motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z8 motherboardAB",
+    "display_name": "VIV iqoo Z8 motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z8X motherboard copperAB",
+    "display_name": "VIV iqoo Z8X motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z9 motherboard copperAB",
+    "display_name": "VIV iqoo Z9 motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z9X motherboard copperAB",
+    "display_name": "VIV iqoo Z9X motherboard copperAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "VIV/VIV iqoo motherboardAB",
+    "display_name": "VIV iqoo motherboardAB",
+    "category": "VIV"
+  },
+  {
+    "board_id": "infini/infini 6258B motherboardAB",
+    "display_name": "infini 6258B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini 627 motherboardAB",
+    "display_name": "infini 627 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Note40Pro motherboardAB",
+    "display_name": "infini Note40Pro motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Note40Pro_4G motherboardAB",
+    "display_name": "infini Note40Pro_4G motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Smart8 motherboardAB",
+    "display_name": "infini Smart8 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Smart8Pro motherboardAB",
+    "display_name": "infini Smart8Pro motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno C9 motherboardAB",
+    "display_name": "infini Tecno C9 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon12Air motherboardAB",
+    "display_name": "infini Tecno Camon12Air motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon17P motherboardAB",
+    "display_name": "infini Tecno Camon17P motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon17Pro motherboardAB",
+    "display_name": "infini Tecno Camon17Pro motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon18Prime motherboardAB",
+    "display_name": "infini Tecno Camon18Prime motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon20 motherboardAB",
+    "display_name": "infini Tecno Camon20 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Camon20Pro motherboardAB",
+    "display_name": "infini Tecno Camon20Pro motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno CamonAce2 motherboardAB",
+    "display_name": "infini Tecno CamonAce2 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno CamonC7 motherboardAB",
+    "display_name": "infini Tecno CamonC7 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno CamonIn5 motherboardAB",
+    "display_name": "infini Tecno CamonIn5 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno F1 motherboardAB",
+    "display_name": "infini Tecno F1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno J7 motherboardAB",
+    "display_name": "infini Tecno J7 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno KA70 motherboardAB",
+    "display_name": "infini Tecno KA70 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno KF8 motherboardAB",
+    "display_name": "infini Tecno KF8 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno L8 motherboardAB",
+    "display_name": "infini Tecno L8 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno N9 motherboardAB",
+    "display_name": "infini Tecno N9 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno PocoF3 motherboardAB",
+    "display_name": "infini Tecno PocoF3 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Pop1 motherboardAB",
+    "display_name": "infini Tecno Pop1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Pova6 motherboardAB",
+    "display_name": "infini Tecno Pova6 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Spark20Pro+ motherboardAB",
+    "display_name": "infini Tecno Spark20Pro+ motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Spark30C motherboardAB",
+    "display_name": "infini Tecno Spark30C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Spark6G0 motherboardAB",
+    "display_name": "infini Tecno Spark6G0 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Spark6T motherboardAB",
+    "display_name": "infini Tecno Spark6T motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno Spark7 motherboardAB",
+    "display_name": "infini Tecno Spark7 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno SparkG0_2022 motherboardAB",
+    "display_name": "infini Tecno SparkG0_2022 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno SparkG0_2023 motherboardAB",
+    "display_name": "infini Tecno SparkG0_2023 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno SparkKe6 motherboardAB",
+    "display_name": "infini Tecno SparkKe6 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno W3 motherboardAB",
+    "display_name": "infini Tecno W3 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno W4 motherboardAB",
+    "display_name": "infini Tecno W4 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno WX3 motherboardAB",
+    "display_name": "infini Tecno WX3 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini Tecno_K7_Ok motherboardAB",
+    "display_name": "infini Tecno_K7_Ok motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X5010Ver1 motherboardAB",
+    "display_name": "infini X5010Ver1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X509Ver1 motherboardAB",
+    "display_name": "infini X509Ver1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X510Ver1 motherboardAB",
+    "display_name": "infini X510Ver1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X522 motherboardAB",
+    "display_name": "infini X522 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X551 motherboardAB",
+    "display_name": "infini X551 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X5515 motherboardAB",
+    "display_name": "infini X5515 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X552 motherboardAB",
+    "display_name": "infini X552 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X556Ver1 motherboardAB",
+    "display_name": "infini X556Ver1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X557 motherboardAB",
+    "display_name": "infini X557 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X559 motherboardAB",
+    "display_name": "infini X559 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X572 motherboardAB",
+    "display_name": "infini X572 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X573 motherboardAB",
+    "display_name": "infini X573 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X601Ver1 motherboardAB",
+    "display_name": "infini X601Ver1 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X602 motherboardAB",
+    "display_name": "infini X602 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X603 motherboardAB",
+    "display_name": "infini X603 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X604 motherboardAB",
+    "display_name": "infini X604 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X606 motherboardAB",
+    "display_name": "infini X606 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X608 motherboardAB",
+    "display_name": "infini X608 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X609 motherboardAB",
+    "display_name": "infini X609 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X612 motherboardAB",
+    "display_name": "infini X612 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X622 motherboardAB",
+    "display_name": "infini X622 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X624 motherboardAB",
+    "display_name": "infini X624 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X625 motherboardAB",
+    "display_name": "infini X625 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X627 motherboardAB",
+    "display_name": "infini X627 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X650C motherboardAB",
+    "display_name": "infini X650C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6511 motherboardAB",
+    "display_name": "infini X6511 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X652 motherboardAB",
+    "display_name": "infini X652 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6532 motherboardAB",
+    "display_name": "infini X6532 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X653C motherboardAB",
+    "display_name": "infini X653C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X655C motherboardAB",
+    "display_name": "infini X655C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X656 motherboardAB",
+    "display_name": "infini X656 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X657C motherboardAB",
+    "display_name": "infini X657C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X660 motherboardAB",
+    "display_name": "infini X660 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X662 motherboardAB",
+    "display_name": "infini X662 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X663 motherboardAB",
+    "display_name": "infini X663 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X663B motherboardAB",
+    "display_name": "infini X663B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X665B motherboardAB",
+    "display_name": "infini X665B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X665C motherboardAB",
+    "display_name": "infini X665C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X669 motherboardAB",
+    "display_name": "infini X669 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X670 motherboardAB",
+    "display_name": "infini X670 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X671B motherboardAB",
+    "display_name": "infini X671B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X676C motherboardAB",
+    "display_name": "infini X676C motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X680 motherboardAB",
+    "display_name": "infini X680 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6810 motherboardAB",
+    "display_name": "infini X6810 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6811 motherboardAB",
+    "display_name": "infini X6811 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6812 motherboardAB",
+    "display_name": "infini X6812 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6812B motherboardAB",
+    "display_name": "infini X6812B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6816 motherboardAB",
+    "display_name": "infini X6816 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6816D motherboardAB",
+    "display_name": "infini X6816D motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6817 motherboardAB",
+    "display_name": "infini X6817 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X682 motherboardAB",
+    "display_name": "infini X682 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6827 motherboardAB",
+    "display_name": "infini X6827 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6833B motherboardAB",
+    "display_name": "infini X6833B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6837 motherboardAB",
+    "display_name": "infini X6837 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X687 motherboardAB",
+    "display_name": "infini X687 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6870 motherboardAB",
+    "display_name": "infini X6870 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X688 motherboardAB",
+    "display_name": "infini X688 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X6880 motherboardAB",
+    "display_name": "infini X6880 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X688B motherboardAB",
+    "display_name": "infini X688B motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X689 motherboardAB",
+    "display_name": "infini X689 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X690 motherboardAB",
+    "display_name": "infini X690 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X692 motherboardAB",
+    "display_name": "infini X692 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X693 motherboardAB",
+    "display_name": "infini X693 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X695 motherboardAB",
+    "display_name": "infini X695 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini X697 motherboardAB",
+    "display_name": "infini X697 motherboardAB",
+    "category": "infini"
+  },
+  {
+    "board_id": "infini/infini it1409 motherboardAB",
+    "display_name": "infini it1409 motherboardAB",
+    "category": "infini"
   },
   {
     "board_id": "ipad/iPxd10_820-02772_A2757 A2777 A3162(5G) motherboard copperAB",
