@@ -6305,6 +6305,11 @@
     "category": "iphone"
   },
   {
+    "board_id": "iphone/iphxne11 motherboard copperAB",
+    "display_name": "iphxne11 motherboard copperAB",
+    "category": "iphone"
+  },
+  {
     "board_id": "iphone/iphxne11Pro Max motherboard copperAB",
     "display_name": "iphxne11Pro Max motherboard copperAB",
     "category": "iphone"
@@ -6312,11 +6317,6 @@
   {
     "board_id": "iphone/iphxne11Pro motherboard copperAB",
     "display_name": "iphxne11Pro motherboard copperAB",
-    "category": "iphone"
-  },
-  {
-    "board_id": "iphone/iphxne11 motherboard copperAB",
-    "display_name": "iphxne11_motherboard_copperAB_PCB",
     "category": "iphone"
   },
   {
