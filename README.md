@@ -57,6 +57,15 @@ và **sai thì kiểm chỗ nào**; đồng thời **tô đúng màu đó lên c
 App tự kiểm tra bản mới khi mở lên và hiện nút **Cập nhật** ở góc trên bên phải.
 Bấm là tự tải, tự thay, tự mở lại — không cần cài lại từ đầu.
 
+## Liên hệ
+
+Muốn hỏi trước khi tải, hỏi về board của máy nào đã có, hay cần hỗ trợ:
+
+📧 **vnboardsservice@gmail.com**
+
+Khách đã cài phần mềm thì nhắn thẳng trong app (nút **☎ Liên hệ** ở màn hình đăng nhập)
+— nhanh hơn, và admin trả lời ngay trong cửa sổ đó.
+
 ---
 
 ## Repo này chứa gì
