@@ -5970,8 +5970,8 @@
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxd7_820-01686_A2198 A2200(4G) motherboard copperAB",
-    "display_name": "iPxd7_820-01686_A2198 A2200(4G) motherboard copperAB",
+    "board_id": "ipad/iPxd7_820-01685_A2198 A2200(4G) motherboard copperAB",
+    "display_name": "iPxd7_820-01685_A2198 A2200(4G) motherboard copperAB",
     "category": "ipad"
   },
   {
@@ -6065,58 +6065,53 @@
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1(2015 12.9in)_4G_A1652 motherboard copperAB",
-    "display_name": "iPxdPro1(2015 12.9in)_4G_A1652 motherboard copperAB",
+    "board_id": "ipad/iPxdPro1(2015 12.9inch)_820-00301_A1652(4G) motherboard copperAB",
+    "display_name": "iPxdPro1(2015 12.9inch)_820-00301_A1652(4G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1(2016 9.7in)_4G_A1674 A1675 motherboard copperAB",
-    "display_name": "iPxdPro1(2016 9.7in)_4G_A1674 A1675 motherboard copperAB",
+    "board_id": "ipad/iPxdPro1(2016 9.7inch)_820-00265_A1673(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro1(2016 9.7inch)_820-00265_A1673(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1(2016 9.7in)_WIFI_A1673 motherboardAB",
-    "display_name": "iPxdPro1(2016 9.7in)_WIFI_A1673 motherboardAB",
+    "board_id": "ipad/iPxdPro1(2016 9.7inch)_820-00266_A1674 A1675(4G) motherboard copperAB",
+    "display_name": "iPxdPro1(2016 9.7inch)_820-00266_A1674 A1675(4G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1_820-00432_A1701(WIFI) motherboardAB",
-    "display_name": "iPxdPro1_820-00432_A1701(WIFI) motherboardAB",
+    "board_id": "ipad/iPxdPro1(2017 10.5inch)_820-00432_A1701(WIFI) motherboardAB",
+    "display_name": "iPxdPro1(2017 10.5inch)_820-00432_A1701(WIFI) motherboardAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1_820-00433_A1709 A1852(4G) motherboardAB",
-    "display_name": "iPxdPro1_820-00433_A1709 A1852(4G) motherboardAB",
+    "board_id": "ipad/iPxdPro1(2017 10.5inch)_820-00433_A1709 A1852(4G) motherboardAB",
+    "display_name": "iPxdPro1(2017 10.5inch)_820-00433_A1709 A1852(4G) motherboardAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1_820-01352_A1934 A1979 A2013(4G) motherboardAB",
-    "display_name": "iPxdPro1_820-01352_A1934 A1979 A2013(4G) motherboardAB",
+    "board_id": "ipad/iPxdPro1(2018 11inch)_820-01352_A1934 A1979 A2013(4G) motherboardAB",
+    "display_name": "iPxdPro1(2018 11inch)_820-01352_A1934 A1979 A2013(4G) motherboardAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro1_820-01353_A1980(WIFI) motherboardAB",
-    "display_name": "iPxdPro1_820-01353_A1980(WIFI) motherboardAB",
+    "board_id": "ipad/iPxdPro1(2018 11inch)__820-01353_A1980(WIFI) motherboardAB",
+    "display_name": "iPxdPro1(2018 11inch)__820-01353_A1980(WIFI) motherboardAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro2(2017 12.9in)_4G_A1671 A1821 motherboard copperAB",
-    "display_name": "iPxdPro2(2017 12.9in)_4G_A1671 A1821 motherboard copperAB",
+    "board_id": "ipad/iPxdPro2(2017 12.9inch)_820-00280_A1671 A1851(4G) motherboard copperAB",
+    "display_name": "iPxdPro2(2017 12.9inch)_820-00280_A1671 A1851(4G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro2(2017 12.9in)_WIFI_A1670 motherboard copperAB",
-    "display_name": "iPxdPro2(2017 12.9in)_WIFI_A1670 motherboard copperAB",
+    "board_id": "ipad/iPxdPro2(2017 12.9inch)_820-00473_A1670(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro2(2017 12.9inch)_820-00473_A1670(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro2_820-01839_A2228(WIFI) motherboard copperAB",
-    "display_name": "iPxdPro2_820-01839_A2228(WIFI) motherboard copperAB",
-    "category": "ipad"
-  },
-  {
-    "board_id": "ipad/iPxdPro3(2018 12.9in)_4G_A2014 A1895 A1983 motherboard copperAB",
-    "display_name": "iPxdPro3(2018 12.9in)_4G_A2014 A1895 A1983 motherboard copperAB",
+    "board_id": "ipad/iPxdPro2(2020 11inch)_820-01839_A2228(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro2(2020 11inch)_820-01839_A2228(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
@@ -6125,18 +6120,23 @@
     "category": "ipad"
   },
   {
+    "board_id": "ipad/iPxdPro3(2018 12.9inch)_820-01365_A2014 A1895 A1983(4G) motherboard copperAB",
+    "display_name": "iPxdPro3(2018 12.9inch)_820-01365_A2014 A1895 A1983(4G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3(2021 11inch)_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
+    "display_name": "iPxdPro3(2021 11inch)_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
+    "board_id": "ipad/iPxdPro3(2021 11inch)_820-02300_A2377(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro3(2021 11inch)_820-02300_A2377(WIFI) motherboard copperAB",
+    "category": "ipad"
+  },
+  {
     "board_id": "ipad/iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
     "display_name": "iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
-    "category": "ipad"
-  },
-  {
-    "board_id": "ipad/iPxdPro3_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
-    "display_name": "iPxdPro3_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
-    "category": "ipad"
-  },
-  {
-    "board_id": "ipad/iPxdPro3_820-02300_A2377(WIFI) motherboard copperAB",
-    "display_name": "iPxdPro3_820-02300_A2377(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
@@ -6150,18 +6150,18 @@
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro4(2020 12.9in)_WIFI_A2229 motherboard copperAB",
-    "display_name": "iPxdPro4(2020 12.9in)_WIFI_A2229 motherboard copperAB",
+    "board_id": "ipad/iPxdPro4(2020 12.9inch)_820-01797_A2229(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro4(2020 12.9inch)_820-01797_A2229(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro4_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
-    "display_name": "iPxdPro4_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
+    "board_id": "ipad/iPxdPro4(2022 11inch)_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
+    "display_name": "iPxdPro4(2022 11inch)_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro4_820-03154_A2759(WIFI) motherboard copperAB",
-    "display_name": "iPxdPro4_820-03154_A2759(WIFI) motherboard copperAB",
+    "board_id": "ipad/iPxdPro4(2022 11inch)_820-03154_A2759(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro4(2022 11inch)_820-03154_A2759(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
@@ -6175,23 +6175,23 @@
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro5(2021 12.9in)_5G_A2379 A2461 A2462 motherboard copperAB",
-    "display_name": "iPxdPro5(2021 12.9in)_5G_A2379 A2461 A2462 motherboard copperAB",
+    "board_id": "ipad/iPxdPro5(2021 12.9inch)_820-02156_A2379 A2461 A2462(5G) motherboard copperAB",
+    "display_name": "iPxdPro5(2021 12.9inch)_820-02156_A2379 A2461 A2462(5G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro5(2021 12.9in)_WIFI_A2378 motherboard copperAB",
-    "display_name": "iPxdPro5(2021 12.9in)_WIFI_A2378 motherboard copperAB",
+    "board_id": "ipad/iPxdPro5(2021 12.9inch)_820-02415_A2378(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro5(2021 12.9inch)_820-02415_A2378(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro5_820-03371_A2836(WIFI) motherboard copperAB",
-    "display_name": "iPxdPro5_820-03371_A2836(WIFI) motherboard copperAB",
+    "board_id": "ipad/iPxdPro6(2022 12.9inch)_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
+    "display_name": "iPxdPro6(2022 12.9inch)_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
     "category": "ipad"
   },
   {
-    "board_id": "ipad/iPxdPro6_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
-    "display_name": "iPxdPro6_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
+    "board_id": "ipad/iPxdProM4(2024 11inch)_820-03371_A2836(WIFI) motherboard copperAB",
+    "display_name": "iPxdProM4(2024 11inch)_820-03371_A2836(WIFI) motherboard copperAB",
     "category": "ipad"
   },
   {
