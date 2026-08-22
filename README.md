@@ -4,9 +4,9 @@ Phần mềm cho **thợ sửa chữa điện thoại / laptop**: mở bo mạch
 bấm vào một chân là thấy ngay **mọi chân khác cùng đường (net)**, kèm **tên linh
 kiện** và **số tổng trở** đo sẵn — thay cho việc dò tay trên bo thật.
 
-> 📥 **Tải bản mới nhất:** mục **[Releases](../../releases)** → tải
-> **`VNboards_Setup.exe`** rồi chạy. Cài xong app **tự kiểm tra và cập nhật**
-> mỗi lần mở, không cần vào đây tải lại.
+> 📥 **Tải về:** xem **[Tải và cài đặt](#tải-và-cài-đặt)** bên dưới — có
+> hướng dẫn từng bước, kể cả cách xử lý khi Windows báo chặn file.
+> Cài xong app **tự kiểm tra và cập nhật** mỗi lần mở, không cần vào đây tải lại.
 
 ---
 
@@ -42,6 +42,46 @@ và **sai thì kiểm chỗ nào**; đồng thời **tô đúng màu đó lên c
 để đặt que đo cho chuẩn.
 
 ![Bảng bệnh hướng dẫn đo](anh/04-bang-benh-huong-dan-do.png)
+
+---
+
+## Tải và cài đặt
+
+### 1. Tải file cài đặt
+
+Vào **[trang Releases](../../releases/latest)** → kéo xuống mục **Assets** → tải
+**`VNboards_Setup.exe`** (khoảng 73 MB).
+
+> File `VNboards_Update.zip` nằm cạnh đó là để **app tự cập nhật**, bạn **không
+> cần** tải file này.
+
+### 2. Windows báo "Windows protected your PC" — bình thường, không phải virus
+
+Phần mềm chưa mua chứng chỉ ký số của Microsoft, nên Windows cảnh báo như vậy
+với **mọi phần mềm mới**. Cách qua:
+
+- Bấm **More info** (Thông tin thêm) → bấm **Run anyway** (Vẫn chạy).
+- Nếu Chrome/Edge chặn ngay lúc tải: bấm vào file vừa tải ở góc trình duyệt →
+  chọn **Keep** (Giữ lại).
+
+### 3. Cài đặt
+
+Chạy `VNboards_Setup.exe` → **Next** → chọn nơi cài (để mặc định là được) →
+**Install**.
+
+- **Không cần** quyền Administrator.
+- Cài xong app tự mở. Lần sau mở bằng biểu tượng **VNboards** trên Desktop
+  hoặc trong Start Menu.
+
+### 4. Tạo tài khoản (bắt buộc, để mở nội dung mạch)
+
+Mở app → tab **Đăng ký** → nhập **email thật** của bạn.
+
+Mật khẩu được gửi **tự động về hộp thư** trong vài giây — không thấy thì kiểm
+tra mục **Spam / Quảng cáo**. Đăng nhập bằng email + mật khẩu đó là dùng được
+ngay.
+
+> **Gỡ cài đặt:** Settings → Apps → Installed apps → **VNboards** → Uninstall.
 
 ---
 
