@@ -64,7 +64,36 @@ với **mọi phần mềm mới**. Cách qua:
 - Nếu Chrome/Edge chặn ngay lúc tải: bấm vào file vừa tải ở góc trình duyệt →
   chọn **Keep** (Giữ lại).
 
-### 3. Cài đặt
+### 3. Nếu Windows Security báo "Threats found" và xoá mất file
+
+Đây là **báo nhầm**, không phải virus. Lý do: phần mềm chưa mua chứng chỉ ký số
+nên Windows Defender chấm nó là "file lạ, ít người dùng" rồi cách ly cho chắc.
+Chúng tôi đã gửi báo cáo nhầm lẫn cho Microsoft để gỡ.
+
+> ⚠ **Tải lại KHÔNG giải quyết được** — Defender sẽ xoá tiếp đúng như vậy.
+> Phải lấy file ra khỏi mục cách ly theo các bước dưới đây.
+
+**Lấy lại file đã bị xoá:**
+
+1. Mở **Windows Security** (gõ "Windows Security" ở ô tìm kiếm cạnh nút Start)
+2. Vào **Virus & threat protection**
+3. Bấm **Protection history** (Lịch sử bảo vệ)
+4. Tìm mục có chữ **VNboards** → bấm vào nó
+5. Bấm **Actions** → chọn **Restore** (Khôi phục)
+
+**Rồi báo cho Windows biết đây là phần mềm tin được** (nếu không, lần sau nó lại xoá):
+
+1. Vẫn trong **Virus & threat protection**
+2. Mục **Virus & threat protection settings** → bấm **Manage settings**
+3. Kéo xuống **Exclusions** → bấm **Add or remove exclusions**
+4. Bấm **Add an exclusion** → chọn **Folder**
+5. Chọn thư mục đã cài VNboards
+   (mặc định: `C:\Users\<tên máy của bạn>\AppData\Local\Programs\VNboards`)
+
+Làm xong thì cài lại/mở lại bình thường. Nếu vướng ở bước nào, liên hệ theo mục
+[Liên hệ](#liên-hệ) bên dưới — gửi kèm ảnh chụp màn hình càng nhanh.
+
+### 4. Cài đặt
 
 Chạy `VNboards_Setup.exe` → **Next** → chọn nơi cài (để mặc định là được) →
 **Install**.
@@ -73,7 +102,7 @@ Chạy `VNboards_Setup.exe` → **Next** → chọn nơi cài (để mặc đị
 - Cài xong app tự mở. Lần sau mở bằng biểu tượng **VNboards** trên Desktop
   hoặc trong Start Menu.
 
-### 4. Tạo tài khoản (bắt buộc, để mở nội dung mạch)
+### 5. Tạo tài khoản (bắt buộc, để mở nội dung mạch)
 
 Mở app → tab **Đăng ký** → nhập **email thật** của bạn.
 
