@@ -11,28 +11,6 @@
     "thu_tu": 3199
   },
   {
-    "board_id": "Car_keys/BMW big full smart card motherboardAB",
-    "display_name": "BMW big full smart card motherboardAB",
-    "category": "Car_keys",
-    "nhanh": [
-      "Car keys series",
-      "BMW Car keys",
-      "BMW big full smart card motherboardAB"
-    ],
-    "thu_tu": null
-  },
-  {
-    "board_id": "Car_keys/BMW small full smart card motherboardAB",
-    "display_name": "BMW small full smart card motherboardAB",
-    "category": "Car_keys",
-    "nhanh": [
-      "Car keys series",
-      "BMW Car keys",
-      "BMW small full smart card motherboardAB"
-    ],
-    "thu_tu": null
-  },
-  {
     "board_id": "Car_keys/Test2 motherboard copperAB",
     "display_name": "Test2 motherboard copperAB",
     "category": "Car_keys",
@@ -125,6 +103,18 @@
       "HONORY 100 motherboardAB"
     ],
     "thu_tu": 665
+  },
+  {
+    "board_id": "HONORY/HONORY 100Pro motherboardAB",
+    "display_name": "HONORY 100Pro motherboardAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY",
+      "HONORY 100Pro",
+      "HONORY 100Pro motherboardAB"
+    ],
+    "thu_tu": 666
   },
   {
     "board_id": "HONORY/HONORY 10Youth motherboardAB",
@@ -989,6 +979,18 @@
       "HONORY Magic3 Perfection motherboardAB"
     ],
     "thu_tu": 741
+  },
+  {
+    "board_id": "HONORY/HONORY Magic3 motherboardAB",
+    "display_name": "HONORY Magic3 motherboardAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY Magic",
+      "HONORY Magic3",
+      "HONORY Magic3 motherboardAB"
+    ],
+    "thu_tu": 739
   },
   {
     "board_id": "HONORY/HONORY Magic4 Perfection motherboardAB",
@@ -1999,6 +2001,30 @@
     "thu_tu": 642
   },
   {
+    "board_id": "HW/HW ChangXiang90Plus motherboard copperAB",
+    "display_name": "HW ChangXiang90Plus motherboard copperAB",
+    "category": "HW",
+    "nhanh": [
+      "HW series",
+      "HW ChangXiang",
+      "HW ChangXiang90Plus",
+      "HW ChangXiang90Plus motherboard copperAB"
+    ],
+    "thu_tu": 643
+  },
+  {
+    "board_id": "HW/HW ChangXiang90Pro Max motherboard copperAB",
+    "display_name": "HW ChangXiang90Pro Max motherboard copperAB",
+    "category": "HW",
+    "nhanh": [
+      "HW series",
+      "HW ChangXiang",
+      "HW ChangXiang90Pro Max",
+      "HW ChangXiang90Pro Max motherboard copperAB"
+    ],
+    "thu_tu": 644
+  },
+  {
     "board_id": "HW/HW ChangXiang9E motherboardAB",
     "display_name": "HW ChangXiang9E motherboardAB",
     "category": "HW",
@@ -2693,6 +2719,18 @@
       "HW Mate70Pro motherboard copperAB"
     ],
     "thu_tu": 493
+  },
+  {
+    "board_id": "HW/HW Mate70Pro+ motherboard copperAB",
+    "display_name": "HW Mate70Pro+ motherboard copperAB",
+    "category": "HW",
+    "nhanh": [
+      "HW series",
+      "HW Mate",
+      "HW Mate70Pro+",
+      "HW Mate70Pro+ motherboard copperAB"
+    ],
+    "thu_tu": 494
   },
   {
     "board_id": "HW/HW Mate80 motherboard copperAB",
@@ -3523,30 +3561,6 @@
     "thu_tu": 571
   },
   {
-    "board_id": "HW/HW P20 motherboardAB",
-    "display_name": "HW P20 motherboardAB",
-    "category": "HW",
-    "nhanh": [
-      "HW series",
-      "HW P",
-      "HW P20",
-      "HW P20 motherboardAB"
-    ],
-    "thu_tu": 572
-  },
-  {
-    "board_id": "HW/HW P20Pro motherboardAB",
-    "display_name": "HW P20Pro motherboardAB",
-    "category": "HW",
-    "nhanh": [
-      "HW series",
-      "HW P",
-      "HW P20Pro",
-      "HW P20Pro motherboardAB"
-    ],
-    "thu_tu": 573
-  },
-  {
     "board_id": "HW/HW P30 motherboardAB",
     "display_name": "HW P30 motherboardAB",
     "category": "HW",
@@ -3775,6 +3789,18 @@
     "thu_tu": 604
   },
   {
+    "board_id": "HW/HW Pura70 motherboard copperAB",
+    "display_name": "HW Pura70 motherboard copperAB",
+    "category": "HW",
+    "nhanh": [
+      "HW series",
+      "HW P",
+      "HW Pura70",
+      "HW Pura70 motherboard copperAB"
+    ],
+    "thu_tu": 598
+  },
+  {
     "board_id": "HW/HW Pura70Pro+ motherboard copperAB",
     "display_name": "HW Pura70Pro+ motherboard copperAB",
     "category": "HW",
@@ -3785,6 +3811,18 @@
       "HW Pura70Pro+ motherboard copperAB"
     ],
     "thu_tu": 605
+  },
+  {
+    "board_id": "HW/HW Pura80 UItra motherboard copperAB",
+    "display_name": "HW Pura80 UItra motherboard copperAB",
+    "category": "HW",
+    "nhanh": [
+      "HW series",
+      "HW P",
+      "HW Pura80 UItra",
+      "HW Pura80 UItra motherboard copperAB"
+    ],
+    "thu_tu": 607
   },
   {
     "board_id": "HW/HW Pura80 motherboard copperAB",
@@ -4061,30 +4099,6 @@
     "thu_tu": 1449
   },
   {
-    "board_id": "MI/XIAO MI 10Pro motherboardAB",
-    "display_name": "XIAO MI 10Pro motherboardAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI 10",
-      "XIAO MI 10Pro",
-      "XIAO MI 10Pro motherboardAB"
-    ],
-    "thu_tu": 1454
-  },
-  {
-    "board_id": "MI/XIAO MI 10S motherboardAB",
-    "display_name": "XIAO MI 10S motherboardAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI 10",
-      "XIAO MI 10S",
-      "XIAO MI 10S motherboardAB"
-    ],
-    "thu_tu": 1456
-  },
-  {
     "board_id": "MI/XIAO MI 10T motherboardAB",
     "display_name": "XIAO MI 10T motherboardAB",
     "category": "MI",
@@ -4325,6 +4339,18 @@
     "thu_tu": 1524
   },
   {
+    "board_id": "MI/XIAO MI 15SPro motherboard copperAB",
+    "display_name": "XIAO MI 15SPro motherboard copperAB",
+    "category": "MI",
+    "nhanh": [
+      "MI series",
+      "XIAO MI 15",
+      "XIAO MI 15SPro",
+      "XIAO MI 15SPro motherboard copperAB"
+    ],
+    "thu_tu": 1526
+  },
+  {
     "board_id": "MI/XIAO MI 15Ultra motherboard copperAB",
     "display_name": "XIAO MI 15Ultra motherboard copperAB",
     "category": "MI",
@@ -4445,30 +4471,6 @@
     "thu_tu": 1541
   },
   {
-    "board_id": "MI/XIAO MI 8Exploration motherboardAB",
-    "display_name": "XIAO MI 8Exploration motherboardAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI 8",
-      "XIAO MI 8Exploration",
-      "XIAO MI 8Exploration motherboardAB"
-    ],
-    "thu_tu": 1546
-  },
-  {
-    "board_id": "MI/XIAO MI 8SE motherboard copperAB",
-    "display_name": "XIAO MI 8SE motherboard copperAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI 8",
-      "XIAO MI 8SE",
-      "XIAO MI 8SE motherboard copperAB"
-    ],
-    "thu_tu": 1539
-  },
-  {
     "board_id": "MI/XIAO MI 8Screen fingerprint motherboardAB",
     "display_name": "XIAO MI 8Screen fingerprint motherboardAB",
     "category": "MI",
@@ -4505,18 +4507,6 @@
     "thu_tu": 1550
   },
   {
-    "board_id": "MI/XIAO MI 9Pro motherboardAB",
-    "display_name": "XIAO MI 9Pro motherboardAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI 9",
-      "XIAO MI 9Pro",
-      "XIAO MI 9Pro motherboardAB"
-    ],
-    "thu_tu": 1554
-  },
-  {
     "board_id": "MI/XIAO MI 9SE motherboardAB",
     "display_name": "XIAO MI 9SE motherboardAB",
     "category": "MI",
@@ -4551,18 +4541,6 @@
       "XIAO MI 9TPro motherboardAB"
     ],
     "thu_tu": 1561
-  },
-  {
-    "board_id": "MI/XIAO MI CC9 motherboard copperAB",
-    "display_name": "XIAO MI CC9 motherboard copperAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI CC",
-      "XIAO MI CC9",
-      "XIAO MI CC9 motherboard copperAB"
-    ],
-    "thu_tu": 1563
   },
   {
     "board_id": "MI/XIAO MI CC9E motherboardAB",
@@ -4644,6 +4622,17 @@
     "thu_tu": 1577
   },
   {
+    "board_id": "MI/XIAO MI Civi5Pro motherboard copperAB",
+    "display_name": "XIAO MI Civi5Pro motherboard copperAB",
+    "category": "MI",
+    "nhanh": [
+      "MI series",
+      "XIAO MI Civi5Pro",
+      "XIAO MI Civi5Pro motherboard copperAB"
+    ],
+    "thu_tu": 1579
+  },
+  {
     "board_id": "MI/XIAO MI Max1 motherboardAB",
     "display_name": "XIAO MI Max1 motherboardAB",
     "category": "MI",
@@ -4666,6 +4655,18 @@
       "XIAO MI Max3 motherboardAB"
     ],
     "thu_tu": 1583
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Flip motherboard copperAB",
+    "display_name": "XIAO MI Mix Flip motherboard copperAB",
+    "category": "MI",
+    "nhanh": [
+      "MI series",
+      "XIAO MI Mix",
+      "XIAO MI Mix Flip",
+      "XIAO MI Mix Flip motherboard copperAB"
+    ],
+    "thu_tu": 1585
   },
   {
     "board_id": "MI/XIAO MI Mix Fold motherboardAB",
@@ -4702,6 +4703,18 @@
       "XIAO MI Mix Fold3 motherboardAB"
     ],
     "thu_tu": 1592
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Fold4 motherboard copperAB",
+    "display_name": "XIAO MI Mix Fold4 motherboard copperAB",
+    "category": "MI",
+    "nhanh": [
+      "MI series",
+      "XIAO MI Mix",
+      "XIAO MI Mix Fold4",
+      "XIAO MI Mix Fold4 motherboard copperAB"
+    ],
+    "thu_tu": 1594
   },
   {
     "board_id": "MI/XIAO MI Mix1 motherboardAB",
@@ -4859,18 +4872,6 @@
     "thu_tu": 1616
   },
   {
-    "board_id": "MI/XIAO MI motherboardAB",
-    "display_name": "XIAO MI motherboardAB",
-    "category": "MI",
-    "nhanh": [
-      "MI series",
-      "XIAO MI Max",
-      "XIAO MI Max2",
-      "XIAO MI motherboardAB"
-    ],
-    "thu_tu": 1581
-  },
-  {
     "board_id": "MI_RED/MI RED 10A motherboardAB",
     "display_name": "MI RED 10A motherboardAB",
     "category": "MI_RED",
@@ -4977,6 +4978,18 @@
       "MI RED 14R motherboardAB"
     ],
     "thu_tu": 1707
+  },
+  {
+    "board_id": "MI_RED/MI RED 15C_4G motherboard copperAB",
+    "display_name": "MI RED 15C_4G motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED 15",
+      "MI RED 15C_4G",
+      "MI RED 15C_4G motherboard copperAB"
+    ],
+    "thu_tu": 1708
   },
   {
     "board_id": "MI_RED/MI RED 3S motherboardAB",
@@ -5121,6 +5134,18 @@
       "MI RED A3 motherboardAB"
     ],
     "thu_tu": 1731
+  },
+  {
+    "board_id": "MI_RED/MI RED A5 motherboardAB",
+    "display_name": "MI RED A5 motherboardAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED A",
+      "MI RED A5",
+      "MI RED A5 motherboardAB"
+    ],
+    "thu_tu": 1733
   },
   {
     "board_id": "MI_RED/MI RED K20 motherboardAB",
@@ -5459,6 +5484,30 @@
     "thu_tu": 1810
   },
   {
+    "board_id": "MI_RED/MI RED K90 motherboard copperAB",
+    "display_name": "MI RED K90 motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED K",
+      "MI RED K90",
+      "MI RED K90 motherboard copperAB"
+    ],
+    "thu_tu": 1812
+  },
+  {
+    "board_id": "MI_RED/MI RED K90Pro Max motherboard copperAB",
+    "display_name": "MI RED K90Pro Max motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED K",
+      "MI RED K90Pro Max",
+      "MI RED K90Pro Max motherboard copperAB"
+    ],
+    "thu_tu": 1813
+  },
+  {
     "board_id": "MI_RED/MI RED Note motherboardAB",
     "display_name": "MI RED Note motherboardAB",
     "category": "MI_RED",
@@ -5735,6 +5784,18 @@
     "thu_tu": 1863
   },
   {
+    "board_id": "MI_RED/MI RED Note13 motherboard copperAB",
+    "display_name": "MI RED Note13 motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED Note",
+      "MI RED Note13",
+      "MI RED Note13 motherboard copperAB"
+    ],
+    "thu_tu": 1865
+  },
+  {
     "board_id": "MI_RED/MI RED Note13Pro motherboardAB",
     "display_name": "MI RED Note13Pro motherboardAB",
     "category": "MI_RED",
@@ -5807,6 +5868,30 @@
     "thu_tu": 1878
   },
   {
+    "board_id": "MI_RED/MI RED Note15 motherboard copperAB",
+    "display_name": "MI RED Note15 motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED Note",
+      "MI RED Note15",
+      "MI RED Note15 motherboard copperAB"
+    ],
+    "thu_tu": 1882
+  },
+  {
+    "board_id": "MI_RED/MI RED Note15Pro motherboard copperAB",
+    "display_name": "MI RED Note15Pro motherboard copperAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED Note",
+      "MI RED Note15Pro",
+      "MI RED Note15Pro motherboard copperAB"
+    ],
+    "thu_tu": 1883
+  },
+  {
     "board_id": "MI_RED/MI RED Note15Pro+ motherboard copperAB",
     "display_name": "MI RED Note15Pro+ motherboard copperAB",
     "category": "MI_RED",
@@ -5829,18 +5914,6 @@
       "MI RED Note4 motherboardAB"
     ],
     "thu_tu": 1887
-  },
-  {
-    "board_id": "MI_RED/MI RED Note4X motherboardAB",
-    "display_name": "MI RED Note4X motherboardAB",
-    "category": "MI_RED",
-    "nhanh": [
-      "MI RED",
-      "MI RED Note",
-      "MI RED NoteX",
-      "MI RED Note4X motherboardAB"
-    ],
-    "thu_tu": 1889
   },
   {
     "board_id": "MI_RED/MI RED Note7 motherboardAB",
@@ -5961,6 +6034,18 @@
       "MI RED Turbo3 motherboardAB"
     ],
     "thu_tu": 1912
+  },
+  {
+    "board_id": "MI_RED/MI RED Turbo4 motherboardAB",
+    "display_name": "MI RED Turbo4 motherboardAB",
+    "category": "MI_RED",
+    "nhanh": [
+      "MI RED",
+      "MI RED T",
+      "MI RED Turbo4",
+      "MI RED Turbo4 motherboardAB"
+    ],
+    "thu_tu": 1914
   },
   {
     "board_id": "MI_RED/MI RED Turbo4pro motherboardAB",
@@ -6803,6 +6888,17 @@
     "thu_tu": 3149
   },
   {
+    "board_id": "MZ/MZ 22 motherboard copperAB",
+    "display_name": "MZ 22 motherboard copperAB",
+    "category": "MZ",
+    "nhanh": [
+      "MZ series",
+      "MZ 22",
+      "MZ 22 motherboard copperAB"
+    ],
+    "thu_tu": 3152
+  },
+  {
     "board_id": "MZ/MZ Max6 motherboardAB",
     "display_name": "MZ Max6 motherboardAB",
     "category": "MZ",
@@ -6867,17 +6963,6 @@
       "MZ Pro6Plus motherboardAB"
     ],
     "thu_tu": 3159
-  },
-  {
-    "board_id": "MZ/MZ Pro7 motherboardAB",
-    "display_name": "MZ Pro7 motherboardAB",
-    "category": "MZ",
-    "nhanh": [
-      "MZ series",
-      "MZ Pro7",
-      "MZ Pro7 motherboardAB"
-    ],
-    "thu_tu": 3160
   },
   {
     "board_id": "MZ/MZ Pro7Plus motherboardAB",
@@ -7141,6 +7226,18 @@
       "OPP A3_5G motherboard copperAB"
     ],
     "thu_tu": 856
+  },
+  {
+    "board_id": "OPP/OPP A5 Pro motherboard copperAB",
+    "display_name": "OPP A5 Pro motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "OPP A",
+      "OPP A5 Pro",
+      "OPP A5 Pro motherboard copperAB"
+    ],
+    "thu_tu": 859
   },
   {
     "board_id": "OPP/OPP A5 motherboardAB",
@@ -7779,6 +7876,18 @@
     "thu_tu": 956
   },
   {
+    "board_id": "OPP/OPP FindX8S motherboard copperAB",
+    "display_name": "OPP FindX8S motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "OPP Find",
+      "OPP FindX8S",
+      "OPP FindX8S motherboard copperAB"
+    ],
+    "thu_tu": 957
+  },
+  {
     "board_id": "OPP/OPP FindX8Ultra motherboard copperAB",
     "display_name": "OPP FindX8Ultra motherboard copperAB",
     "category": "OPP",
@@ -7875,18 +7984,6 @@
     "thu_tu": 966
   },
   {
-    "board_id": "OPP/OPP K11 motherboardAB",
-    "display_name": "OPP K11 motherboardAB",
-    "category": "OPP",
-    "nhanh": [
-      "OPP series",
-      "OPP K",
-      "OPP K11",
-      "OPP K11 motherboardAB"
-    ],
-    "thu_tu": 969
-  },
-  {
     "board_id": "OPP/OPP K11X motherboardAB",
     "display_name": "OPP K11X motherboardAB",
     "category": "OPP",
@@ -7909,6 +8006,18 @@
       "OPP K12 motherboard copperAB"
     ],
     "thu_tu": 971
+  },
+  {
+    "board_id": "OPP/OPP K13Turbo motherboard copperAB",
+    "display_name": "OPP K13Turbo motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "OPP K",
+      "OPP K13Turbo",
+      "OPP K13Turbo motherboard copperAB"
+    ],
+    "thu_tu": 972
   },
   {
     "board_id": "OPP/OPP K3 motherboardAB",
@@ -8823,6 +8932,30 @@
     "thu_tu": 1063
   },
   {
+    "board_id": "OPP/OPP Realme V60 motherboard copperAB",
+    "display_name": "OPP Realme V60 motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "Realme",
+      "OPP Realme V60",
+      "OPP Realme V60 motherboard copperAB"
+    ],
+    "thu_tu": 1066
+  },
+  {
+    "board_id": "OPP/OPP Realme V60Pro motherboard copperAB",
+    "display_name": "OPP Realme V60Pro motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "Realme",
+      "OPP Realme V60Pro",
+      "OPP Realme V60Pro motherboard copperAB"
+    ],
+    "thu_tu": 1067
+  },
+  {
     "board_id": "OPP/OPP Realme X motherboardAB",
     "display_name": "OPP Realme X motherboardAB",
     "category": "OPP",
@@ -9159,6 +9292,18 @@
     "thu_tu": 1108
   },
   {
+    "board_id": "OPP/OPP Reno14Pro motherboard copperAB",
+    "display_name": "OPP Reno14Pro motherboard copperAB",
+    "category": "OPP",
+    "nhanh": [
+      "OPP series",
+      "Reno",
+      "OPP Reno14Pro",
+      "OPP Reno14Pro motherboard copperAB"
+    ],
+    "thu_tu": 1109
+  },
+  {
     "board_id": "OPP/OPP Reno2 motherboardAB",
     "display_name": "OPP Reno2 motherboardAB",
     "category": "OPP",
@@ -9447,18 +9592,6 @@
     "thu_tu": 1152
   },
   {
-    "board_id": "OPP/OPP Reno9Pro+ motherboardAB",
-    "display_name": "OPP Reno9Pro+ motherboardAB",
-    "category": "OPP",
-    "nhanh": [
-      "OPP series",
-      "Reno",
-      "OPP Reno9Pro+",
-      "OPP Reno9Pro+ motherboardAB"
-    ],
-    "thu_tu": 1153
-  },
-  {
     "board_id": "OPP/OPP RenoZ motherboardAB",
     "display_name": "OPP RenoZ motherboardAB",
     "category": "OPP",
@@ -9524,6 +9657,17 @@
       "OnePlus 13 motherboard copperAB"
     ],
     "thu_tu": 3168
+  },
+  {
+    "board_id": "OnePlus/OnePlus 13T motherboard copperAB",
+    "display_name": "OnePlus 13T motherboard copperAB",
+    "category": "OnePlus",
+    "nhanh": [
+      "OnePlus series",
+      "OnePlus 13T",
+      "OnePlus 13T motherboard copperAB"
+    ],
+    "thu_tu": 3169
   },
   {
     "board_id": "OnePlus/OnePlus 3T motherboardAB",
@@ -9768,6 +9912,17 @@
     "thu_tu": 3193
   },
   {
+    "board_id": "OnePlus/OnePlus Ace5Pro motherboard copperAB",
+    "display_name": "OnePlus Ace5Pro motherboard copperAB",
+    "category": "OnePlus",
+    "nhanh": [
+      "OnePlus series",
+      "OnePlus Ace5Pro",
+      "OnePlus Ace5Pro motherboard copperAB"
+    ],
+    "thu_tu": 3194
+  },
+  {
     "board_id": "OnePlus/OnePlus AcePro motherboardAB",
     "display_name": "OnePlus AcePro motherboardAB",
     "category": "OnePlus",
@@ -9871,6 +10026,18 @@
       "DJ Yu3Pro motherboard copperAB"
     ],
     "thu_tu": 4787
+  },
+  {
+    "board_id": "UAV/DJ Yu4Pro motherboard copperAB",
+    "display_name": "DJ Yu4Pro motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Yu4Pro",
+      "DJ Yu4Pro motherboard copperAB"
+    ],
+    "thu_tu": 4788
   },
   {
     "board_id": "UAV/DJ YuPro motherboard copperAB",
@@ -11421,6 +11588,18 @@
     "thu_tu": 1291
   },
   {
+    "board_id": "VIV/VIV Y200T motherboard copperAB",
+    "display_name": "VIV Y200T motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "VIV Y",
+      "VIV Y200T",
+      "VIV Y200T motherboard copperAB"
+    ],
+    "thu_tu": 1292
+  },
+  {
     "board_id": "VIV/VIV Y200i motherboard copperAB",
     "display_name": "VIV Y200i motherboard copperAB",
     "category": "VIV",
@@ -12237,6 +12416,18 @@
     "thu_tu": 1393
   },
   {
+    "board_id": "VIV/VIV iqoo 13 motherboard copperAB",
+    "display_name": "VIV iqoo 13 motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "iqoo",
+      "VIV iqoo 13",
+      "VIV iqoo 13 motherboard copperAB"
+    ],
+    "thu_tu": 1395
+  },
+  {
     "board_id": "VIV/VIV iqoo 3 motherboardAB",
     "display_name": "VIV iqoo 3 motherboardAB",
     "category": "VIV",
@@ -12355,6 +12546,18 @@
       "VIV iqoo 9Pro motherboardAB"
     ],
     "thu_tu": 1405
+  },
+  {
+    "board_id": "VIV/VIV iqoo Neo10 motherboardAB",
+    "display_name": "VIV iqoo Neo10 motherboardAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "iqoo",
+      "VIV iqoo Neo10",
+      "VIV iqoo Neo10 motherboardAB"
+    ],
+    "thu_tu": 1406
   },
   {
     "board_id": "VIV/VIV iqoo Neo3 motherboardAB",
@@ -13025,18 +13228,6 @@
     "thu_tu": 3422
   },
   {
-    "board_id": "infini/infini Tecno CamonC7 motherboardAB",
-    "display_name": "infini Tecno CamonC7 motherboardAB",
-    "category": "infini",
-    "nhanh": [
-      "infini Series",
-      "infini Tecno",
-      "infini Tecno CamonC7",
-      "infini Tecno CamonC7 motherboardAB"
-    ],
-    "thu_tu": 3424
-  },
-  {
     "board_id": "infini/infini Tecno CamonIn5 motherboardAB",
     "display_name": "infini Tecno CamonIn5 motherboardAB",
     "category": "infini",
@@ -13541,18 +13732,6 @@
     "thu_tu": 3858
   },
   {
-    "board_id": "infini/infini X622 motherboardAB",
-    "display_name": "infini X622 motherboardAB",
-    "category": "infini",
-    "nhanh": [
-      "infini Series",
-      "infini X",
-      "infini X622",
-      "infini X622 motherboardAB"
-    ],
-    "thu_tu": 3860
-  },
-  {
     "board_id": "infini/infini X624 motherboardAB",
     "display_name": "infini X624 motherboardAB",
     "category": "infini",
@@ -13755,18 +13934,6 @@
       "infini X665C motherboardAB"
     ],
     "thu_tu": 3903
-  },
-  {
-    "board_id": "infini/infini X669 motherboardAB",
-    "display_name": "infini X669 motherboardAB",
-    "category": "infini",
-    "nhanh": [
-      "infini Series",
-      "infini X",
-      "infini X669",
-      "infini X669 motherboardAB"
-    ],
-    "thu_tu": 3904
   },
   {
     "board_id": "infini/infini X670 motherboardAB",
@@ -14009,18 +14176,6 @@
     "thu_tu": 3938
   },
   {
-    "board_id": "infini/infini X689 motherboardAB",
-    "display_name": "infini X689 motherboardAB",
-    "category": "infini",
-    "nhanh": [
-      "infini Series",
-      "infini X",
-      "infini X689",
-      "infini X689 motherboardAB"
-    ],
-    "thu_tu": 3939
-  },
-  {
     "board_id": "infini/infini X690 motherboardAB",
     "display_name": "infini X690 motherboardAB",
     "category": "infini",
@@ -14091,6 +14246,150 @@
       "infini it1409 motherboardAB"
     ],
     "thu_tu": 3968
+  },
+  {
+    "board_id": "infini/infini itelA26 motherboardAB",
+    "display_name": "infini itelA26 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA26",
+      "infini itelA26 motherboardAB"
+    ],
+    "thu_tu": 4213
+  },
+  {
+    "board_id": "infini/infini itelA49 motherboardAB",
+    "display_name": "infini itelA49 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA49",
+      "infini itelA49 motherboardAB"
+    ],
+    "thu_tu": 4214
+  },
+  {
+    "board_id": "infini/infini itelA50 motherboardAB",
+    "display_name": "infini itelA50 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA50",
+      "infini itelA50 motherboardAB"
+    ],
+    "thu_tu": 4215
+  },
+  {
+    "board_id": "infini/infini itelA60S motherboardAB",
+    "display_name": "infini itelA60S motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA60S",
+      "infini itelA60S motherboardAB"
+    ],
+    "thu_tu": 4217
+  },
+  {
+    "board_id": "infini/infini itelA70 motherboardAB",
+    "display_name": "infini itelA70 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA70",
+      "infini itelA70 motherboardAB"
+    ],
+    "thu_tu": 4218
+  },
+  {
+    "board_id": "infini/infini itelA80 motherboardAB",
+    "display_name": "infini itelA80 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelA80",
+      "infini itelA80 motherboardAB"
+    ],
+    "thu_tu": 4219
+  },
+  {
+    "board_id": "infini/infini itelL6005_Ok motherboardAB",
+    "display_name": "infini itelL6005_Ok motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelL6005_Ok",
+      "infini itelL6005_Ok motherboardAB"
+    ],
+    "thu_tu": 4220
+  },
+  {
+    "board_id": "infini/infini itelL6502 motherboardAB",
+    "display_name": "infini itelL6502 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelL6502",
+      "infini itelL6502 motherboardAB"
+    ],
+    "thu_tu": 4221
+  },
+  {
+    "board_id": "infini/infini itelP40 motherboardAB",
+    "display_name": "infini itelP40 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelP40",
+      "infini itelP40 motherboardAB"
+    ],
+    "thu_tu": 4222
+  },
+  {
+    "board_id": "infini/infini itelS16 motherboardAB",
+    "display_name": "infini itelS16 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelS16",
+      "infini itelS16 motherboardAB"
+    ],
+    "thu_tu": 4223
+  },
+  {
+    "board_id": "infini/infini itelS23 motherboardAB",
+    "display_name": "infini itelS23 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelS23",
+      "infini itelS23 motherboardAB"
+    ],
+    "thu_tu": 4224
+  },
+  {
+    "board_id": "infini/infini itelVison5 motherboardAB",
+    "display_name": "infini itelVison5 motherboardAB",
+    "category": "infini",
+    "nhanh": [
+      "infini Series",
+      "infini itel",
+      "infini itelVison5",
+      "infini itelVison5 motherboardAB"
+    ],
+    "thu_tu": 4225
   },
   {
     "board_id": "ipad/iPxd10(2022 10.9in)_820-02604_A2696(WIFI) motherboard copperAB",
@@ -14237,18 +14536,6 @@
     "thu_tu": 359
   },
   {
-    "board_id": "ipad/iPxd7(2019 10.2in)_820-01685_A2198 A2199 A2200(4G) motherboard copperAB",
-    "display_name": "iPxd7(2019 10.2in)_820-01685_A2198 A2199 A2200(4G) motherboard copperAB",
-    "category": "ipad",
-    "nhanh": [
-      "iPxd series",
-      "iPxd",
-      "iPxd7(2019 10.2in)_820-01685_A2198 A2199 A2200(4G)",
-      "iPxd7(2019 10.2in)_820-01685_A2198 A2199 A2200(4G) motherboard copperAB"
-    ],
-    "thu_tu": 360
-  },
-  {
     "board_id": "ipad/iPxd8(2020 10.2in)_820-01930_A2270(WIFI) motherboard copperAB",
     "display_name": "iPxd8(2020 10.2in)_820-01930_A2270(WIFI) motherboard copperAB",
     "category": "ipad",
@@ -14261,16 +14548,16 @@
     "thu_tu": 361
   },
   {
-    "board_id": "ipad/iPxd8_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
-    "display_name": "iPxd8_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
+    "board_id": "ipad/iPxd8(2020 10.2in)_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
+    "display_name": "iPxd8(2020 10.2in)_820-01931_A2428 A2429 A2430(4G) motherboard copperAB",
     "category": "ipad",
     "nhanh": [
       "iPxd series",
       "iPxd",
-      "iPxd8_820-01931_A2428 A2429 A2430(4G)",
-      "iPxd8_820-01931_A2428 A2429 A2430(4G) motherboard copperAB"
+      "iPxd8(2020 10.2in)_820-01931_A2428 A2429 A2430(4G)",
+      "iPxd8(2020 10.2in)_820-01931_A2428 A2429 A2430(4G) motherboard copperAB"
     ],
-    "thu_tu": null
+    "thu_tu": 362
   },
   {
     "board_id": "ipad/iPxd9(2021 10.2in)_820-02262_A2602(WIFI) motherboard copperAB",
@@ -14405,16 +14692,16 @@
     "thu_tu": 376
   },
   {
-    "board_id": "ipad/iPxdAir4_820-02274_A2316(WIFI) motherboard copperAB",
-    "display_name": "iPxdAir4_820-02274_A2316(WIFI) motherboard copperAB",
+    "board_id": "ipad/iPxdAir4(2020 10.9in)_820-02274_A2316(WIFI) motherboard copperAB",
+    "display_name": "iPxdAir4(2020 10.9in)_820-02274_A2316(WIFI) motherboard copperAB",
     "category": "ipad",
     "nhanh": [
       "iPxd series",
       "iPxd Air",
-      "iPxdAir4_820-02274_A2316(WIFI)",
-      "iPxdAir4_820-02274_A2316(WIFI) motherboard copperAB"
+      "iPxdAir4(2020 10.9in)_820-02274_A2316(WIFI)",
+      "iPxdAir4(2020 10.9in)_820-02274_A2316(WIFI) motherboard copperAB"
     ],
-    "thu_tu": null
+    "thu_tu": 377
   },
   {
     "board_id": "ipad/iPxdAir5(2022 10.9in)_820-02532_A2589 A2591(5G) motherboard copperAB",
@@ -14573,6 +14860,18 @@
     "thu_tu": 391
   },
   {
+    "board_id": "ipad/iPxdPro2(2020 11inch)_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
+    "display_name": "iPxdPro2(2020 11inch)_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxdPro2(2020 11inch)_820-01838_A2068 A2230 A2231(4G)",
+      "iPxdPro2(2020 11inch)_820-01838_A2068 A2230 A2231(4G) motherboard copperAB"
+    ],
+    "thu_tu": 392
+  },
+  {
     "board_id": "ipad/iPxdPro2(2020 11inch)_820-01839_A2228(WIFI) motherboard copperAB",
     "display_name": "iPxdPro2(2020 11inch)_820-01839_A2228(WIFI) motherboard copperAB",
     "category": "ipad",
@@ -14585,18 +14884,6 @@
     "thu_tu": 393
   },
   {
-    "board_id": "ipad/iPxdPro3(2018 12.9in)_WIFI_A1876 motherboard copperAB",
-    "display_name": "iPxdPro3(2018 12.9in)_WIFI_A1876 motherboard copperAB",
-    "category": "ipad",
-    "nhanh": [
-      "iPxd series",
-      "iPxd Pro",
-      "iPxdPro3(2018 12.9in)_WIFI_A1876",
-      "iPxdPro3(2018 12.9in)_WIFI_A1876 motherboard copperAB"
-    ],
-    "thu_tu": null
-  },
-  {
     "board_id": "ipad/iPxdPro3(2018 12.9inch)_820-01365_A2014 A1895 A1983(4G) motherboard copperAB",
     "display_name": "iPxdPro3(2018 12.9inch)_820-01365_A2014 A1895 A1983(4G) motherboard copperAB",
     "category": "ipad",
@@ -14607,6 +14894,18 @@
       "iPxdPro3(2018 12.9inch)_820-01365_A2014 A1895 A1983(4G) motherboard copperAB"
     ],
     "thu_tu": 394
+  },
+  {
+    "board_id": "ipad/iPxdPro3(2018 12.9inch)_820-01435_A1876(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro3(2018 12.9inch)_820-01435_A1876(WIFI) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxdPro3(2018 12.9inch)_820-01435_A1876(WIFI)",
+      "iPxdPro3(2018 12.9inch)_820-01435_A1876(WIFI) motherboard copperAB"
+    ],
+    "thu_tu": 395
   },
   {
     "board_id": "ipad/iPxdPro3(2021 11inch)_820-02172_A2301 A2459 A2460(5G) motherboard copperAB",
@@ -14633,18 +14932,6 @@
     "thu_tu": 397
   },
   {
-    "board_id": "ipad/iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
-    "display_name": "iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB",
-    "category": "ipad",
-    "nhanh": [
-      "iPxd series",
-      "iPxd Pro",
-      "iPxdPro3_820-01838_A2068 A2230 A2231(4G)",
-      "iPxdPro3_820-01838_A2068 A2230 A2231(4G) motherboard copperAB"
-    ],
-    "thu_tu": null
-  },
-  {
     "board_id": "ipad/iPxdPro4(12.9in) display motherboard copperAB",
     "display_name": "iPxdPro4(12.9in) display motherboard copperAB",
     "category": "ipad",
@@ -14657,18 +14944,6 @@
     "thu_tu": 399
   },
   {
-    "board_id": "ipad/iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233 motherboard copperAB",
-    "display_name": "iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233 motherboard copperAB",
-    "category": "ipad",
-    "nhanh": [
-      "iPxd series",
-      "iPxd Pro",
-      "iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233",
-      "iPxdPro4(2020 12.9in)_4G_A2069 A2232 A2233 motherboard copperAB"
-    ],
-    "thu_tu": null
-  },
-  {
     "board_id": "ipad/iPxdPro4(2020 12.9inch)_820-01797_A2229(WIFI) motherboard copperAB",
     "display_name": "iPxdPro4(2020 12.9inch)_820-01797_A2229(WIFI) motherboard copperAB",
     "category": "ipad",
@@ -14679,6 +14954,18 @@
       "iPxdPro4(2020 12.9inch)_820-01797_A2229(WIFI) motherboard copperAB"
     ],
     "thu_tu": 400
+  },
+  {
+    "board_id": "ipad/iPxdPro4(2020 12.9inch)_820-01798_A2069 A2232 A2233(4G) motherboard copperAB",
+    "display_name": "iPxdPro4(2020 12.9inch)_820-01798_A2069 A2232 A2233(4G) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxdPro4(2020 12.9inch)_820-01798_A2069 A2232 A2233(4G)",
+      "iPxdPro4(2020 12.9inch)_820-01798_A2069 A2232 A2233(4G) motherboard copperAB"
+    ],
+    "thu_tu": 401
   },
   {
     "board_id": "ipad/iPxdPro4(2022 11inch)_820-03102_A2761 A2435 A2762(5G) motherboard copperAB",
@@ -14753,6 +15040,18 @@
     "thu_tu": 407
   },
   {
+    "board_id": "ipad/iPxdPro6(2022 12.9inch)_820-03058_A2436(WIFI) motherboard copperAB",
+    "display_name": "iPxdPro6(2022 12.9inch)_820-03058_A2436(WIFI) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxdPro6(2022 12.9inch)_820-03058_A2436(WIFI)",
+      "iPxdPro6(2022 12.9inch)_820-03058_A2436(WIFI) motherboard copperAB"
+    ],
+    "thu_tu": 408
+  },
+  {
     "board_id": "ipad/iPxdPro6(2022 12.9inch)_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
     "display_name": "iPxdPro6(2022 12.9inch)_820-03059_A2437 A2764 A2766(5G) motherboard copperAB",
     "category": "ipad",
@@ -14811,6 +15110,18 @@
       "iPxdmini2(2013 7.9in)_820-3683_A1489(WIFI) motherboardAB"
     ],
     "thu_tu": 414
+  },
+  {
+    "board_id": "ipad/iPxdmini2(2013 7.9in)_820-3684_A1490 A1491(4G) motherboardAB",
+    "display_name": "iPxdmini2(2013 7.9in)_820-3684_A1490 A1491(4G) motherboardAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd mini",
+      "iPxdmini2(2013 7.9in)_820-3684_A1490 A1491(4G)",
+      "iPxdmini2(2013 7.9in)_820-3684_A1490 A1491(4G) motherboardAB"
+    ],
+    "thu_tu": 415
   },
   {
     "board_id": "ipad/iPxdmini3(2014 7.9in)_820-00002_A1600(4G) motherboardAB",
@@ -14933,6 +15244,39 @@
     "thu_tu": 425
   },
   {
+    "board_id": "iphone/iPhxne17 IR camera lattice FPCAB",
+    "display_name": "iPhxne17 IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17",
+      "iPhxne17 IR camera lattice FPCAB"
+    ],
+    "thu_tu": 56
+  },
+  {
+    "board_id": "iphone/iPhxne17Pro IR camera lattice FPCAB",
+    "display_name": "iPhxne17Pro IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Pro",
+      "iPhxne17Pro IR camera lattice FPCAB"
+    ],
+    "thu_tu": 50
+  },
+  {
+    "board_id": "iphone/iPhxne6 motherboard",
+    "display_name": "iPhxne6 motherboard",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne6",
+      "iPhxne6 motherboard"
+    ],
+    "thu_tu": 337
+  },
+  {
     "board_id": "iphone/iPhxne6Plus motherboard",
     "display_name": "iPhxne6Plus motherboard",
     "category": "iphone",
@@ -15032,6 +15376,83 @@
     "thu_tu": 328
   },
   {
+    "board_id": "iphone/iphxne Hard disk BGA110AB",
+    "display_name": "iphxne Hard disk BGA110AB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne Hard disk",
+      "iphxne Hard disk BGA110AB"
+    ],
+    "thu_tu": 27
+  },
+  {
+    "board_id": "iphone/iphxne Hard disk BGA60AB",
+    "display_name": "iphxne Hard disk BGA60AB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne Hard disk",
+      "iphxne Hard disk BGA60AB"
+    ],
+    "thu_tu": 26
+  },
+  {
+    "board_id": "iphone/iphxne Hard disk BGA70AB",
+    "display_name": "iphxne Hard disk BGA70AB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne Hard disk",
+      "iphxne Hard disk BGA70AB"
+    ],
+    "thu_tu": 25
+  },
+  {
+    "board_id": "iphone/iphxne11 IR Front camera FPCAB",
+    "display_name": "iphxne11 IR Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11",
+      "iphxne11 IR Front camera FPCAB"
+    ],
+    "thu_tu": 282
+  },
+  {
+    "board_id": "iphone/iphxne11 Lattice projectionAB",
+    "display_name": "iphxne11 Lattice projectionAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11",
+      "iphxne11 Lattice projectionAB"
+    ],
+    "thu_tu": 281
+  },
+  {
+    "board_id": "iphone/iphxne11 Tail dockAB",
+    "display_name": "iphxne11 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11",
+      "iphxne11 Tail dockAB"
+    ],
+    "thu_tu": 279
+  },
+  {
+    "board_id": "iphone/iphxne11 back camera FPCAB",
+    "display_name": "iphxne11 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11",
+      "iphxne11 back camera FPCAB"
+    ],
+    "thu_tu": 278
+  },
+  {
     "board_id": "iphone/iphxne11 motherboard copperAB",
     "display_name": "iphxne11 motherboard copperAB",
     "category": "iphone",
@@ -15041,6 +15462,28 @@
       "iphxne11 motherboard copperAB"
     ],
     "thu_tu": 276
+  },
+  {
+    "board_id": "iphone/iphxne11Pro Max Tail dock FPCAB",
+    "display_name": "iphxne11Pro Max Tail dock FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11Pro Max",
+      "iphxne11Pro Max Tail dock FPCAB"
+    ],
+    "thu_tu": 261
+  },
+  {
+    "board_id": "iphone/iphxne11Pro Max back camera FPCAB",
+    "display_name": "iphxne11Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11Pro Max",
+      "iphxne11Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 260
   },
   {
     "board_id": "iphone/iphxne11Pro Max motherboard copperAB",
@@ -15054,6 +15497,28 @@
     "thu_tu": 259
   },
   {
+    "board_id": "iphone/iphxne11Pro Tail dock FPCAB",
+    "display_name": "iphxne11Pro Tail dock FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11Pro",
+      "iphxne11Pro Tail dock FPCAB"
+    ],
+    "thu_tu": 270
+  },
+  {
+    "board_id": "iphone/iphxne11Pro back camera FPCAB",
+    "display_name": "iphxne11Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne11Pro",
+      "iphxne11Pro back camera FPCAB"
+    ],
+    "thu_tu": 269
+  },
+  {
     "board_id": "iphone/iphxne11Pro motherboard copperAB",
     "display_name": "iphxne11Pro motherboard copperAB",
     "category": "iphone",
@@ -15063,6 +15528,61 @@
       "iphxne11Pro motherboard copperAB"
     ],
     "thu_tu": 267
+  },
+  {
+    "board_id": "iphone/iphxne12 Front camera FPCAB",
+    "display_name": "iphxne12 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne12",
+      "iphxne12 Front camera FPCAB"
+    ],
+    "thu_tu": 231
+  },
+  {
+    "board_id": "iphone/iphxne12 IR camera FPCAB",
+    "display_name": "iphxne12 IR camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne12",
+      "iphxne12 IR camera FPCAB"
+    ],
+    "thu_tu": 230
+  },
+  {
+    "board_id": "iphone/iphxne12 Tail dockAB",
+    "display_name": "iphxne12 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne12",
+      "iphxne12 Tail dockAB"
+    ],
+    "thu_tu": 229
+  },
+  {
+    "board_id": "iphone/iphxne12 Touch FPCAB",
+    "display_name": "iphxne12 Touch FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne12",
+      "iphxne12 Touch FPCAB"
+    ],
+    "thu_tu": 228
+  },
+  {
+    "board_id": "iphone/iphxne12 back camera FPCAB",
+    "display_name": "iphxne12 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxne12",
+      "iphxne12 back camera FPCAB"
+    ],
+    "thu_tu": 226
   },
   {
     "board_id": "iphone/iphxne12 motherboard copperAB",
@@ -15076,6 +15596,39 @@
     "thu_tu": 225
   },
   {
+    "board_id": "iphone/iphxne12Mini Dot matrix cableAB",
+    "display_name": "iphxne12Mini Dot matrix cableAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Mini",
+      "iphxne12Mini Dot matrix cableAB"
+    ],
+    "thu_tu": 222
+  },
+  {
+    "board_id": "iphone/iphxne12Mini Tail dockAB",
+    "display_name": "iphxne12Mini Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Mini",
+      "iphxne12Mini Tail dockAB"
+    ],
+    "thu_tu": 219
+  },
+  {
+    "board_id": "iphone/iphxne12Mini back camera FPCAB",
+    "display_name": "iphxne12Mini back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Mini",
+      "iphxne12Mini back camera FPCAB"
+    ],
+    "thu_tu": 217
+  },
+  {
     "board_id": "iphone/iphxne12Mini motherboard copperAB",
     "display_name": "iphxne12Mini motherboard copperAB",
     "category": "iphone",
@@ -15085,6 +15638,39 @@
       "iphxne12Mini motherboard copperAB"
     ],
     "thu_tu": 216
+  },
+  {
+    "board_id": "iphone/iphxne12Pro Max Dot matrix cableAB",
+    "display_name": "iphxne12Pro Max Dot matrix cableAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro Max",
+      "iphxne12Pro Max Dot matrix cableAB"
+    ],
+    "thu_tu": 202
+  },
+  {
+    "board_id": "iphone/iphxne12Pro Max Tail dockAB",
+    "display_name": "iphxne12Pro Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro Max",
+      "iphxne12Pro Max Tail dockAB"
+    ],
+    "thu_tu": 199
+  },
+  {
+    "board_id": "iphone/iphxne12Pro Max back camera FPCAB",
+    "display_name": "iphxne12Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro Max",
+      "iphxne12Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 197
   },
   {
     "board_id": "iphone/iphxne12Pro Max motherboard copperAB",
@@ -15098,6 +15684,39 @@
     "thu_tu": 196
   },
   {
+    "board_id": "iphone/iphxne12Pro Tail dockAB",
+    "display_name": "iphxne12Pro Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro",
+      "iphxne12Pro Tail dockAB"
+    ],
+    "thu_tu": 210
+  },
+  {
+    "board_id": "iphone/iphxne12Pro Touch FPCAB",
+    "display_name": "iphxne12Pro Touch FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro",
+      "iphxne12Pro Touch FPCAB"
+    ],
+    "thu_tu": 209
+  },
+  {
+    "board_id": "iphone/iphxne12Pro back camera FPCAB",
+    "display_name": "iphxne12Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne12Pro",
+      "iphxne12Pro back camera FPCAB"
+    ],
+    "thu_tu": 207
+  },
+  {
     "board_id": "iphone/iphxne12Pro motherboard copperAB",
     "display_name": "iphxne12Pro motherboard copperAB",
     "category": "iphone",
@@ -15107,6 +15726,50 @@
       "iphxne12Pro motherboard copperAB"
     ],
     "thu_tu": 206
+  },
+  {
+    "board_id": "iphone/iphxne13 Front camera FPCAB",
+    "display_name": "iphxne13 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13",
+      "iphxne13 Front camera FPCAB"
+    ],
+    "thu_tu": 186
+  },
+  {
+    "board_id": "iphone/iphxne13 IR camera lattice FPCAB",
+    "display_name": "iphxne13 IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13",
+      "iphxne13 IR camera lattice FPCAB"
+    ],
+    "thu_tu": 185
+  },
+  {
+    "board_id": "iphone/iphxne13 Tail dockAB",
+    "display_name": "iphxne13 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13",
+      "iphxne13 Tail dockAB"
+    ],
+    "thu_tu": 184
+  },
+  {
+    "board_id": "iphone/iphxne13 back camera FPCAB",
+    "display_name": "iphxne13 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13",
+      "iphxne13 back camera FPCAB"
+    ],
+    "thu_tu": 182
   },
   {
     "board_id": "iphone/iphxne13 motherboard copperAB",
@@ -15120,6 +15783,50 @@
     "thu_tu": 181
   },
   {
+    "board_id": "iphone/iphxne13Mini Front camera FPCAB",
+    "display_name": "iphxne13Mini Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Mini",
+      "iphxne13Mini Front camera FPCAB"
+    ],
+    "thu_tu": 195
+  },
+  {
+    "board_id": "iphone/iphxne13Mini IR camera lattice FPCAB",
+    "display_name": "iphxne13Mini IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Mini",
+      "iphxne13Mini IR camera lattice FPCAB"
+    ],
+    "thu_tu": 194
+  },
+  {
+    "board_id": "iphone/iphxne13Mini Tail dockAB",
+    "display_name": "iphxne13Mini Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Mini",
+      "iphxne13Mini Tail dockAB"
+    ],
+    "thu_tu": 193
+  },
+  {
+    "board_id": "iphone/iphxne13Mini back camera FPCAB",
+    "display_name": "iphxne13Mini back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Mini",
+      "iphxne13Mini back camera FPCAB"
+    ],
+    "thu_tu": 191
+  },
+  {
     "board_id": "iphone/iphxne13Mini motherboard copperAB",
     "display_name": "iphxne13Mini motherboard copperAB",
     "category": "iphone",
@@ -15129,6 +15836,72 @@
       "iphxne13Mini motherboard copperAB"
     ],
     "thu_tu": 190
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Front camera FPCAB",
+    "display_name": "iphxne13Pro Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro",
+      "iphxne13Pro Front camera FPCAB"
+    ],
+    "thu_tu": 177
+  },
+  {
+    "board_id": "iphone/iphxne13Pro IR camera lattice FPCAB",
+    "display_name": "iphxne13Pro IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro",
+      "iphxne13Pro IR camera lattice FPCAB"
+    ],
+    "thu_tu": 176
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Max Front camera FPCAB",
+    "display_name": "iphxne13Pro Max Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro Max",
+      "iphxne13Pro Max Front camera FPCAB"
+    ],
+    "thu_tu": 166
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Max IR camera lattice FPCAB",
+    "display_name": "iphxne13Pro Max IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro Max",
+      "iphxne13Pro Max IR camera lattice FPCAB"
+    ],
+    "thu_tu": 165
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Max Tail dockAB",
+    "display_name": "iphxne13Pro Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro Max",
+      "iphxne13Pro Max Tail dockAB"
+    ],
+    "thu_tu": 163
+  },
+  {
+    "board_id": "iphone/iphxne13Pro Max back camera FPCAB",
+    "display_name": "iphxne13Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro Max",
+      "iphxne13Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 161
   },
   {
     "board_id": "iphone/iphxne13Pro Max motherboard copperAB",
@@ -15142,6 +15915,28 @@
     "thu_tu": 160
   },
   {
+    "board_id": "iphone/iphxne13Pro Tail dockAB",
+    "display_name": "iphxne13Pro Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro",
+      "iphxne13Pro Tail dockAB"
+    ],
+    "thu_tu": 174
+  },
+  {
+    "board_id": "iphone/iphxne13Pro back camera FPCAB",
+    "display_name": "iphxne13Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne13Pro",
+      "iphxne13Pro back camera FPCAB"
+    ],
+    "thu_tu": 172
+  },
+  {
     "board_id": "iphone/iphxne13Pro motherboard copperAB",
     "display_name": "iphxne13Pro motherboard copperAB",
     "category": "iphone",
@@ -15151,6 +15946,50 @@
       "iphxne13Pro motherboard copperAB"
     ],
     "thu_tu": 171
+  },
+  {
+    "board_id": "iphone/iphxne14 Front camera FPCAB",
+    "display_name": "iphxne14 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14",
+      "iphxne14 Front camera FPCAB"
+    ],
+    "thu_tu": 150
+  },
+  {
+    "board_id": "iphone/iphxne14 IR camera lattice FPCAB",
+    "display_name": "iphxne14 IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14",
+      "iphxne14 IR camera lattice FPCAB"
+    ],
+    "thu_tu": 149
+  },
+  {
+    "board_id": "iphone/iphxne14 Tail dockAB",
+    "display_name": "iphxne14 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14",
+      "iphxne14 Tail dockAB"
+    ],
+    "thu_tu": 148
+  },
+  {
+    "board_id": "iphone/iphxne14 back camera FPCAB",
+    "display_name": "iphxne14 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14",
+      "iphxne14 back camera FPCAB"
+    ],
+    "thu_tu": 146
   },
   {
     "board_id": "iphone/iphxne14 motherboard copperAB",
@@ -15164,6 +16003,50 @@
     "thu_tu": 145
   },
   {
+    "board_id": "iphone/iphxne14Plus Front camera FPCAB",
+    "display_name": "iphxne14Plus Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Plus",
+      "iphxne14Plus Front camera FPCAB"
+    ],
+    "thu_tu": 142
+  },
+  {
+    "board_id": "iphone/iphxne14Plus IR camera lattice FPCAB",
+    "display_name": "iphxne14Plus IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Plus",
+      "iphxne14Plus IR camera lattice FPCAB"
+    ],
+    "thu_tu": 141
+  },
+  {
+    "board_id": "iphone/iphxne14Plus Tail dockAB",
+    "display_name": "iphxne14Plus Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Plus",
+      "iphxne14Plus Tail dockAB"
+    ],
+    "thu_tu": 140
+  },
+  {
+    "board_id": "iphone/iphxne14Plus back camera FPCAB",
+    "display_name": "iphxne14Plus back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Plus",
+      "iphxne14Plus back camera FPCAB"
+    ],
+    "thu_tu": 138
+  },
+  {
     "board_id": "iphone/iphxne14Plus motherboard copperAB",
     "display_name": "iphxne14Plus motherboard copperAB",
     "category": "iphone",
@@ -15173,6 +16056,72 @@
       "iphxne14Plus motherboard copperAB"
     ],
     "thu_tu": 137
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Front camera FPCAB",
+    "display_name": "iphxne14Pro Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro",
+      "iphxne14Pro Front camera FPCAB"
+    ],
+    "thu_tu": 135
+  },
+  {
+    "board_id": "iphone/iphxne14Pro IR camera lattice FPCAB",
+    "display_name": "iphxne14Pro IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro",
+      "iphxne14Pro IR camera lattice FPCAB"
+    ],
+    "thu_tu": 134
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Max Front camera FPCAB",
+    "display_name": "iphxne14Pro Max Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro Max",
+      "iphxne14Pro Max Front camera FPCAB"
+    ],
+    "thu_tu": 125
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Max IR camera lattice FPCAB",
+    "display_name": "iphxne14Pro Max IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro Max",
+      "iphxne14Pro Max IR camera lattice FPCAB"
+    ],
+    "thu_tu": 124
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Max Tail dockAB",
+    "display_name": "iphxne14Pro Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro Max",
+      "iphxne14Pro Max Tail dockAB"
+    ],
+    "thu_tu": 123
+  },
+  {
+    "board_id": "iphone/iphxne14Pro Max back camera FPCAB",
+    "display_name": "iphxne14Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro Max",
+      "iphxne14Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 121
   },
   {
     "board_id": "iphone/iphxne14Pro Max motherboard copperAB",
@@ -15186,6 +16135,28 @@
     "thu_tu": 120
   },
   {
+    "board_id": "iphone/iphxne14Pro Tail dockAB",
+    "display_name": "iphxne14Pro Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro",
+      "iphxne14Pro Tail dockAB"
+    ],
+    "thu_tu": 133
+  },
+  {
+    "board_id": "iphone/iphxne14Pro back camera FPCAB",
+    "display_name": "iphxne14Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne14Pro",
+      "iphxne14Pro back camera FPCAB"
+    ],
+    "thu_tu": 131
+  },
+  {
     "board_id": "iphone/iphxne14Pro motherboard copperAB",
     "display_name": "iphxne14Pro motherboard copperAB",
     "category": "iphone",
@@ -15195,6 +16166,50 @@
       "iphxne14Pro motherboard copperAB"
     ],
     "thu_tu": 130
+  },
+  {
+    "board_id": "iphone/iphxne15 Front camera FPCAB",
+    "display_name": "iphxne15 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15",
+      "iphxne15 Front camera FPCAB"
+    ],
+    "thu_tu": 119
+  },
+  {
+    "board_id": "iphone/iphxne15 IR camera lattice FPCAB",
+    "display_name": "iphxne15 IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15",
+      "iphxne15 IR camera lattice FPCAB"
+    ],
+    "thu_tu": 118
+  },
+  {
+    "board_id": "iphone/iphxne15 Tail dockAB",
+    "display_name": "iphxne15 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15",
+      "iphxne15 Tail dockAB"
+    ],
+    "thu_tu": 117
+  },
+  {
+    "board_id": "iphone/iphxne15 back camera FPCAB",
+    "display_name": "iphxne15 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15",
+      "iphxne15 back camera FPCAB"
+    ],
+    "thu_tu": 115
   },
   {
     "board_id": "iphone/iphxne15 motherboard copperAB",
@@ -15208,6 +16223,50 @@
     "thu_tu": 114
   },
   {
+    "board_id": "iphone/iphxne15Plus Front camera FPCAB",
+    "display_name": "iphxne15Plus Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Plus",
+      "iphxne15Plus Front camera FPCAB"
+    ],
+    "thu_tu": 113
+  },
+  {
+    "board_id": "iphone/iphxne15Plus IR camera lattice FPCAB",
+    "display_name": "iphxne15Plus IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Plus",
+      "iphxne15Plus IR camera lattice FPCAB"
+    ],
+    "thu_tu": 112
+  },
+  {
+    "board_id": "iphone/iphxne15Plus Tail dockAB",
+    "display_name": "iphxne15Plus Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Plus",
+      "iphxne15Plus Tail dockAB"
+    ],
+    "thu_tu": 111
+  },
+  {
+    "board_id": "iphone/iphxne15Plus back camera FPCAB",
+    "display_name": "iphxne15Plus back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Plus",
+      "iphxne15Plus back camera FPCAB"
+    ],
+    "thu_tu": 109
+  },
+  {
     "board_id": "iphone/iphxne15Plus motherboard copperAB",
     "display_name": "iphxne15Plus motherboard copperAB",
     "category": "iphone",
@@ -15217,6 +16276,83 @@
       "iphxne15Plus motherboard copperAB"
     ],
     "thu_tu": 108
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Front camera FPCAB",
+    "display_name": "iphxne15Pro Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro",
+      "iphxne15Pro Front camera FPCAB"
+    ],
+    "thu_tu": 105
+  },
+  {
+    "board_id": "iphone/iphxne15Pro IR camera lattice FPCAB",
+    "display_name": "iphxne15Pro IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro",
+      "iphxne15Pro IR camera lattice FPCAB"
+    ],
+    "thu_tu": 104
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max Front camera FPCAB",
+    "display_name": "iphxne15Pro Max Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max",
+      "iphxne15Pro Max Front camera FPCAB"
+    ],
+    "thu_tu": 90
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max IR camera lattice FPCAB",
+    "display_name": "iphxne15Pro Max IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max",
+      "iphxne15Pro Max IR camera lattice FPCAB"
+    ],
+    "thu_tu": 89
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max Tail dockAB",
+    "display_name": "iphxne15Pro Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max",
+      "iphxne15Pro Max Tail dockAB"
+    ],
+    "thu_tu": 88
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max USA Tail dockAB",
+    "display_name": "iphxne15Pro Max USA Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max USA",
+      "iphxne15Pro Max USA Tail dockAB"
+    ],
+    "thu_tu": 97
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max USA WIFI chip copperAB",
+    "display_name": "iphxne15Pro Max USA WIFI chip copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max USA",
+      "iphxne15Pro Max USA WIFI chip copperAB"
+    ],
+    "thu_tu": 96
   },
   {
     "board_id": "iphone/iphxne15Pro Max USA motherboard copperAB",
@@ -15230,6 +16366,28 @@
     "thu_tu": 95
   },
   {
+    "board_id": "iphone/iphxne15Pro Max WIFI chip copperAB",
+    "display_name": "iphxne15Pro Max WIFI chip copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max",
+      "iphxne15Pro Max WIFI chip copperAB"
+    ],
+    "thu_tu": 87
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Max back camera FPCAB",
+    "display_name": "iphxne15Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro Max",
+      "iphxne15Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 86
+  },
+  {
     "board_id": "iphone/iphxne15Pro Max motherboard copperAB",
     "display_name": "iphxne15Pro Max motherboard copperAB",
     "category": "iphone",
@@ -15239,6 +16397,28 @@
       "iphxne15Pro Max motherboard copperAB"
     ],
     "thu_tu": 85
+  },
+  {
+    "board_id": "iphone/iphxne15Pro Tail dockAB",
+    "display_name": "iphxne15Pro Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro",
+      "iphxne15Pro Tail dockAB"
+    ],
+    "thu_tu": 103
+  },
+  {
+    "board_id": "iphone/iphxne15Pro USA WIFI chip copperAB",
+    "display_name": "iphxne15Pro USA WIFI chip copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro USA",
+      "iphxne15Pro USA WIFI chip copperAB"
+    ],
+    "thu_tu": 107
   },
   {
     "board_id": "iphone/iphxne15Pro USA motherboard copperAB",
@@ -15252,6 +16432,28 @@
     "thu_tu": 106
   },
   {
+    "board_id": "iphone/iphxne15Pro WIFI chip copperAB",
+    "display_name": "iphxne15Pro WIFI chip copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro",
+      "iphxne15Pro WIFI chip copperAB"
+    ],
+    "thu_tu": 102
+  },
+  {
+    "board_id": "iphone/iphxne15Pro back camera FPCAB",
+    "display_name": "iphxne15Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne15Pro",
+      "iphxne15Pro back camera FPCAB"
+    ],
+    "thu_tu": 101
+  },
+  {
     "board_id": "iphone/iphxne15Pro motherboard copperAB",
     "display_name": "iphxne15Pro motherboard copperAB",
     "category": "iphone",
@@ -15261,6 +16463,50 @@
       "iphxne15Pro motherboard copperAB"
     ],
     "thu_tu": 99
+  },
+  {
+    "board_id": "iphone/iphxne16 Front camera FPCAB",
+    "display_name": "iphxne16 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16",
+      "iphxne16 Front camera FPCAB"
+    ],
+    "thu_tu": 81
+  },
+  {
+    "board_id": "iphone/iphxne16 IR camera lattice FPCAB",
+    "display_name": "iphxne16 IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16",
+      "iphxne16 IR camera lattice FPCAB"
+    ],
+    "thu_tu": 80
+  },
+  {
+    "board_id": "iphone/iphxne16 Tail dockAB",
+    "display_name": "iphxne16 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16",
+      "iphxne16 Tail dockAB"
+    ],
+    "thu_tu": 79
+  },
+  {
+    "board_id": "iphone/iphxne16 back camera FPCAB",
+    "display_name": "iphxne16 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16",
+      "iphxne16 back camera FPCAB"
+    ],
+    "thu_tu": 78
   },
   {
     "board_id": "iphone/iphxne16 motherboard copperAB",
@@ -15296,6 +16542,72 @@
     "thu_tu": 73
   },
   {
+    "board_id": "iphone/iphxne16Pro Core board copperAB",
+    "display_name": "iphxne16Pro Core board copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro Core board copperAB"
+    ],
+    "thu_tu": 66
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Front camera FPCAB",
+    "display_name": "iphxne16Pro Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro Front camera FPCAB"
+    ],
+    "thu_tu": 71
+  },
+  {
+    "board_id": "iphone/iphxne16Pro IR camera lattice FPCAB",
+    "display_name": "iphxne16Pro IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro IR camera lattice FPCAB"
+    ],
+    "thu_tu": 70
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Max Front camera FPCAB",
+    "display_name": "iphxne16Pro Max Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro Max",
+      "iphxne16Pro Max Front camera FPCAB"
+    ],
+    "thu_tu": 63
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Max Tail dockAB",
+    "display_name": "iphxne16Pro Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro Max",
+      "iphxne16Pro Max Tail dockAB"
+    ],
+    "thu_tu": 61
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Max back camera FPCAB",
+    "display_name": "iphxne16Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro Max",
+      "iphxne16Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 60
+  },
+  {
     "board_id": "iphone/iphxne16Pro Max motherboard copperAB",
     "display_name": "iphxne16Pro Max motherboard copperAB",
     "category": "iphone",
@@ -15305,6 +16617,39 @@
       "iphxne16Pro Max motherboard copperAB"
     ],
     "thu_tu": 59
+  },
+  {
+    "board_id": "iphone/iphxne16Pro RF board copperAB",
+    "display_name": "iphxne16Pro RF board copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro RF board copperAB"
+    ],
+    "thu_tu": 67
+  },
+  {
+    "board_id": "iphone/iphxne16Pro Tail dockAB",
+    "display_name": "iphxne16Pro Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro Tail dockAB"
+    ],
+    "thu_tu": 69
+  },
+  {
+    "board_id": "iphone/iphxne16Pro back camera FPCAB",
+    "display_name": "iphxne16Pro back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne16Pro",
+      "iphxne16Pro back camera FPCAB"
+    ],
+    "thu_tu": 68
   },
   {
     "board_id": "iphone/iphxne16Pro motherboardAB",
@@ -15318,6 +16663,28 @@
     "thu_tu": 65
   },
   {
+    "board_id": "iphone/iphxne17 Front camera FPCAB",
+    "display_name": "iphxne17 Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17",
+      "iphxne17 Front camera FPCAB"
+    ],
+    "thu_tu": 54
+  },
+  {
+    "board_id": "iphone/iphxne17 back camera FPCAB",
+    "display_name": "iphxne17 back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17",
+      "iphxne17 back camera FPCAB"
+    ],
+    "thu_tu": 52
+  },
+  {
     "board_id": "iphone/iphxne17 motherboard copperAB",
     "display_name": "iphxne17 motherboard copperAB",
     "category": "iphone",
@@ -15329,6 +16696,39 @@
     "thu_tu": 51
   },
   {
+    "board_id": "iphone/iphxne17Air Front camera FPCAB",
+    "display_name": "iphxne17Air Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Air",
+      "iphxne17Air Front camera FPCAB"
+    ],
+    "thu_tu": 37
+  },
+  {
+    "board_id": "iphone/iphxne17Air IR camera lattice FPCAB",
+    "display_name": "iphxne17Air IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Air",
+      "iphxne17Air IR camera lattice FPCAB"
+    ],
+    "thu_tu": 36
+  },
+  {
+    "board_id": "iphone/iphxne17Air back camera FPCAB",
+    "display_name": "iphxne17Air back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Air",
+      "iphxne17Air back camera FPCAB"
+    ],
+    "thu_tu": 34
+  },
+  {
     "board_id": "iphone/iphxne17Air motherboard copperAB",
     "display_name": "iphxne17Air motherboard copperAB",
     "category": "iphone",
@@ -15338,6 +16738,72 @@
       "iphxne17Air motherboard copperAB"
     ],
     "thu_tu": 33
+  },
+  {
+    "board_id": "iphone/iphxne17E USA motherboard copperAB",
+    "display_name": "iphxne17E USA motherboard copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17E USA",
+      "iphxne17E USA motherboard copperAB"
+    ],
+    "thu_tu": 57
+  },
+  {
+    "board_id": "iphone/iphxne17E USA(EVIP) motherboard copperAB",
+    "display_name": "iphxne17E USA(EVIP) motherboard copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17E USA(EVIP)",
+      "iphxne17E USA(EVIP) motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "iphone/iphxne17Pro Front camera FPCAB",
+    "display_name": "iphxne17Pro Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Pro",
+      "iphxne17Pro Front camera FPCAB"
+    ],
+    "thu_tu": 48
+  },
+  {
+    "board_id": "iphone/iphxne17Pro Max Front camera FPCAB",
+    "display_name": "iphxne17Pro Max Front camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Pro Max",
+      "iphxne17Pro Max Front camera FPCAB"
+    ],
+    "thu_tu": 43
+  },
+  {
+    "board_id": "iphone/iphxne17Pro Max IR camera lattice FPCAB",
+    "display_name": "iphxne17Pro Max IR camera lattice FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Pro Max",
+      "iphxne17Pro Max IR camera lattice FPCAB"
+    ],
+    "thu_tu": 42
+  },
+  {
+    "board_id": "iphone/iphxne17Pro Max back camera FPCAB",
+    "display_name": "iphxne17Pro Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne17Pro Max",
+      "iphxne17Pro Max back camera FPCAB"
+    ],
+    "thu_tu": 40
   },
   {
     "board_id": "iphone/iphxne17Pro Max motherboard copperAB",
@@ -15384,6 +16850,17 @@
     "thu_tu": 329
   },
   {
+    "board_id": "iphone/iphxneSE(2020) Tail dockAB",
+    "display_name": "iphxneSE(2020) Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneSE(2020)",
+      "iphxneSE(2020) Tail dockAB"
+    ],
+    "thu_tu": 257
+  },
+  {
     "board_id": "iphone/iphxneSE(2020) motherboard copperAB",
     "display_name": "iphxneSE(2020) motherboard copperAB",
     "category": "iphone",
@@ -15393,6 +16870,17 @@
       "iphxneSE(2020) motherboard copperAB"
     ],
     "thu_tu": 256
+  },
+  {
+    "board_id": "iphone/iphxneSE3 Tail dockAB",
+    "display_name": "iphxneSE3 Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxneSE3",
+      "iphxneSE3 Tail dockAB"
+    ],
+    "thu_tu": 255
   },
   {
     "board_id": "iphone/iphxneSE3 motherboard copperAB",
@@ -15417,6 +16905,39 @@
     "thu_tu": 303
   },
   {
+    "board_id": "iphone/iphxneXS Max IR camera FPCAB",
+    "display_name": "iphxneXS Max IR camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneXS Max",
+      "iphxneXS Max IR camera FPCAB"
+    ],
+    "thu_tu": 290
+  },
+  {
+    "board_id": "iphone/iphxneXS Max Tail dockAB",
+    "display_name": "iphxneXS Max Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneXS Max",
+      "iphxneXS Max Tail dockAB"
+    ],
+    "thu_tu": 288
+  },
+  {
+    "board_id": "iphone/iphxneXS Max back camera FPCAB",
+    "display_name": "iphxneXS Max back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneXS Max",
+      "iphxneXS Max back camera FPCAB"
+    ],
+    "thu_tu": 287
+  },
+  {
     "board_id": "iphone/iphxneXS Max motherboard copperAB",
     "display_name": "iphxneXS Max motherboard copperAB",
     "category": "iphone",
@@ -15426,6 +16947,28 @@
       "iphxneXS Max motherboard copperAB"
     ],
     "thu_tu": 286
+  },
+  {
+    "board_id": "iphone/iphxneXS Tail dockAB",
+    "display_name": "iphxneXS Tail dockAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneXS",
+      "iphxneXS Tail dockAB"
+    ],
+    "thu_tu": 297
+  },
+  {
+    "board_id": "iphone/iphxneXS back camera FPCAB",
+    "display_name": "iphxneXS back camera FPCAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iPhxneXS",
+      "iphxneXS back camera FPCAB"
+    ],
+    "thu_tu": 296
   },
   {
     "board_id": "iphone/iphxneXS motherboard copperAB",
@@ -15459,6 +17002,17 @@
       "iphxneX_Qualcomm motherboard copperAB"
     ],
     "thu_tu": 311
+  },
+  {
+    "board_id": "ipod/iPod Nano motherboard copperAB",
+    "display_name": "iPod Nano motherboard copperAB",
+    "category": "ipod",
+    "nhanh": [
+      "iPod Series",
+      "iPod Nano",
+      "iPod Nano motherboard copperAB"
+    ],
+    "thu_tu": 426
   },
   {
     "board_id": "macbook/A1369_820-2838 K16 motherboardAB",
@@ -15679,17 +17233,6 @@
       "A2251 820-01949-A motherboard copperAB"
     ],
     "thu_tu": 4635
-  },
-  {
-    "board_id": "macbook/A2251_820-01949-05 motherboardAB",
-    "display_name": "A2251_820-01949-05 motherboardAB",
-    "category": "macbook",
-    "nhanh": [
-      "MacBook series",
-      "A2251_820-01949-05",
-      "A2251_820-01949-05 motherboardAB"
-    ],
-    "thu_tu": 4636
   },
   {
     "board_id": "macbook/A2289_820-01987 J223 motherboardAB",
@@ -16156,18 +17699,6 @@
     "thu_tu": 2123
   },
   {
-    "board_id": "samsung/SX A3 A320F motherboardAB",
-    "display_name": "SX A3 A320F motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX A",
-      "SX A3 A320F",
-      "SX A3 A320F motherboardAB"
-    ],
-    "thu_tu": 2128
-  },
-  {
     "board_id": "samsung/SX A30 A305N motherboardAB",
     "display_name": "SX A30 A305N motherboardAB",
     "category": "samsung",
@@ -16540,6 +18071,18 @@
     "thu_tu": 2195
   },
   {
+    "board_id": "samsung/SX A40 A405FM motherboardAB",
+    "display_name": "SX A40 A405FM motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX A",
+      "SX A40 A405FM",
+      "SX A40 A405FM motherboardAB"
+    ],
+    "thu_tu": 2197
+  },
+  {
     "board_id": "samsung/SX A40 A405FN motherboardAB",
     "display_name": "SX A40 A405FN motherboardAB",
     "category": "samsung",
@@ -16672,16 +18215,16 @@
     "thu_tu": 2217
   },
   {
-    "board_id": "samsung/SX A50 A505F motherboardAB",
-    "display_name": "SX A50 A505F motherboardAB",
+    "board_id": "samsung/SX A50 A505FM motherboardAB",
+    "display_name": "SX A50 A505FM motherboardAB",
     "category": "samsung",
     "nhanh": [
       "SX series",
       "SX A",
-      "SX A50 A505F",
-      "SX A50 A505F motherboardAB"
+      "SX A50 A505FM",
+      "SX A50 A505FM motherboardAB"
     ],
-    "thu_tu": 2218
+    "thu_tu": 2220
   },
   {
     "board_id": "samsung/SX A50 A505FN motherboardAB",
@@ -16936,6 +18479,54 @@
     "thu_tu": 2267
   },
   {
+    "board_id": "samsung/SX A54 A546U motherboardAB",
+    "display_name": "SX A54 A546U motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX A",
+      "SX A54 A546U",
+      "SX A54 A546U motherboardAB"
+    ],
+    "thu_tu": 2273
+  },
+  {
+    "board_id": "samsung/SX A54 A546U1 motherboardAB",
+    "display_name": "SX A54 A546U1 motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX A",
+      "SX A54 A546U1",
+      "SX A54 A546U1 motherboardAB"
+    ],
+    "thu_tu": 2275
+  },
+  {
+    "board_id": "samsung/SX A54 A546V motherboardAB",
+    "display_name": "SX A54 A546V motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX A",
+      "SX A54 A546V",
+      "SX A54 A546V motherboardAB"
+    ],
+    "thu_tu": 2277
+  },
+  {
+    "board_id": "samsung/SX A54 A546W motherboardAB",
+    "display_name": "SX A54 A546W motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX A",
+      "SX A54 A546W",
+      "SX A54 A546W motherboardAB"
+    ],
+    "thu_tu": 2279
+  },
+  {
     "board_id": "samsung/SX A6+ A605FN motherboardAB",
     "display_name": "SX A6+ A605FN motherboardAB",
     "category": "samsung",
@@ -17140,16 +18731,16 @@
     "thu_tu": 2329
   },
   {
-    "board_id": "samsung/SX A80 A805F motherboardAB",
-    "display_name": "SX A80 A805F motherboardAB",
+    "board_id": "samsung/SX A80 A805FM motherboardAB",
+    "display_name": "SX A80 A805FM motherboardAB",
     "category": "samsung",
     "nhanh": [
       "SX series",
       "SX A",
-      "SX A80 A805F",
-      "SX A80 A805F motherboardAB"
+      "SX A80 A805FM",
+      "SX A80 A805FM motherboardAB"
     ],
-    "thu_tu": 2331
+    "thu_tu": 2333
   },
   {
     "board_id": "samsung/SX A80 A805N motherboardAB",
@@ -17198,6 +18789,18 @@
       "SX F13 E135F motherboardAB"
     ],
     "thu_tu": 2343
+  },
+  {
+    "board_id": "samsung/SX F23 E236B motherboardAB",
+    "display_name": "SX F23 E236B motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX F",
+      "SX F23 E236B",
+      "SX F23 E236B motherboardAB"
+    ],
+    "thu_tu": 2349
   },
   {
     "board_id": "samsung/SX F41 F415 motherboardAB",
@@ -17500,6 +19103,42 @@
     "thu_tu": 2397
   },
   {
+    "board_id": "samsung/SX M23 M236B motherboardAB",
+    "display_name": "SX M23 M236B motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX M",
+      "SX M23 M236B",
+      "SX M23 M236B motherboardAB"
+    ],
+    "thu_tu": 2399
+  },
+  {
+    "board_id": "samsung/SX M23 M236L motherboardAB",
+    "display_name": "SX M23 M236L motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX M",
+      "SX M23 M236L",
+      "SX M23 M236L motherboardAB"
+    ],
+    "thu_tu": 2401
+  },
+  {
+    "board_id": "samsung/SX M23 M236Q motherboardAB",
+    "display_name": "SX M23 M236Q motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX M",
+      "SX M23 M236Q",
+      "SX M23 M236Q motherboardAB"
+    ],
+    "thu_tu": 2402
+  },
+  {
     "board_id": "samsung/SX M32 M225F motherboardAB",
     "display_name": "SX M32 M225F motherboardAB",
     "category": "samsung",
@@ -17606,18 +19245,6 @@
       "SX M52 M526BR motherboardAB"
     ],
     "thu_tu": 2420
-  },
-  {
-    "board_id": "samsung/SX M53 M536B motherboardAB",
-    "display_name": "SX M53 M536B motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX M",
-      "SX M53 M536B",
-      "SX M53 M536B motherboardAB"
-    ],
-    "thu_tu": 2421
   },
   {
     "board_id": "samsung/SX Note10 N970F motherboardAB",
@@ -17834,18 +19461,6 @@
       "SX Note5 N920C motherboardAB"
     ],
     "thu_tu": 2452
-  },
-  {
-    "board_id": "samsung/SX Note8 N950D motherboardAB",
-    "display_name": "SX Note8 N950D motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX Note",
-      "SX Note8 N950D",
-      "SX Note8 N950D motherboardAB"
-    ],
-    "thu_tu": 2453
   },
   {
     "board_id": "samsung/SX Note8 N950F motherboardAB",
@@ -18110,6 +19725,18 @@
       "SX S20+ G986W motherboard copperAB"
     ],
     "thu_tu": 2516
+  },
+  {
+    "board_id": "samsung/SX S20FE G780F motherboardAB",
+    "display_name": "SX S20FE G780F motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX S",
+      "SX S20FE G780F",
+      "SX S20FE G780F motherboardAB"
+    ],
+    "thu_tu": 2518
   },
   {
     "board_id": "samsung/SX S20FE G781U motherboardAB",
@@ -18688,18 +20315,6 @@
     "thu_tu": 2617
   },
   {
-    "board_id": "samsung/SX S23 S911B motherboardAB",
-    "display_name": "SX S23 S911B motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX S",
-      "SX S23 S911B",
-      "SX S23 S911B motherboardAB"
-    ],
-    "thu_tu": 2620
-  },
-  {
     "board_id": "samsung/SX S23 S911BE motherboardAB",
     "display_name": "SX S23 S911BE motherboardAB",
     "category": "samsung",
@@ -19024,18 +20639,6 @@
     "thu_tu": 2720
   },
   {
-    "board_id": "samsung/SX S8 G950U motherboardAB",
-    "display_name": "SX S8 G950U motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX S",
-      "SX S8 G950U",
-      "SX S8 G950U motherboardAB"
-    ],
-    "thu_tu": 2721
-  },
-  {
     "board_id": "samsung/SX S8 G955U motherboardAB",
     "display_name": "SX S8 G955U motherboardAB",
     "category": "samsung",
@@ -19240,6 +20843,78 @@
     "thu_tu": 2795
   },
   {
+    "board_id": "samsung/SX Z Flip F700U1 motherboardAB",
+    "display_name": "SX Z Flip F700U1 motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip F700U1",
+      "SX Z Flip F700U1 motherboardAB"
+    ],
+    "thu_tu": 2797
+  },
+  {
+    "board_id": "samsung/SX Z Flip F700W motherboardAB",
+    "display_name": "SX Z Flip F700W motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip F700W",
+      "SX Z Flip F700W motherboardAB"
+    ],
+    "thu_tu": 2799
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F7110 motherboardAB",
+    "display_name": "SX Z Flip3 F7110 motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip3 F7110",
+      "SX Z Flip3 F7110 motherboardAB"
+    ],
+    "thu_tu": 2801
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F711B motherboardAB",
+    "display_name": "SX Z Flip3 F711B motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip3 F711B",
+      "SX Z Flip3 F711B motherboardAB"
+    ],
+    "thu_tu": 2803
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F711D motherboardAB",
+    "display_name": "SX Z Flip3 F711D motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip3 F711D",
+      "SX Z Flip3 F711D motherboardAB"
+    ],
+    "thu_tu": 2806
+  },
+  {
+    "board_id": "samsung/SX Z Flip3 F711N motherboardAB",
+    "display_name": "SX Z Flip3 F711N motherboardAB",
+    "category": "samsung",
+    "nhanh": [
+      "SX series",
+      "SX Z",
+      "SX Z Flip3 F711N",
+      "SX Z Flip3 F711N motherboardAB"
+    ],
+    "thu_tu": 2807
+  },
+  {
     "board_id": "samsung/SX Z Flip3 F711U motherboardAB",
     "display_name": "SX Z Flip3 F711U motherboardAB",
     "category": "samsung",
@@ -19384,18 +21059,6 @@
     "thu_tu": 2834
   },
   {
-    "board_id": "samsung/SX Z Flip5 F731W motherboardAB",
-    "display_name": "SX Z Flip5 F731W motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX Z",
-      "SX Z Flip5 F731W",
-      "SX Z Flip5 F731W motherboardAB"
-    ],
-    "thu_tu": 2836
-  },
-  {
     "board_id": "samsung/SX Z Fold3 F9260 motherboardAB",
     "display_name": "SX Z Fold3 F9260 motherboardAB",
     "category": "samsung",
@@ -19406,18 +21069,6 @@
       "SX Z Fold3 F9260 motherboardAB"
     ],
     "thu_tu": 2846
-  },
-  {
-    "board_id": "samsung/SX Z Fold3 F926B motherboardAB",
-    "display_name": "SX Z Fold3 F926B motherboardAB",
-    "category": "samsung",
-    "nhanh": [
-      "SX series",
-      "SX Z",
-      "SX Z Fold3 F926B",
-      "SX Z Fold3 F926B motherboardAB"
-    ],
-    "thu_tu": 2848
   },
   {
     "board_id": "samsung/SX Z Fold3 F926D motherboardAB",
