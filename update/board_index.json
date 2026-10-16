@@ -9304,6 +9304,13 @@
     "thu_tu": 1109
   },
   {
+    "board_id": "OPP/OPP Reno15 motherboard copperAB",
+    "display_name": "OPP Reno15 motherboard copperAB",
+    "category": "OPP",
+    "nhanh": null,
+    "thu_tu": null
+  },
+  {
     "board_id": "OPP/OPP Reno2 motherboardAB",
     "display_name": "OPP Reno2 motherboardAB",
     "category": "OPP",
@@ -10410,6 +10417,13 @@
       "VIV S30 motherboard copperAB"
     ],
     "thu_tu": 1186
+  },
+  {
+    "board_id": "VIV/VIV S30Pro Mini motherboard copperAB",
+    "display_name": "VIV S30Pro Mini motherboard copperAB",
+    "category": "VIV",
+    "nhanh": null,
+    "thu_tu": null
   },
   {
     "board_id": "VIV/VIV S5 motherboard copperAB",
@@ -11838,6 +11852,13 @@
       "VIV Y500 motherboard copperAB"
     ],
     "thu_tu": 1317
+  },
+  {
+    "board_id": "VIV/VIV Y500Pro motherboard copperAB",
+    "display_name": "VIV Y500Pro motherboard copperAB",
+    "category": "VIV",
+    "nhanh": null,
+    "thu_tu": null
   },
   {
     "board_id": "VIV/VIV Y51S motherboardAB",
