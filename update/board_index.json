@@ -16849,6 +16849,28 @@
     "thu_tu": 45
   },
   {
+    "board_id": "iphone/iphxne18Pro Max motherboard copperAB",
+    "display_name": "iphxne18Pro Max motherboard copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne18Pro Max",
+      "iphxne18Pro Max motherboard copperAB"
+    ],
+    "thu_tu": 28
+  },
+  {
+    "board_id": "iphone/iphxne18Pro motherboard copperAB",
+    "display_name": "iphxne18Pro motherboard copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne18Pro",
+      "iphxne18Pro motherboard copperAB"
+    ],
+    "thu_tu": 30
+  },
+  {
     "board_id": "iphone/iphxne8Plus_Intel motherboard copperAB",
     "display_name": "iphxne8Plus_Intel motherboard copperAB",
     "category": "iphone",
