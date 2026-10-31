@@ -357,6 +357,18 @@
     "thu_tu": 691
   },
   {
+    "board_id": "HONORY/HONORY 500Pro motherboard copperAB",
+    "display_name": "HONORY 500Pro motherboard copperAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY",
+      "HONORY 500Pro",
+      "HONORY 500Pro motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "HONORY/HONORY 50HN3 motherboardAB",
     "display_name": "HONORY 50HN3 motherboardAB",
     "category": "HONORY",
@@ -9975,6 +9987,18 @@
     "thu_tu": 4778
   },
   {
+    "board_id": "UAV/DJ Ava Ta2 motherboard copperAB",
+    "display_name": "DJ Ava Ta2 motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Ava Ta2",
+      "DJ Ava Ta2 motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "UAV/DJ Mini2 motherboard copperAB",
     "display_name": "DJ Mini2 motherboard copperAB",
     "category": "UAV",
@@ -14411,6 +14435,18 @@
       "infini itelVison5 motherboardAB"
     ],
     "thu_tu": 4225
+  },
+  {
+    "board_id": "ipad/iPxd ProM4(2024 11in)_820-03371-A_A2836(WIFI) motherboard copperAB",
+    "display_name": "iPxd ProM4(2024 11in)_820-03371-A_A2836(WIFI) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxd ProM4(2024 11in)_820-03371-A_A2836(WIFI)",
+      "iPxd ProM4(2024 11in)_820-03371-A_A2836(WIFI) motherboard copperAB"
+    ],
+    "thu_tu": null
   },
   {
     "board_id": "ipad/iPxd10(2022 10.9in)_820-02604_A2696(WIFI) motherboard copperAB",
