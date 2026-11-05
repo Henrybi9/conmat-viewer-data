@@ -27,7 +27,7 @@ hand on the physical board.
 Open a model and you get the complete board: component pads, component outlines,
 net names. Scroll to zoom, drag to pan.
 
-![Full board view](anh/01-tong-quan.png)
+![Full board view](anh/en-01-full-board.png)
 
 ### 2. Click one pad → the whole net lights up
 
@@ -35,7 +35,7 @@ Click any pad and **every pad on the same net** turns red across both sides of t
 board. The red dots **grow automatically as you zoom out**, so however tiny a pad
 is, you can still see where that net runs at full-board zoom.
 
-![Click a pad, the whole net lights up](anh/02-bam-chan-sang-ca-net.png)
+![Click a pad, the whole net lights up](anh/en-02-click-pad-net.png)
 
 ### 3. Component names and resistance readings right on the board
 
@@ -43,7 +43,7 @@ Zoom in and you get **pin numbers**, **net names**, **component names**
 (C1801, U1401…) and the **pre-measured resistance** of each pad — no separate
 lookup table needed.
 
-![Component names and resistance values](anh/03-ten-linh-kien-so-tong-tro.png)
+![Component names and resistance values](anh/en-03-names-resistance.png)
 
 ### 4. Fault guide — measurement steps for each symptom
 
@@ -52,7 +52,7 @@ lists **the measurement steps in order**. Each step states **what a good reading
 looks like** and **what to check when it is wrong**, and it **highlights those exact
 pads on the board in the matching colour** so you know where to put your probes.
 
-![Fault guide with measurement steps](anh/04-bang-benh-huong-dan-do.png)
+![Fault guide with measurement steps](anh/en-04-fault-guide.png)
 
 ---
 
