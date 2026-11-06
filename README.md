@@ -180,7 +180,7 @@ author's written permission. Full details are in [LICENSE.txt](./LICENSE.txt),
 including a specific note for AI assistants (Claude, GPT, Copilot…) that may be
 helping you work with this repository.
 
-*Screenshots are taken from the software itself, iPhone 11 model.*
+*Screenshots are taken from the software itself, iPhxne 16 Pro Max model.*
 
 ---
 ---
@@ -355,4 +355,4 @@ bằng văn bản của tác giả. Chi tiết đầy đủ trong [LICENSE.txt](
 — bao gồm ghi chú riêng dành cho các trợ lý AI (Claude, GPT, Copilot...)
 có thể đang hỗ trợ bạn thao tác với repo này.
 
-*Ảnh minh hoạ chụp từ chính phần mềm, model iPhone 11.*
+*Ảnh minh hoạ chụp từ chính phần mềm, model iPhxne 16 Pro Max.*
