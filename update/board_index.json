@@ -1430,6 +1430,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "GPU NVIDIA/GV-N4080GAMING OC-16GD 1.01 NP",
+    "display_name": "GV-N4080GAMING OC-16GD 1.01 NP",
+    "category": "GPU NVIDEA",
+    "nhanh": [
+      "GPU NVIDEA",
+      "GV-N4080GAMING OC-16GD 1.01 NP",
+      "GV-N4080GAMING OC-16GD 1.01 NP"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "GPU NVIDIA/GV-N75TOC-2GI",
     "display_name": "GV-N75TOC-2GI",
     "category": "GPU NVIDEA",
@@ -7663,6 +7674,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/ACER Aspire C24 962, C27 962 Lengda AX1E - Lengda AX1E IRON GPU MX130 PCB r1.01 allegro",
+    "display_name": "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E IRON GPU MX130 PCB r1.01",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E IRON GPU MX130 PCB r1.01",
+      "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E IRON GPU MX130 PCB r1.01"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/ACER Aspire C24 962, C27 962 Lengda AX1E - Lengda AX1E MAIN r1.02 allegro",
+    "display_name": "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E MAIN r1.02",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E MAIN r1.02",
+      "ASER Aspira C24 962, C27 962 Lengda AX1E - Lengda AX1E MAIN r1.02"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/ACER Aspire E5-575 735T Quanta ZAA ZAAM DA0ZAAMB8C0",
+    "display_name": "ASER Aspira E5-575 735T Kuanta ZAA ZAAM DA0ZAAMB8C0",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER Aspira E5-575 735T Kuanta ZAA ZAAM DA0ZAAMB8C0",
+      "ASER Aspira E5-575 735T Kuanta ZAA ZAAM DA0ZAAMB8C0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/ACER Aspire One 725 DA0ZHGMB6D0 REV D ZHG MB D",
     "display_name": "ASER Aspira One 725 DA0ZHGMB6D0 REV D ZHG MB D",
     "category": "Laptop Aser",
@@ -7938,6 +7982,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/ACER TravelMate TMP214 53 Quanta Z8IA DAZ8IAMBAC0 Rev C - Acer TravelMate TMP214-41 Quanta",
+    "display_name": "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Aser TravelMat TMP214-41 Kuanta Z8IA DAZ8IAMBAC0 Rev C",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Aser TravelMat TMP214-41 Kuanta Z8IA DAZ8IAMBAC0 Rev C",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Aser TravelMat TMP214-41 Kuanta Z8IA DAZ8IAMBAC0 Rev C"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/ACER TravelMate TMP214 53 Quanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA USB",
+    "display_name": "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA USB",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA USB",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA USB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/ACER TravelMate TMP214 53 Quanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA-LTE",
+    "display_name": "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA-LTE",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA-LTE",
+      "ASER TravelMat TMP214 53 Kuanta Z8IA DAZ8IAMBAC0 Rev C - Z8IA-LTE"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/ACER VN7-593G=Pluto KLS 16812-1M",
     "display_name": "ASER VN7-593G=Pluto KLS 16812-1M",
     "category": "Laptop Aser",
@@ -7978,6 +8055,28 @@
       "Laptop Aser",
       "Aser 4750G JE40-HR UMA Discrete 10267-1M",
       "Aser 4750G JE40-HR UMA Discrete 10267-1M"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Acer 5532 LA-5481P - JET.con",
+    "display_name": "Aser 5532 LA-5481P - JET.con",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser 5532 LA-5481P - JET.con",
+      "Aser 5532 LA-5481P - JET.con"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Acer 5532 LA-5481P - NCWG0",
+    "display_name": "Aser 5532 LA-5481P - NCWG0",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser 5532 LA-5481P - NCWG0",
+      "Aser 5532 LA-5481P - NCWG0"
     ],
     "thu_tu": null
   },
@@ -8147,6 +8246,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/Acer Aspire E5 573G V3 574G Quanta ZRT ZRTA DA0ZRTMB6D0",
+    "display_name": "Aser Aspira E5 573G V3 574G Kuanta ZRT ZRTA DA0ZRTMB6D0",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Aspira E5 573G V3 574G Kuanta ZRT ZRTA DA0ZRTMB6D0",
+      "Aser Aspira E5 573G V3 574G Kuanta ZRT ZRTA DA0ZRTMB6D0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/Acer Aspire E5-575 - DAZAAMB16E0 - ZAA",
     "display_name": "Aser Aspira E5-575 - DAZAAMB16E0 - ZAA",
     "category": "Laptop Aser",
@@ -8286,6 +8396,28 @@
       "Laptop Aser",
       "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ",
       "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Acer Chromebook 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqmb6c0-c-roger-165",
+    "display_name": "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqmb6c0-c-roger-165",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqmb6c0-c-roger-165",
+      "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqmb6c0-c-roger-165"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Acer Chromebook 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqpi6e0-e-loney",
+    "display_name": "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqpi6e0-e-loney",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqpi6e0-e-loney",
+      "Aser Chromebuk 11 CB3-111 - DA0ZHQMB6E0 - ZHQ - da0zhqpi6e0-e-loney"
     ],
     "thu_tu": null
   },
@@ -8444,6 +8576,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/Acer Predator 17x GX-792,Pegatron P7RCR Rev 2.0",
+    "display_name": "Aser Predatur 17x GX-792,Pegatrom P7RCR Rev 2.0",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Predatur 17x GX-792,Pegatrom P7RCR Rev 2.0",
+      "Aser Predatur 17x GX-792,Pegatrom P7RCR Rev 2.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/Acer Predator Helios 300 G3 571 Compal LA-E921P",
     "display_name": "Aser Predatur Helioz 300 G3 571 Compall LA-E921P",
     "category": "Laptop Aser",
@@ -8499,6 +8642,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/Acer Predator Triton 300 SE PT314-51S GH47H LA-K811P Rev 1A",
+    "display_name": "Aser Predatur Triton 300 SE PT314-51S GH47H LA-K811P Rev 1A",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Predatur Triton 300 SE PT314-51S GH47H LA-K811P Rev 1A",
+      "Aser Predatur Triton 300 SE PT314-51S GH47H LA-K811P Rev 1A"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/Acer R7-572 Compal LA-A021P V5MM2 Rev 1.0",
     "display_name": "Aser R7-572 Compall LA-A021P V5MM2 Rev 1.0",
     "category": "Laptop Aser",
@@ -8517,6 +8671,17 @@
       "Laptop Aser",
       "Aser Spin 5 SP515-51N 16932 Buzz DIS 16932-1",
       "Aser Spin 5 SP515-51N 16932 Buzz DIS 16932-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Acer Swift 1 SF114-31 OXFORD2-6050A2888301-MB-A01",
+    "display_name": "Aser Swift 1 SF114-31 OXFORD2-6050A2888301-MB-A01",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aser Swift 1 SF114-31 OXFORD2-6050A2888301-MB-A01",
+      "Aser Swift 1 SF114-31 OXFORD2-6050A2888301-MB-A01"
     ],
     "thu_tu": null
   },
@@ -8550,6 +8715,17 @@
       "Laptop Aser",
       "Aspira 5742G LA-5893P Rev1.0",
       "Aspira 5742G LA-5893P Rev1.0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/Aspire A315-31 DA0Z8PMB8D0",
+    "display_name": "Aspira A315-31 DA0Z8PMB8D0",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "Aspira A315-31 DA0Z8PMB8D0",
+      "Aspira A315-31 DA0Z8PMB8D0"
     ],
     "thu_tu": null
   },
@@ -8598,6 +8774,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Acer/ECS H11H4-AD2 REV 1 .1 ACER ASPIRE XC-710",
+    "display_name": "ECS H11H4-AD2 REV 1 .1 ASER ASPIRA XC-710",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "ECS H11H4-AD2 REV 1 .1 ASER ASPIRA XC-710",
+      "ECS H11H4-AD2 REV 1 .1 ASER ASPIRA XC-710"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Acer/QUANTA ZRQ DAZRQMB18F0 ACER ASPIRE V5-473P ZRQ-MB-C",
     "display_name": "KUANTA ZRQ DAZRQMB18F0 ASER ASPIRA V5-473P ZRQ-MB-C",
     "category": "Laptop Aser",
@@ -8638,6 +8825,17 @@
       "Laptop Aser",
       "PEGATROM P5NCN P7NCN GAMING ASER PREDATUR 15 G9-591G (SCH+ )",
       "PEGATROM P5NCN P7NCN GAMING ASER PREDATUR 15 G9-591G (SCH+ )"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Acer/PEGATRON P5NCN P7NCN GAMING ACER PREDATOR 15 G9-591G (SCH+ ) - Acer Predator 15 G9-591G Pe",
+    "display_name": "PEGATROM P5NCN P7NCN GAMING ASER PREDATUR 15 G9-591G (SCH+ ) - Aser Predatur 15 G9-591G Pegatrom P5NCN P7NCN Gaming",
+    "category": "Laptop Aser",
+    "nhanh": [
+      "Laptop Aser",
+      "PEGATROM P5NCN P7NCN GAMING ASER PREDATUR 15 G9-591G (SCH+ ) - Aser Predatur 15 G9-591G Pegatrom P5NCN P7NCN Gaming",
+      "PEGATROM P5NCN P7NCN GAMING ASER PREDATUR 15 G9-591G (SCH+ ) - Aser Predatur 15 G9-591G Pegatrom P5NCN P7NCN Gaming"
     ],
     "thu_tu": null
   },
@@ -18894,6 +19092,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Asus/ASUS X550IU (.PCB)",
+    "display_name": "ASUZ X550IU (.PCB)",
+    "category": "Laptop Asuz",
+    "nhanh": [
+      "Laptop Asuz",
+      "ASUZ X550IU (.PCB)",
+      "ASUZ X550IU (.PCB)"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Asus/ASUS X550JD 2.0 60NB0680-MB1601",
     "display_name": "ASUZ X550JD 2.0 60NB0680-MB1601",
     "category": "Laptop Asuz",
@@ -19275,6 +19484,17 @@
       "Laptop Asuz",
       "ASUZ X751LD 2.3 60NB08D0-MB1801",
       "ASUZ X751LD 2.3 60NB08D0-MB1801"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Asus/ASUS X751NV",
+    "display_name": "ASUZ X751NV",
+    "category": "Laptop Asuz",
+    "nhanh": [
+      "Laptop Asuz",
+      "ASUZ X751NV",
+      "ASUZ X751NV"
     ],
     "thu_tu": null
   },
@@ -21732,6 +21952,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/Alienware Aurora R7 IPCFL-SC",
+    "display_name": "Alienwar Aurora R7 IPCFL-SC",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Alienwar Aurora R7 IPCFL-SC",
+      "Alienwar Aurora R7 IPCFL-SC"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/Alienware M17 R3 - LA-J521P REV1.0",
     "display_name": "Alienwar M17 R3 - LA-J521P REV1.0",
     "category": "Laptop Del",
@@ -21838,6 +22069,17 @@
       "Laptop Del",
       "DEL ALBA UMA 08265-1",
       "DEL ALBA UMA 08265-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/DELL ALIENWARE 17 R5 COMPAL LA-F551P Rev1 .0",
+    "display_name": "DEL ALIENWAR 17 R5 COMPALL LA-F551P Rev1 .0",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "DEL ALIENWAR 17 R5 COMPALL LA-F551P Rev1 .0",
+      "DEL ALIENWAR 17 R5 COMPALL LA-F551P Rev1 .0"
     ],
     "thu_tu": null
   },
@@ -21959,6 +22201,17 @@
       "Laptop Del",
       "DEL INSPIROM 5415 203076-1",
       "DEL INSPIROM 5415 203076-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/DELL Inspiron 2350 Pegatron IMPLP-MS",
+    "display_name": "DEL Inspirom 2350 Pegatrom IMPLP-MS",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "DEL Inspirom 2350 Pegatrom IMPLP-MS",
+      "DEL Inspirom 2350 Pegatrom IMPLP-MS"
     ],
     "thu_tu": null
   },
@@ -22194,6 +22447,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/DELL Latitude LA-J371P Rev1.0",
+    "display_name": "DEL Latitute LA-J371P Rev1.0",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "DEL Latitute LA-J371P Rev1.0",
+      "DEL Latitute LA-J371P Rev1.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/DELL N5040 DV15 CP UMA 10263-1",
     "display_name": "DEL N5040 DV15 CP UMA 10263-1",
     "category": "Laptop Del",
@@ -22326,6 +22590,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/DELL VOSTRO 3460 DA0V08MB6D1",
+    "display_name": "DEL VOSTR0 3460 DA0V08MB6D1",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "DEL VOSTR0 3460 DA0V08MB6D1",
+      "DEL VOSTR0 3460 DA0V08MB6D1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/DELL Vostro 13040-1 MIH81R 13040-1M",
     "display_name": "DEL Vostr0 13040-1 MIH81R 13040-1M",
     "category": "Laptop Del",
@@ -22355,6 +22630,17 @@
       "Laptop Del",
       "DEL WASP13 18769-1 N94G2",
       "DEL WASP13 18769-1 N94G2"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/DELL XPS 12 LA-8821P R30 MB-1113",
+    "display_name": "DEL XPZ 12 LA-8821P R30 MB-1113",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "DEL XPZ 12 LA-8821P R30 MB-1113",
+      "DEL XPZ 12 LA-8821P R30 MB-1113"
     ],
     "thu_tu": null
   },
@@ -22568,6 +22854,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/Dell 5300 2-in-1 18723-1",
+    "display_name": "Del 5300 2-in-1 18723-1",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del 5300 2-in-1 18723-1",
+      "Del 5300 2-in-1 18723-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/Dell 5545 LA-B651P",
     "display_name": "Del 5545 LA-B651P",
     "category": "Laptop Del",
@@ -22744,6 +23041,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/Dell Inspiron 15 3531 LA-B481P R10-0310",
+    "display_name": "Del Inspirom 15 3531 LA-B481P R10-0310",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del Inspirom 15 3531 LA-B481P R10-0310",
+      "Del Inspirom 15 3531 LA-B481P R10-0310"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/Dell Inspiron 15 3555 Wistron Degas 15276-1 rev X00",
     "display_name": "Del Inspirom 15 3555 Wistrom Degas 15276-1 rev X00",
     "category": "Laptop Del",
@@ -22751,6 +23059,17 @@
       "Laptop Del",
       "Del Inspirom 15 3555 Wistrom Degas 15276-1 rev X00",
       "Del Inspirom 15 3555 Wistrom Degas 15276-1 rev X00"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/Dell Inspiron 15 Gaming 7566 Compal LA-D991P BCV00 Rev 1.0A00",
+    "display_name": "Del Inspirom 15 Gaming 7566 Compall LA-D991P BCV00 Rev 1.0A00",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del Inspirom 15 Gaming 7566 Compall LA-D991P BCV00 Rev 1.0A00",
+      "Del Inspirom 15 Gaming 7566 Compall LA-D991P BCV00 Rev 1.0A00"
     ],
     "thu_tu": null
   },
@@ -22898,6 +23217,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/Dell Inspiron 7590 Wistron Jedi 1517 WHL U 18718",
+    "display_name": "Del Inspirom 7590 Wistrom Jedi 1517 WHL U 18718",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del Inspirom 7590 Wistrom Jedi 1517 WHL U 18718",
+      "Del Inspirom 7590 Wistrom Jedi 1517 WHL U 18718"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/Dell Inspiron G7 17 7700 HELA17 N18E 115W MB Rev A00",
     "display_name": "Del Inspirom G7 17 7700 HELA17 N18E 115W MB Rev A00",
     "category": "Laptop Del",
@@ -22916,6 +23246,17 @@
       "Laptop Del",
       "Del Inspirom N5110 10260-1",
       "Del Inspirom N5110 10260-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/Dell Inspiron One 2205 2305 Flex Mink C3PO AMD MP 00008288 004 R2D2",
+    "display_name": "Del Inspirom One 2205 2305 Flex Mink C3PO AMĐ MP 00008288 004 R2D2",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del Inspirom One 2205 2305 Flex Mink C3PO AMĐ MP 00008288 004 R2D2",
+      "Del Inspirom One 2205 2305 Flex Mink C3PO AMĐ MP 00008288 004 R2D2"
     ],
     "thu_tu": null
   },
@@ -23415,6 +23756,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Dell/Dell Vostro 3062 - Intel-Apollo Lake AIO - 15097-1",
+    "display_name": "Del Vostr0 3062 - Intell-Apollo Lake AIO - 15097-1",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del Vostr0 3062 - Intell-Apollo Lake AIO - 15097-1",
+      "Del Vostr0 3062 - Intell-Apollo Lake AIO - 15097-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Dell/Dell Vostro 3470 17530-1",
     "display_name": "Del Vostr0 3470 17530-1",
     "category": "Laptop Del",
@@ -23532,6 +23884,28 @@
       "Laptop Del",
       "Del XPZ 15 9570 LA-G341p",
       "Del XPZ 15 9570 LA-G341p"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/Dell XPS 15 9575 Compal LA-F211P DAZ10 Rev 1.0A00",
+    "display_name": "Del XPZ 15 9575 Compall LA-F211P DAZ10 Rev 1.0A00",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del XPZ 15 9575 Compall LA-F211P DAZ10 Rev 1.0A00",
+      "Del XPZ 15 9575 Compall LA-F211P DAZ10 Rev 1.0A00"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Dell/Dell XPS 18 1820 (Pegatron IMPBW-CS)",
+    "display_name": "Del XPZ 18 1820 (Pegatrom IMPBW-CS)",
+    "category": "Laptop Del",
+    "nhanh": [
+      "Laptop Del",
+      "Del XPZ 18 1820 (Pegatrom IMPBW-CS)",
+      "Del XPZ 18 1820 (Pegatrom IMPBW-CS)"
     ],
     "thu_tu": null
   },
@@ -25395,6 +25769,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Lenovo/LENOVO IdeaPad 130-15AST LA-G241P R10-0314",
+    "display_name": "LENOVA IdeaPat 130-15AST LA-G241P R10-0314",
+    "category": "Laptop Lenova",
+    "nhanh": [
+      "Laptop Lenova",
+      "LENOVA IdeaPat 130-15AST LA-G241P R10-0314",
+      "LENOVA IdeaPat 130-15AST LA-G241P R10-0314"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Lenovo/LENOVO IdeaPad G505 - LA-9911P R10",
     "display_name": "LENOVA IdeaPat G505 - LA-9911P R10",
     "category": "Laptop Lenova",
@@ -26484,6 +26869,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Lenovo/Lenovo S530-13 LA-G651P R10",
+    "display_name": "Lenova S530-13 LA-G651P R10",
+    "category": "Laptop Lenova",
+    "nhanh": [
+      "Laptop Lenova",
+      "Lenova S530-13 LA-G651P R10",
+      "Lenova S530-13 LA-G651P R10"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Lenovo/Lenovo T420S LSN-3 UMA H0223-4",
     "display_name": "Lenova T420S LSN-3 UMA H0223-4",
     "category": "Laptop Lenova",
@@ -26524,6 +26920,17 @@
       "Laptop Lenova",
       "Lenova ThinkPat 13 S2 Series Kuanta PS8 DA0PS8MB8G0 Rev 1A",
       "Lenova ThinkPat 13 S2 Series Kuanta PS8 DA0PS8MB8G0 Rev 1A"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Lenovo/Lenovo ThinkPad E460 E560 BE560 NM-A561",
+    "display_name": "Lenova ThinkPat E460 E560 BE560 NM-A561",
+    "category": "Laptop Lenova",
+    "nhanh": [
+      "Laptop Lenova",
+      "Lenova ThinkPat E460 E560 BE560 NM-A561",
+      "Lenova ThinkPat E460 E560 BE560 NM-A561"
     ],
     "thu_tu": null
   },
@@ -27001,6 +27408,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Lenovo/ThinkPad Carbon X1 LRV-1 14282-2M 14282-3",
+    "display_name": "ThinkPat Carbon X1 LRV-1 14282-2M 14282-3",
+    "category": "Laptop Lenova",
+    "nhanh": [
+      "Laptop Lenova",
+      "ThinkPat Carbon X1 LRV-1 14282-2M 14282-3",
+      "ThinkPat Carbon X1 LRV-1 14282-2M 14282-3"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Lenovo/ThinkPad E325 DAPS3AMB6D0 Quanta PS3A",
     "display_name": "ThinkPat E325 DAPS3AMB6D0 Kuanta PS3A",
     "category": "Laptop Lenova",
@@ -27100,6 +27518,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop MSI/MS-14DK1-0A (.PCB)",
+    "display_name": "MS-14DK1-0A (.PCB)",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MS-14DK1-0A (.PCB)",
+      "MS-14DK1-0A (.PCB)"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop MSI/MS-15631 REV 1.0",
     "display_name": "MS-15631 REV 1.0",
     "category": "Laptop MSY",
@@ -27107,6 +27536,17 @@
       "Laptop MSY",
       "MS-15631 REV 1.0",
       "MS-15631 REV 1.0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop MSI/MS-16J61-Rev 1.0",
+    "display_name": "MS-16J61-Rev 1.0",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MS-16J61-Rev 1.0",
+      "MS-16J61-Rev 1.0"
     ],
     "thu_tu": null
   },
@@ -27177,6 +27617,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop MSI/MS-16W11-R10",
+    "display_name": "MS-16W11-R10",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MS-16W11-R10",
+      "MS-16W11-R10"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop MSI/MS-17C6 MS-16P6 MS-16P1 6P6(1.0)",
     "display_name": "MS-17C6 MS-16P6 MS-16P1 6P6(1.0)",
     "category": "Laptop MSY",
@@ -27184,6 +27635,28 @@
       "Laptop MSY",
       "MS-17C6 MS-16P6 MS-16P1 6P6(1.0)",
       "MS-17C6 MS-16P6 MS-16P1 6P6(1.0)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop MSI/MS-17E51-10",
+    "display_name": "MS-17E51-10",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MS-17E51-10",
+      "MS-17E51-10"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop MSI/MS-19812-2.1",
+    "display_name": "MS-19812-2.1",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MS-19812-2.1",
+      "MS-19812-2.1"
     ],
     "thu_tu": null
   },
@@ -27547,6 +28020,17 @@
       "Laptop MSY",
       "MSY MS-16R41",
       "MSY MS-16R41"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop MSI/MSI MS-16S61 Rev1.1 BOATDVIWE (.PCB)",
+    "display_name": "MSY MS-16S61 Rev1.1 BOATDVIWE (.PCB)",
+    "category": "Laptop MSY",
+    "nhanh": [
+      "Laptop MSY",
+      "MSY MS-16S61 Rev1.1 BOATDVIWE (.PCB)",
+      "MSY MS-16S61 Rev1.1 BOATDVIWE (.PCB)"
     ],
     "thu_tu": null
   },
@@ -27980,6 +28464,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Laptop Microsoft/surface Laptop4 5k-wayland.10-Eng .pcb",
+    "display_name": "surfase Laptop4 5k-wayland.10-Eng .pcb",
+    "category": "Laptop Microsft",
+    "nhanh": [
+      "Laptop Microsft",
+      "surfase Laptop4 5k-wayland.10-Eng .pcb",
+      "surfase Laptop4 5k-wayland.10-Eng .pcb"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Laptop Microsoft/surface pro 4",
     "display_name": "surfase pro 4",
     "category": "Laptop Microsft",
@@ -28163,6 +28658,17 @@
       "Laptop Samsun",
       "SAMSUN SAMSUN NP530U3C A08 LOTUS 13 R BA41 01091A BA41 01092A",
       "SAMSUN SAMSUN NP530U3C A08 LOTUS 13 R BA41 01091A BA41 01092A"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Samsung/Samsung LOTUS-14R (BA41-02013A) - Samsung NP530U4C LOTUS-14R (BA41-02013A, BA41-02014A)",
+    "display_name": "Samsun LOTUS-14R (BA41-02013A) - Samsun NP530U4C LOTUS-14R (BA41-02013A, BA41-02014A)",
+    "category": "Laptop Samsun",
+    "nhanh": [
+      "Laptop Samsun",
+      "Samsun LOTUS-14R (BA41-02013A) - Samsun NP530U4C LOTUS-14R (BA41-02013A, BA41-02014A)",
+      "Samsun LOTUS-14R (BA41-02013A) - Samsun NP530U4C LOTUS-14R (BA41-02013A, BA41-02014A)"
     ],
     "thu_tu": null
   },
@@ -28669,6 +29175,28 @@
       "Laptop Toshiva",
       "Toshiva Satelite Pro L450 L455 COMPALL LA-5821P Rev 1.0 1",
       "Toshiva Satelite Pro L450 L455 COMPALL LA-5821P Rev 1.0 1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Toshiba/Toshiba Satellite Pro L50-A VGF 2.1",
+    "display_name": "Toshiva Satelite Pro L50-A VGF 2.1",
+    "category": "Laptop Toshiva",
+    "nhanh": [
+      "Laptop Toshiva",
+      "Toshiva Satelite Pro L50-A VGF 2.1",
+      "Toshiva Satelite Pro L50-A VGF 2.1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Laptop Toshiba/Toshiba Satellite Radius E45W-C TRCU MB 2.1",
+    "display_name": "Toshiva Satelite Radius E45W-C TRCU MB 2.1",
+    "category": "Laptop Toshiva",
+    "nhanh": [
+      "Laptop Toshiva",
+      "Toshiva Satelite Radius E45W-C TRCU MB 2.1",
+      "Toshiva Satelite Radius E45W-C TRCU MB 2.1"
     ],
     "thu_tu": null
   },
@@ -31903,6 +32431,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/11068-1-0207",
+    "display_name": "11068-1-0207",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "11068-1-0207",
+      "11068-1-0207"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/11205-SA swg",
     "display_name": "11205-SA swg",
     "category": "Mainboard (by code)",
@@ -31936,6 +32475,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/12204-1",
+    "display_name": "12204-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "12204-1",
+      "12204-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/12223-1",
+    "display_name": "12223-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "12223-1",
+      "12223-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/12275-1",
+    "display_name": "12275-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "12275-1",
+      "12275-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/12313-1",
     "display_name": "12313-1",
     "category": "Mainboard (by code)",
@@ -31947,6 +32519,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/14003-1.0325WZS1322",
+    "display_name": "14003-1.0325WZS1322",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "14003-1.0325WZS1322",
+      "14003-1.0325WZS1322"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/14060-SA",
     "display_name": "14060-SA",
     "category": "Mainboard (by code)",
@@ -31954,6 +32537,17 @@
       "Mainboard (by code)",
       "14060-SA",
       "14060-SA"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/14235-1",
+    "display_name": "14235-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "14235-1",
+      "14235-1"
     ],
     "thu_tu": null
   },
@@ -32002,6 +32596,72 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/15264-1.main board",
+    "display_name": "15264-1.main board",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15264-1.main board",
+      "15264-1.main board"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/15296-1 - Starlord A00 20160226",
+    "display_name": "15296-1 - Starlord A00 20160226",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15296-1 - Starlord A00 20160226",
+      "15296-1 - Starlord A00 20160226"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/15296-1 - Starlord GPU A00 20160226",
+    "display_name": "15296-1 - Starlord GPU A00 20160226",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15296-1 - Starlord GPU A00 20160226",
+      "15296-1 - Starlord GPU A00 20160226"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/15296-1 - Starlord IO A00 20160226",
+    "display_name": "15296-1 - Starlord IO A00 20160226",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15296-1 - Starlord IO A00 20160226",
+      "15296-1 - Starlord IO A00 20160226"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/15296-1 - Starlord KB A00 20160226",
+    "display_name": "15296-1 - Starlord KB A00 20160226",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15296-1 - Starlord KB A00 20160226",
+      "15296-1 - Starlord KB A00 20160226"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/15296-1 - Starlord Sensor A00 20160226",
+    "display_name": "15296-1 - Starlord Sensor A00 20160226",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "15296-1 - Starlord Sensor A00 20160226",
+      "15296-1 - Starlord Sensor A00 20160226"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/15299-1 0304WZS0904(BAD)",
     "display_name": "15299-1 0304WZS0904(BAD)",
     "category": "Mainboard (by code)",
@@ -32024,6 +32684,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/16556-1.0119WZS1318",
+    "display_name": "16556-1.0119WZS1318",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "16556-1.0119WZS1318",
+      "16556-1.0119WZS1318"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/16924-2",
     "display_name": "16924-2",
     "category": "Mainboard (by code)",
@@ -32031,6 +32702,17 @@
       "Mainboard (by code)",
       "16924-2",
       "16924-2"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/17529-1",
+    "display_name": "17529-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "17529-1",
+      "17529-1"
     ],
     "thu_tu": null
   },
@@ -32079,6 +32761,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/17876-1",
+    "display_name": "17876-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "17876-1",
+      "17876-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/17A92-1",
+    "display_name": "17A92-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "17A92-1",
+      "17A92-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/17CRU-6050A2549401-MB-A02",
     "display_name": "17CRU-6050A2549401-MB-A02",
     "category": "Mainboard (by code)",
@@ -32119,6 +32823,17 @@
       "Mainboard (by code)",
       "18835-SC 18835-SD 18835-1",
       "18835-SC 18835-SD 18835-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/19476-1.0831WZS0929 (Allegro)",
+    "display_name": "19476-1.0831WZS0929",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "19476-1.0831WZS0929",
+      "19476-1.0831WZS0929"
     ],
     "thu_tu": null
   },
@@ -32350,6 +33065,17 @@
       "Mainboard (by code)",
       "43Y6868 44C4395 L53621 M2INT MALIBU 2 NR 0222 T61 R61 R61I UMA - 43Y6868 m2int NR 0222",
       "43Y6868 44C4395 L53621 M2INT MALIBU 2 NR 0222 T61 R61 R61I UMA - 43Y6868 m2int NR 0222"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/5s-ippbt-sk.xa00-0206 Dior ViewOnly",
+    "display_name": "5s-ippbt-sk.xa00-0206 Dior ViewOnly",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "5s-ippbt-sk.xa00-0206 Dior ViewOnly",
+      "5s-ippbt-sk.xa00-0206 Dior ViewOnly"
     ],
     "thu_tu": null
   },
@@ -32794,6 +33520,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/AT6-D",
+    "display_name": "AT6-D",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "AT6-D",
+      "AT6-D"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/B150M PRO4S D3 R1.01(70-MXB080-A01)",
     "display_name": "B150M PRO4S D3 R1.01(70-MXB080-A01)",
     "category": "Mainboard (by code)",
@@ -33157,6 +33894,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/BM10G 6050A2338401-MB-A02",
+    "display_name": "BM10G 6050A2338401-MB-A02",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "BM10G 6050A2338401-MB-A02",
+      "BM10G 6050A2338401-MB-A02"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/BM10G 6050A2338501-MB-A02",
     "display_name": "BM10G 6050A2338501-MB-A02",
     "category": "Mainboard (by code)",
@@ -33175,6 +33923,17 @@
       "Mainboard (by code)",
       "BM5070",
       "BM5070"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/BM6G28-V10-OK",
+    "display_name": "BM6G28-V10-OK",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "BM6G28-V10-OK",
+      "BM6G28-V10-OK"
     ],
     "thu_tu": null
   },
@@ -33340,6 +34099,17 @@
       "Mainboard (by code)",
       "CAL50 DAL10 LA-F115P (REV 1.0) (A00)",
       "CAL50 DAL10 LA-F115P (REV 1.0) (A00)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/CARRIZO AIO 14050-1 14050-1.0226WZS1939",
+    "display_name": "CARRIZO AIO 14050-1 14050-1.0226WZS1939",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "CARRIZO AIO 14050-1 14050-1.0226WZS1939",
+      "CARRIZO AIO 14050-1 14050-1.0226WZS1939"
     ],
     "thu_tu": null
   },
@@ -33549,6 +34319,17 @@
       "Mainboard (by code)",
       "COMPALL LA-2922P HBL50",
       "COMPALL LA-2922P HBL50"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/COMPAL LA-3081P",
+    "display_name": "COMPALL LA-3081P",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "COMPALL LA-3081P",
+      "COMPALL LA-3081P"
     ],
     "thu_tu": null
   },
@@ -33817,6 +34598,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/COMPAL LA-H331P (.PCB)",
+    "display_name": "COMPALL LA-H331P (.PCB)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "COMPALL LA-H331P (.PCB)",
+      "COMPALL LA-H331P (.PCB)"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/COMPAL LA-H441P Rev1A",
     "display_name": "COMPALL LA-H441P Rev1A",
     "category": "Mainboard (by code)",
@@ -33824,6 +34616,17 @@
       "Mainboard (by code)",
       "COMPALL LA-H441P Rev1A",
       "COMPALL LA-H441P Rev1A"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/COMPAL LA-J091P Rev10",
+    "display_name": "COMPALL LA-J091P Rev10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "COMPALL LA-J091P Rev10",
+      "COMPALL LA-J091P Rev10"
     ],
     "thu_tu": null
   },
@@ -33989,6 +34792,28 @@
       "Mainboard (by code)",
       "COMPALL ZAM60 LA-A891P",
       "COMPALL ZAM60 LA-A891P"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/CORE COMBO B2 A00 PCB",
+    "display_name": "CORE COMBO B2 A00 PCB",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "CORE COMBO B2 A00 PCB",
+      "CORE COMBO B2 A00 PCB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/CORE L A00 PCB",
+    "display_name": "CORE L A00 PCB",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "CORE L A00 PCB",
+      "CORE L A00 PCB"
     ],
     "thu_tu": null
   },
@@ -34312,6 +35137,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Compal LA-D804P Rev1.0",
+    "display_name": "Compall LA-D804P Rev1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LA-D804P Rev1.0",
+      "Compall LA-D804P Rev1.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Compal LA-D822P",
     "display_name": "Compall LA-D822P",
     "category": "Mainboard (by code)",
@@ -34334,6 +35170,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Compal LA-G172P Rev1.0",
+    "display_name": "Compall LA-G172P Rev1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LA-G172P Rev1.0",
+      "Compall LA-G172P Rev1.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Compal LA-G661P DDB20 r1.0(A00)",
     "display_name": "Compall LA-G661P DDB20 r1.0(A00)",
     "category": "Mainboard (by code)",
@@ -34352,6 +35199,28 @@
       "Mainboard (by code)",
       "Compall LA-G717P - LA-G716P",
       "Compall LA-G717P - LA-G716P"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Compal LA-H461P r0.2 - LA-H461P Rev02",
+    "display_name": "Compall LA-H461P r0.2 - LA-H461P Rev02",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LA-H461P r0.2 - LA-H461P Rev02",
+      "Compall LA-H461P r0.2 - LA-H461P Rev02"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Compal LA-H461P r0.2 - LS-H461P Rev02",
+    "display_name": "Compall LA-H461P r0.2 - LS-H461P Rev02",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LA-H461P r0.2 - LS-H461P Rev02",
+      "Compall LA-H461P r0.2 - LS-H461P Rev02"
     ],
     "thu_tu": null
   },
@@ -34477,6 +35346,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Compal LA-J701P r1.0",
+    "display_name": "Compall LA-J701P r1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LA-J701P r1.0",
+      "Compall LA-J701P r1.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Compal LA-K091P Rev 2.0",
     "display_name": "Compall LA-K091P Rev 2.0",
     "category": "Mainboard (by code)",
@@ -34528,6 +35408,17 @@
       "Mainboard (by code)",
       "Compall LA-L181P",
       "Compall LA-L181P"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Compal LS-J701P r0.1",
+    "display_name": "Compall LS-J701P r0.1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Compall LS-J701P r0.1",
+      "Compall LS-J701P r0.1"
     ],
     "thu_tu": null
   },
@@ -34961,6 +35852,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/DA0ZHXMB6C0",
+    "display_name": "DA0ZHXMB6C0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZHXMB6C0",
+      "DA0ZHXMB6C0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/DA0ZK2MB6F1 ZK2-mb-f",
     "display_name": "DA0ZK2MB6F1 ZK2-mb-f",
     "category": "Mainboard (by code)",
@@ -35012,6 +35914,83 @@
       "Mainboard (by code)",
       "DA0ZQ1MB8D0",
       "DA0ZQ1MB8D0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - SKI ZS8 DB EL v0E",
+    "display_name": "DA0ZS8MB8E0 - SKI ZS8 DB EL v0E",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - SKI ZS8 DB EL v0E",
+      "DA0ZS8MB8E0 - SKI ZS8 DB EL v0E"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - SKI ZS8 DB LED v0D",
+    "display_name": "DA0ZS8MB8E0 - SKI ZS8 DB LED v0D",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - SKI ZS8 DB LED v0D",
+      "DA0ZS8MB8E0 - SKI ZS8 DB LED v0D"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - SKI ZS8 DB SENSOR v0E",
+    "display_name": "DA0ZS8MB8E0 - SKI ZS8 DB SENSOR v0E",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - SKI ZS8 DB SENSOR v0E",
+      "DA0ZS8MB8E0 - SKI ZS8 DB SENSOR v0E"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - SKI ZS8 DB USB v0F",
+    "display_name": "DA0ZS8MB8E0 - SKI ZS8 DB USB v0F",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - SKI ZS8 DB USB v0F",
+      "DA0ZS8MB8E0 - SKI ZS8 DB USB v0F"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - SKI ZS8 MB v0E",
+    "display_name": "DA0ZS8MB8E0 - SKI ZS8 MB v0E",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - SKI ZS8 MB v0E",
+      "DA0ZS8MB8E0 - SKI ZS8 MB v0E"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - da0ee6ab4c0-c-anne",
+    "display_name": "DA0ZS8MB8E0 - da0ee6ab4c0-c-anne",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - da0ee6ab4c0-c-anne",
+      "DA0ZS8MB8E0 - da0ee6ab4c0-c-anne"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DA0ZS8MB8E0 - da0ee6mbad0-d-susan-165XL-0828",
+    "display_name": "DA0ZS8MB8E0 - da0ee6mbad0-d-susan-165XL-0828",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DA0ZS8MB8E0 - da0ee6mbad0-d-susan-165XL-0828",
+      "DA0ZS8MB8E0 - da0ee6mbad0-d-susan-165XL-0828"
     ],
     "thu_tu": null
   },
@@ -35214,6 +36193,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/DANJMMB1AA0",
+    "display_name": "DANJMMB1AA0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DANJMMB1AA0",
+      "DANJMMB1AA0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/DANM9GMB6C0 - NM9G-MB-A",
     "display_name": "DANM9GMB6C0 - NM9G-MB-A",
     "category": "Mainboard (by code)",
@@ -35379,6 +36369,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/DAZQSAMB6E1 ZQSA-MB-F-1",
+    "display_name": "DAZQSAMB6E1 ZQSA-MB-F-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DAZQSAMB6E1 ZQSA-MB-F-1",
+      "DAZQSAMB6E1 ZQSA-MB-F-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/DB10FG 6050A2557401-MB-A02",
     "display_name": "DB10FG 6050A2557401-MB-A02",
     "category": "Mainboard (by code)",
@@ -35540,6 +36541,17 @@
       "Mainboard (by code)",
       "DL340-HSW(13221-SB)",
       "DL340-HSW(13221-SB)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/DL470-NM-B021 R03-0819",
+    "display_name": "DL470-NM-B021 R03-0819",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "DL470-NM-B021 R03-0819",
+      "DL470-NM-B021 R03-0819"
     ],
     "thu_tu": null
   },
@@ -35984,6 +36996,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Eiffel 2 ICL 19450-1",
+    "display_name": "Eiffel 2 ICL 19450-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Eiffel 2 ICL 19450-1",
+      "Eiffel 2 ICL 19450-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Eric VE R BA92-09908B BA41-01868A",
     "display_name": "Eric VE R BA92-09908B BA41-01868A",
     "category": "Mainboard (by code)",
@@ -36226,6 +37249,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/FX502VD VE R2.0",
+    "display_name": "FX502VD VE R2.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "FX502VD VE R2.0",
+      "FX502VD VE R2.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/FX506LH 1 2 60NR03U0 MB1110 FX506LH MB 0MI7 10750HR1 2",
     "display_name": "FX506LH 1 2 60NR03U0 MB1110 FX506LH MB 0MI7 10750HR1 2",
     "category": "Mainboard (by code)",
@@ -36244,6 +37278,50 @@
       "Mainboard (by code)",
       "FY521 FY522 FY519 FY520 NM-C371 (REV 1.0)",
       "FY521 FY522 FY519 FY520 NM-C371 (REV 1.0)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Floris Yebisu NB8511 NB8512 MB V4 0702 OK",
+    "display_name": "Floris Yebisu NB8511 NB8512 MB V4 0702 OK",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Floris Yebisu NB8511 NB8512 MB V4 0702 OK",
+      "Floris Yebisu NB8511 NB8512 MB V4 0702 OK"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Floris Yebisu NB8511 NB8512 UB V4 0702 ok",
+    "display_name": "Floris Yebisu NB8511 NB8512 UB V4 0702 ok",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Floris Yebisu NB8511 NB8512 UB V4 0702 ok",
+      "Floris Yebisu NB8511 NB8512 UB V4 0702 ok"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/G1 -DL4FA REV20 Armani (.PCB)",
+    "display_name": "G1 -DL4FA REV20 Armani (.PCB)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "G1 -DL4FA REV20 Armani (.PCB)",
+      "G1 -DL4FA REV20 Armani (.PCB)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/G1-GS5FA.14 Armani ViewOnly",
+    "display_name": "G1-GS5FA.14 Armani ViewOnly",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "G1-GS5FA.14 Armani ViewOnly",
+      "G1-GS5FA.14 Armani ViewOnly"
     ],
     "thu_tu": null
   },
@@ -36622,6 +37700,50 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/GJ5CN60-MB-1026-AM",
+    "display_name": "GJ5CN60-MB-1026-AM",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GJ5CN60-MB-1026-AM",
+      "GJ5CN60-MB-1026-AM"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GJ5CN60-MB-1030e-163",
+    "display_name": "GJ5CN60-MB-1030e-163",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GJ5CN60-MB-1030e-163",
+      "GJ5CN60-MB-1030e-163"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GJ5CN60-MB-1109e-163",
+    "display_name": "GJ5CN60-MB-1109e-163",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GJ5CN60-MB-1109e-163",
+      "GJ5CN60-MB-1109e-163"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GJ5CN60-MB-1209",
+    "display_name": "GJ5CN60-MB-1209",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GJ5CN60-MB-1209",
+      "GJ5CN60-MB-1209"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/GK5CN5Z",
     "display_name": "GK5CN5Z",
     "category": "Mainboard (by code)",
@@ -36695,6 +37817,28 @@
       "Mainboard (by code)",
       "GK7MR0R",
       "GK7MR0R"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GK7MR0R - GK7MR0R V10 20200116",
+    "display_name": "GK7MR0R - GK7MR0R V10 20200116",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GK7MR0R - GK7MR0R V10 20200116",
+      "GK7MR0R - GK7MR0R V10 20200116"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GK7MR0R V10RTE (.PCB)",
+    "display_name": "GK7MR0R V10RTE (.PCB)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GK7MR0R V10RTE (.PCB)",
+      "GK7MR0R V10RTE (.PCB)"
     ],
     "thu_tu": null
   },
@@ -36908,6 +38052,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N3070GAMING-OC-8GD-0.1",
+    "display_name": "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N3070GAMING-OC-8GD-0.1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N3070GAMING-OC-8GD-0.1",
+      "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N3070GAMING-OC-8GD-0.1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N307TGAMING-OC-8GD-0.1 REV 1.0",
+    "display_name": "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N307TGAMING-OC-8GD-0.1 REV 1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N307TGAMING-OC-8GD-0.1 REV 1.0",
+      "GV-N307TGAMING-OC-8GD-0 .1 REV 1.0 - GV-N307TGAMING-OC-8GD-0.1 REV 1.0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GV-N4090GAMING-OC-24GD r1.0",
+    "display_name": "GV-N4090GAMING-OC-24GD r1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GV-N4090GAMING-OC-24GD r1.0",
+      "GV-N4090GAMING-OC-24GD r1.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/GV-NP104D5X-4G-10",
     "display_name": "GV-NP104D5X-4G-10",
     "category": "Mainboard (by code)",
@@ -36915,6 +38092,17 @@
       "Mainboard (by code)",
       "GV-NP104D5X-4G-10",
       "GV-NP104D5X-4G-10"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/GV-RX580AORUS-8GD-1.0",
+    "display_name": "GV-RX580AORUZ-8GD-1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "GV-RX580AORUZ-8GD-1.0",
+      "GV-RX580AORUZ-8GD-1.0"
     ],
     "thu_tu": null
   },
@@ -37579,6 +38767,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/IPPBT-SK.pcb",
+    "display_name": "IPPBT-SK.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "IPPBT-SK.pcb",
+      "IPPBT-SK.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/IPXBSW-GS 1.03B(69M10EB30C02)",
     "display_name": "IPXBSW-GS 1.03B(69M10EB30C02)",
     "category": "Mainboard (by code)",
@@ -37619,6 +38818,17 @@
       "Mainboard (by code)",
       "IRONBOX2 16531-1N 08F04",
       "IRONBOX2 16531-1N 08F04"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Ins 5420 213264 A00 2ND PCB DDR4",
+    "display_name": "Ins 5420 213264 A00 2ND PCB DDR4",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Ins 5420 213264 A00 2ND PCB DDR4",
+      "Ins 5420 213264 A00 2ND PCB DDR4"
     ],
     "thu_tu": null
   },
@@ -37909,6 +39119,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/KRUG 15 UMA Rev A00 BOARDFILE 122910 162",
+    "display_name": "KRUG 15 UMA Rev A00 BOARDFILE 122910 162",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "KRUG 15 UMA Rev A00 BOARDFILE 122910 162",
+      "KRUG 15 UMA Rev A00 BOARDFILE 122910 162"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/KS480 KS580 NM-E901 (REV 1.0)",
     "display_name": "KS480 KS580 NM-E901 (REV 1.0)",
     "category": "Mainboard (by code)",
@@ -38195,6 +39416,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/QUANTA NKW DA0NKWM8C0 NKW REV 1A DA0NKWM8C0",
+    "display_name": "KUANTA NKW DA0NKWM8C0 NKW REV 1A DA0NKWM8C0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "KUANTA NKW DA0NKWM8C0 NKW REV 1A DA0NKWM8C0",
+      "KUANTA NKW DA0NKWM8C0 NKW REV 1A DA0NKWM8C0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/QUANTA QL4 TW9",
     "display_name": "KUANTA QL4 TW9",
     "category": "Mainboard (by code)",
@@ -38345,6 +39577,17 @@
       "Mainboard (by code)",
       "KUANTA ZAB DA0ZABMB6E0",
       "KUANTA ZAB DA0ZABMB6E0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/QUANTA ZAU ZAUA",
+    "display_name": "KUANTA ZAU ZAUA",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "KUANTA ZAU ZAUA",
+      "KUANTA ZAU ZAUA"
     ],
     "thu_tu": null
   },
@@ -38503,6 +39746,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Quanta AM9C DAAM9CMBAD0-d-lily-165",
+    "display_name": "Kuanta AM9C DAAM9CMBAD0-d-lily-165",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta AM9C DAAM9CMBAD0-d-lily-165",
+      "Kuanta AM9C DAAM9CMBAD0-d-lily-165"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Quanta BD6 (DA0BD6MB8D0) Rev C",
     "display_name": "Kuanta BD6 (DA0BD6MB8D0) Rev C",
     "category": "Mainboard (by code)",
@@ -38554,6 +39808,17 @@
       "Mainboard (by code)",
       "Kuanta DA0Z8EMB8C0 -REV C-kenny-172 (Z8E)",
       "Kuanta DA0Z8EMB8C0 -REV C-kenny-172 (Z8E)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta DA0ZHEMB8E0",
+    "display_name": "Kuanta DA0ZHEMB8E0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta DA0ZHEMB8E0",
+      "Kuanta DA0ZHEMB8E0"
     ],
     "thu_tu": null
   },
@@ -38921,6 +40186,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Quanta W05D DAW05DMB6D0 - QUANTA W05D DAW05DMB6C0",
+    "display_name": "Kuanta W05D DAW05DMB6D0 - KUANTA W05D DAW05DMB6C0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta W05D DAW05DMB6D0 - KUANTA W05D DAW05DMB6C0",
+      "Kuanta W05D DAW05DMB6D0 - KUANTA W05D DAW05DMB6C0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Quanta X9Q",
     "display_name": "Kuanta X9Q",
     "category": "Mainboard (by code)",
@@ -38939,6 +40215,94 @@
       "Mainboard (by code)",
       "Kuanta Y11A-MB-E",
       "Kuanta Y11A-MB-E"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta Z8B DA0Z8BMB6D0",
+    "display_name": "Kuanta Z8B DA0Z8BMB6D0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta Z8B DA0Z8BMB6D0",
+      "Kuanta Z8B DA0Z8BMB6D0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta Z8I DA0Z8IMBAC0 Rev C",
+    "display_name": "Kuanta Z8I DA0Z8IMBAC0 Rev C",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta Z8I DA0Z8IMBAC0 Rev C",
+      "Kuanta Z8I DA0Z8IMBAC0 Rev C"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZBM DA0ZBMMB8B0 Rev B",
+    "display_name": "Kuanta ZBM DA0ZBMMB8B0 Rev B",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZBM DA0ZBMMB8B0 Rev B",
+      "Kuanta ZBM DA0ZBMMB8B0 Rev B"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZBM DA0ZBMMB8B0 Rev B - SUB USB",
+    "display_name": "Kuanta ZBM DA0ZBMMB8B0 Rev B - SUB USB",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZBM DA0ZBMMB8B0 Rev B - SUB USB",
+      "Kuanta ZBM DA0ZBMMB8B0 Rev B - SUB USB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZDF DA0ZDFMB8B0 Rev B",
+    "display_name": "Kuanta ZDF DA0ZDFMB8B0 Rev B",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZDF DA0ZDFMB8B0 Rev B",
+      "Kuanta ZDF DA0ZDFMB8B0 Rev B"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZHK DA10ZHJMB6E0 REV E - Anne",
+    "display_name": "Kuanta ZHK DA10ZHJMB6E0 REV E - Anne",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZHK DA10ZHJMB6E0 REV E - Anne",
+      "Kuanta ZHK DA10ZHJMB6E0 REV E - Anne"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxtb6c0-c-sushan",
+    "display_name": "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxtb6c0-c-sushan",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxtb6c0-c-sushan",
+      "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxtb6c0-c-sushan"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Quanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxyb6d0-d-sherry",
+    "display_name": "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxyb6d0-d-sherry",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxyb6d0-d-sherry",
+      "Kuanta ZHX DA0ZHXMB6C0 ZHX ZHXS UMA - da0zhxyb6d0-d-sherry"
     ],
     "thu_tu": null
   },
@@ -39119,6 +40483,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LA-9262P",
+    "display_name": "LA-9262P",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-9262P",
+      "LA-9262P"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LA-9941P REV 1.0",
     "display_name": "LA-9941P REV 1.0",
     "category": "Mainboard (by code)",
@@ -39126,6 +40501,17 @@
       "Mainboard (by code)",
       "LA-9941P REV 1.0",
       "LA-9941P REV 1.0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-9984P R10-0523",
+    "display_name": "LA-9984P R10-0523",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-9984P R10-0523",
+      "LA-9984P R10-0523"
     ],
     "thu_tu": null
   },
@@ -39174,6 +40560,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LA-C771P-R02-0114",
+    "display_name": "LA-C771P-R02-0114",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-C771P-R02-0114",
+      "LA-C771P-R02-0114"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LA-C912P Echo15MLK 0723B NV",
     "display_name": "LA-C912P Echo15MLK 0723B NV",
     "category": "Mainboard (by code)",
@@ -39185,6 +40582,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LA-D541P R02",
+    "display_name": "LA-D541P R02",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-D541P R02",
+      "LA-D541P R02"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LA-D581P",
     "display_name": "LA-D581P",
     "category": "Mainboard (by code)",
@@ -39192,6 +40600,28 @@
       "Mainboard (by code)",
       "LA-D581P",
       "LA-D581P"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-E122P R10",
+    "display_name": "LA-E122P R10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-E122P R10",
+      "LA-E122P R10"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-E331P R10",
+    "display_name": "LA-E331P R10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-E331P R10",
+      "LA-E331P R10"
     ],
     "thu_tu": null
   },
@@ -39240,6 +40670,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LA-G202P R10-0313",
+    "display_name": "LA-G202P R10-0313",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-G202P R10-0313",
+      "LA-G202P R10-0313"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-H672P R10",
+    "display_name": "LA-H672P R10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-H672P R10",
+      "LA-H672P R10"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LA-H811P",
     "display_name": "LA-H811P",
     "category": "Mainboard (by code)",
@@ -39251,6 +40703,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LA-J061P",
+    "display_name": "LA-J061P",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-J061P",
+      "LA-J061P"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LA-J181P",
     "display_name": "LA-J181P",
     "category": "Mainboard (by code)",
@@ -39258,6 +40721,17 @@
       "Mainboard (by code)",
       "LA-J181P",
       "LA-J181P"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-J781P R10",
+    "display_name": "LA-J781P R10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-J781P R10",
+      "LA-J781P R10"
     ],
     "thu_tu": null
   },
@@ -39313,6 +40787,17 @@
       "Mainboard (by code)",
       "LA-J952P (REV 1.0)",
       "LA-J952P (REV 1.0)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-K032P R10",
+    "display_name": "LA-K032P R10",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-K032P R10",
+      "LA-K032P R10"
     ],
     "thu_tu": null
   },
@@ -39423,6 +40908,17 @@
       "Mainboard (by code)",
       "LA-L651PR10",
       "LA-L651PR10"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LA-L659P",
+    "display_name": "LA-L659P",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LA-L659P",
+      "LA-L659P"
     ],
     "thu_tu": null
   },
@@ -40065,6 +41561,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/LS-G201P R10-0312",
+    "display_name": "LS-G201P R10-0312",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LS-G201P R10-0312",
+      "LS-G201P R10-0312"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/LS-G203P R10-0313",
+    "display_name": "LS-G203P R10-0313",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "LS-G203P R10-0313",
+      "LS-G203P R10-0313"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/LSN-3 SWG MB H0226-2",
     "display_name": "LSN-3 SWG MB H0226-2",
     "category": "Mainboard (by code)",
@@ -40604,6 +42122,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/NAV50 LA-5651P - JET",
+    "display_name": "NAV50 LA-5651P - JET",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NAV50 LA-5651P - JET",
+      "NAV50 LA-5651P - JET"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/NAV50 LA-5651P - JET.con",
+    "display_name": "NAV50 LA-5651P - JET.con",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NAV50 LA-5651P - JET.con",
+      "NAV50 LA-5651P - JET.con"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/NB8511 (REV 1.0) (BD)",
     "display_name": "NB8511 (REV 1.0) (BD)",
     "category": "Mainboard (by code)",
@@ -40754,6 +42294,17 @@
       "Mainboard (by code)",
       "NM-B244 (NM-B244) R10",
       "NM-B244 (NM-B244) R10"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/NM-B341 R02-0111",
+    "display_name": "NM-B341 R02-0111",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NM-B341 R02-0111",
+      "NM-B341 R02-0111"
     ],
     "thu_tu": null
   },
@@ -41231,6 +42782,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/NS4KU01 LAN DB VERA 0502",
+    "display_name": "NS4KU01 LAN DB VERA 0502",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NS4KU01 LAN DB VERA 0502",
+      "NS4KU01 LAN DB VERA 0502"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/NS4KU01-VA-0309C6-163",
+    "display_name": "NS4KU01-VA-0309C6-163",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NS4KU01-VA-0309C6-163",
+      "NS4KU01-VA-0309C6-163"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/NS4KU01-VA-0311-final",
+    "display_name": "NS4KU01-VA-0311-final",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "NS4KU01-VA-0311-final",
+      "NS4KU01-VA-0311-final"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/NSBW140X MB VB1 0812 1030",
     "display_name": "NSBW140X MB VB1 0812 1030",
     "category": "Mainboard (by code)",
@@ -41704,6 +43288,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/PEGATRON P0JAC2 (REV 2.0)",
+    "display_name": "PEGATROM P0JAC2 (REV 2.0)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PEGATROM P0JAC2 (REV 2.0)",
+      "PEGATROM P0JAC2 (REV 2.0)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PEGATRON P2JCC REV. 2.0A",
+    "display_name": "PEGATROM P2JCC REV. 2.0A",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PEGATROM P2JCC REV. 2.0A",
+      "PEGATROM P2JCC REV. 2.0A"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/PEGATRON PT10SG (REV 2.0)",
     "display_name": "PEGATROM PT10SG (REV 2.0)",
     "category": "Mainboard (by code)",
@@ -41744,6 +43350,17 @@
       "Mainboard (by code)",
       "PG10MG-6050A2262201-MB-A02",
       "PG10MG-6050A2262201-MB-A02"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PH317-53 COVINI-6050A3087701-MB-AX2",
+    "display_name": "PH317-53 COVINI-6050A3087701-MB-AX2",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PH317-53 COVINI-6050A3087701-MB-AX2",
+      "PH317-53 COVINI-6050A3087701-MB-AX2"
     ],
     "thu_tu": null
   },
@@ -41836,6 +43453,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/PRIME H310M-K R2.0 1.01A",
+    "display_name": "PRYM H310M-K R2.0 1.01A",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PRYM H310M-K R2.0 1.01A",
+      "PRYM H310M-K R2.0 1.01A"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/PRIME Z690-A r1.02AX(60MB18L0-MB0A01)",
     "display_name": "PRYM Z690-A r1.02AX(60MB18L0-MB0A01)",
     "category": "Mainboard (by code)",
@@ -41865,6 +43493,50 @@
       "Mainboard (by code)",
       "PS10 6050A2264901 MB A02",
       "PS10 6050A2264901 MB A02"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PS5 handle-BDM-010 PCB layer.pcb",
+    "display_name": "PS5 handle-BDM-010 PCB layer.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PS5 handle-BDM-010 PCB layer.pcb",
+      "PS5 handle-BDM-010 PCB layer.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PS5 handle-BDM-020 PCB layer.pcb",
+    "display_name": "PS5 handle-BDM-020 PCB layer.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PS5 handle-BDM-020 PCB layer.pcb",
+      "PS5 handle-BDM-020 PCB layer.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PS5-EDM-010 100889021 PCB layer.pcb",
+    "display_name": "PS5-EDM-010 100889021 PCB layer.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PS5-EDM-010 100889021 PCB layer.pcb",
+      "PS5-EDM-010 100889021 PCB layer.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/PS5-EDM-010 SUB PCB layer.pcb",
+    "display_name": "PS5-EDM-010 SUB PCB layer.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "PS5-EDM-010 SUB PCB layer.pcb",
+      "PS5-EDM-010 SUB PCB layer.pcb"
     ],
     "thu_tu": null
   },
@@ -41909,6 +43581,17 @@
       "Mainboard (by code)",
       "Pegatrom A15HC r2 .0",
       "Pegatrom A15HC r2 .0"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Pegatron IPCFL-CG rA00",
+    "display_name": "Pegatrom IPCFL-CG rA00",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Pegatrom IPCFL-CG rA00",
+      "Pegatrom IPCFL-CG rA00"
     ],
     "thu_tu": null
   },
@@ -42210,6 +43893,39 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/ROCKET BSW MB 0SP A00",
+    "display_name": "ROCKET BSW MB 0SP A00",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "ROCKET BSW MB 0SP A00",
+      "ROCKET BSW MB 0SP A00"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/ROCKET BSW MB 1SP A00",
+    "display_name": "ROCKET BSW MB 1SP A00",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "ROCKET BSW MB 1SP A00",
+      "ROCKET BSW MB 1SP A00"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/ROGUE ONE 13 8L (17925-1 VRJ3T)",
+    "display_name": "ROGUE ONE 13 8L (17925-1 VRJ3T)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "ROGUE ONE 13 8L (17925-1 VRJ3T)",
+      "ROGUE ONE 13 8L (17925-1 VRJ3T)"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/ROUNDROCK MLK (15203-1 JM7HC) (REV A00)",
     "display_name": "ROUNDROCK MLK (15203-1 JM7HC) (REV A00)",
     "category": "Mainboard (by code)",
@@ -42386,6 +44102,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Steamdeck LCD-DAF7AMB1EF0 REVF MB+SUB YiDianTong.pcb",
+    "display_name": "Steamdeck LCD-DAF7AMB1EF0 REVF MB+SUB YiDianTong.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Steamdeck LCD-DAF7AMB1EF0 REVF MB+SUB YiDianTong.pcb",
+      "Steamdeck LCD-DAF7AMB1EF0 REVF MB+SUB YiDianTong.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Steamdeck OLED-DA0F7GMBAE0 REVE MB+SUB YiDianTong.pcb",
+    "display_name": "Steamdeck OLED-DA0F7GMBAE0 REVE MB+SUB YiDianTong.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Steamdeck OLED-DA0F7GMBAE0 REVE MB+SUB YiDianTong.pcb",
+      "Steamdeck OLED-DA0F7GMBAE0 REVE MB+SUB YiDianTong.pcb"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/SuZhou10 6050A2136401-MB-A03",
     "display_name": "SuZhou10 6050A2136401-MB-A03",
     "category": "Mainboard (by code)",
@@ -42485,6 +44223,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Tigris-AIO Caspian 13048-1.1227WZS1753",
+    "display_name": "Tigris-AIO Caspian 13048-1.1227WZS1753",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Tigris-AIO Caspian 13048-1.1227WZS1753",
+      "Tigris-AIO Caspian 13048-1.1227WZS1753"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/TongFang GK7MGHP Rev VA",
     "display_name": "TongFang GK7MGHP Rev VA",
     "category": "Mainboard (by code)",
@@ -42529,6 +44278,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Tongfang PL5TU1B MB VA 1RTE (.PCB)",
+    "display_name": "Tongfang PL5TU1B MB VA 1RTE (.PCB)",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Tongfang PL5TU1B MB VA 1RTE (.PCB)",
+      "Tongfang PL5TU1B MB VA 1RTE (.PCB)"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/U43JC R2.0",
     "display_name": "U43JC R2.0",
     "category": "Mainboard (by code)",
@@ -42547,6 +44307,17 @@
       "Mainboard (by code)",
       "U8C-MB-B",
       "U8C-MB-B"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/UM7BS MAIN PCB V1.04 final",
+    "display_name": "UM7BS MAIN PCB V1.04 final",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "UM7BS MAIN PCB V1.04 final",
+      "UM7BS MAIN PCB V1.04 final"
     ],
     "thu_tu": null
   },
@@ -43090,6 +44861,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Wistron 14074-1",
+    "display_name": "Wistrom 14074-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom 14074-1",
+      "Wistrom 14074-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Wistron 15238-1 LS710 MB LS710 15238-1",
     "display_name": "Wistrom 15238-1 LS710 MB LS710 15238-1",
     "category": "Mainboard (by code)",
@@ -43167,6 +44949,28 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Wistron Cottonwood 8X6G1 13321-1",
+    "display_name": "Wistrom Cottonwood 8X6G1 13321-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom Cottonwood 8X6G1 13321-1",
+      "Wistrom Cottonwood 8X6G1 13321-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Wistron DV15 HR 10316-1",
+    "display_name": "Wistrom DV15 HR 10316-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom DV15 HR 10316-1",
+      "Wistrom DV15 HR 10316-1"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Wistron HOMA (TM15''), GW51, 07245-1 - Wistron HOMA (TM15''), GW51, 07245-SB",
     "display_name": "Wistrom HOMA (TM15''), GW51, 07245-1 - Wistrom HOMA (TM15''), GW51, 07245-SB",
     "category": "Mainboard (by code)",
@@ -43200,6 +45004,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/Wistron Kylo Ren 16B10-SC IO",
+    "display_name": "Wistrom Kylo Ren 16B10-SC IO",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom Kylo Ren 16B10-SC IO",
+      "Wistrom Kylo Ren 16B10-SC IO"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/Wistron LAR-2 CZ 203088-3",
     "display_name": "Wistrom LAR-2 CZ 203088-3",
     "category": "Mainboard (by code)",
@@ -43218,6 +45033,17 @@
       "Mainboard (by code)",
       "Wistrom LF14B 13307-2",
       "Wistrom LF14B 13307-2"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Wistron LF15A LF15V 13286 13286-1 - 13286-2.1030WZS0952.pcb",
+    "display_name": "Wistrom LF15A LF15V 13286 13286-1 - 13286-2.1030WZS0952.pcb",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom LF15A LF15V 13286 13286-1 - 13286-2.1030WZS0952.pcb",
+      "Wistrom LF15A LF15V 13286 13286-1 - 13286-2.1030WZS0952.pcb"
     ],
     "thu_tu": null
   },
@@ -43262,6 +45088,17 @@
       "Mainboard (by code)",
       "Wistrom San Bernardino 16561-1",
       "Wistrom San Bernardino 16561-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Wistron Selek MLK N18E 19753-1",
+    "display_name": "Wistrom Selek MLK N18E 19753-1",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Wistrom Selek MLK N18E 19753-1",
+      "Wistrom Selek MLK N18E 19753-1"
     ],
     "thu_tu": null
   },
@@ -43497,6 +45334,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/X550IU R2.0",
+    "display_name": "X550IU R2.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "X550IU R2.0",
+      "X550IU R2.0"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/X550WE 1.3",
     "display_name": "X550WE 1.3",
     "category": "Mainboard (by code)",
@@ -43592,6 +45440,17 @@
       "Mainboard (by code)",
       "Y7000-1060 NM-B961",
       "Y7000-1060 NM-B961"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/Y910 17ISK DY720 NM B151 Rev 1.0 ALLEGRO",
+    "display_name": "Y910 17ISK DY720 NM B151 Rev 1.0",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "Y910 17ISK DY720 NM B151 Rev 1.0",
+      "Y910 17ISK DY720 NM B151 Rev 1.0"
     ],
     "thu_tu": null
   },
@@ -43750,6 +45609,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/da0v07mbad1-d-cynthia",
+    "display_name": "da0v07mbad1-d-cynthia",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "da0v07mbad1-d-cynthia",
+      "da0v07mbad1-d-cynthia"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/da0x9mmb8f0-f",
     "display_name": "da0x9mmb8f0-f",
     "category": "Mainboard (by code)",
@@ -43757,6 +45627,17 @@
       "Mainboard (by code)",
       "da0x9mmb8f0-f",
       "da0x9mmb8f0-f"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/da0zhsmb6d0-d",
+    "display_name": "da0zhsmb6d0-d",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "da0zhsmb6d0-d",
+      "da0zhsmb6d0-d"
     ],
     "thu_tu": null
   },
@@ -43860,6 +45741,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "Mainboard (by code)/st6",
+    "display_name": "st6",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "st6",
+      "st6"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "Mainboard (by code)/v5-122p 12281-1",
     "display_name": "v5-122p 12281-1",
     "category": "Mainboard (by code)",
@@ -43867,6 +45759,17 @@
       "Mainboard (by code)",
       "v5-122p 12281-1",
       "v5-122p 12281-1"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "Mainboard (by code)/z8vm",
+    "display_name": "z8vm",
+    "category": "Mainboard (by code)",
+    "nhanh": [
+      "Mainboard (by code)",
+      "z8vm",
+      "z8vm"
     ],
     "thu_tu": null
   },
@@ -56851,6 +58754,17 @@
     "thu_tu": null
   },
   {
+    "board_id": "PC Asus/ASUS Z170-K REV 1.04",
+    "display_name": "ASUZ Z170-K REV 1.04",
+    "category": "PC Asuz",
+    "nhanh": [
+      "PC Asuz",
+      "ASUZ Z170-K REV 1.04",
+      "ASUZ Z170-K REV 1.04"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "PC Asus/ASUS Z170-K REV1.04",
     "display_name": "ASUZ Z170-K REV1.04",
     "category": "PC Asuz",
@@ -58442,6 +60356,17 @@
       "PC Biostarr",
       "Biostarr MS-7922-2.0 (MSY-Z97)",
       "Biostarr MS-7922-2.0 (MSY-Z97)"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "PC ECS/ECS H11H4-AI-V1.0",
+    "display_name": "ECS H11H4-AI-V1.0",
+    "category": "PC ECS",
+    "nhanh": [
+      "PC ECS",
+      "ECS H11H4-AI-V1.0",
+      "ECS H11H4-AI-V1.0"
     ],
     "thu_tu": null
   },
