@@ -4032,6 +4032,18 @@
     "thu_tu": 823
   },
   {
+    "board_id": "HONORY/HONORY ChangWan50 motherboard copperAB",
+    "display_name": "HONORY ChangWan50 motherboard copperAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY ChangWan",
+      "HONORY ChangWan50",
+      "HONORY ChangWan50 motherboard copperAB"
+    ],
+    "thu_tu": 824
+  },
+  {
     "board_id": "HONORY/HONORY ChangWan50Plus motherboard copperAB",
     "display_name": "HONORY ChangWan50Plus motherboard copperAB",
     "category": "HONORY",
@@ -4186,6 +4198,18 @@
       "HONORY Magic V5 motherboard copperAB"
     ],
     "thu_tu": 744
+  },
+  {
+    "board_id": "HONORY/HONORY Magic V6 motherboard copperAB",
+    "display_name": "HONORY Magic V6 motherboard copperAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY Magic",
+      "HONORY Magic V6",
+      "HONORY Magic V6 motherboard copperAB"
+    ],
+    "thu_tu": 745
   },
   {
     "board_id": "HONORY/HONORY Magic VS motherboardAB",
@@ -4366,6 +4390,18 @@
       "HONORY Magic7Pro motherboard copperAB"
     ],
     "thu_tu": 763
+  },
+  {
+    "board_id": "HONORY/HONORY Magic8Pro motherboard copperAB",
+    "display_name": "HONORY Magic8Pro motherboard copperAB",
+    "category": "HONORY",
+    "nhanh": [
+      "HONORY series",
+      "HONORY Magic",
+      "HONORY Magic8Pro",
+      "HONORY Magic8Pro motherboard copperAB"
+    ],
+    "thu_tu": 764
   },
   {
     "board_id": "HONORY/HONORY Note10 motherboardAB",
@@ -29814,6 +29850,18 @@
       "XIAO MI Mix Flip motherboard copperAB"
     ],
     "thu_tu": 1608
+  },
+  {
+    "board_id": "MI/XIAO MI Mix Flip2 motherboard copperAB",
+    "display_name": "XIAO MI Mix Flip2 motherboard copperAB",
+    "category": "MI",
+    "nhanh": [
+      "MI series",
+      "XIAO MI Mix",
+      "XIAO MI Mix Flip2",
+      "XIAO MI Mix Flip2 motherboard copperAB"
+    ],
+    "thu_tu": 1610
   },
   {
     "board_id": "MI/XIAO MI Mix Fold motherboardAB",
@@ -66279,6 +66327,18 @@
     "thu_tu": 4816
   },
   {
+    "board_id": "UAV/DJ Air3S motherboard copperAB",
+    "display_name": "DJ Air3S motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Air3S",
+      "DJ Air3S motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
     "board_id": "UAV/DJ Ava Ta2 motherboard copperAB",
     "display_name": "DJ Ava Ta2 motherboard copperAB",
     "category": "UAV",
@@ -66289,6 +66349,30 @@
       "DJ Ava Ta2 motherboard copperAB"
     ],
     "thu_tu": 4818
+  },
+  {
+    "board_id": "UAV/DJ Flip motherboard copperAB",
+    "display_name": "DJ Flip motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Flip",
+      "DJ Flip motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "UAV/DJ LitoX1 motherboard copperAB",
+    "display_name": "DJ LitoX1 motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ LitoX1",
+      "DJ LitoX1 motherboard copperAB"
+    ],
+    "thu_tu": null
   },
   {
     "board_id": "UAV/DJ Mini2 motherboard copperAB",
@@ -66325,6 +66409,30 @@
       "DJ Mini4Pro motherboard copperAB"
     ],
     "thu_tu": 4822
+  },
+  {
+    "board_id": "UAV/DJ Neo motherboard copperAB",
+    "display_name": "DJ Neo motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Neo",
+      "DJ Neo motherboard copperAB"
+    ],
+    "thu_tu": null
+  },
+  {
+    "board_id": "UAV/DJ Neo2 motherboard copperAB",
+    "display_name": "DJ Neo2 motherboard copperAB",
+    "category": "UAV",
+    "nhanh": [
+      "UAV Series",
+      "DJ",
+      "DJ Neo2",
+      "DJ Neo2 motherboard copperAB"
+    ],
+    "thu_tu": null
   },
   {
     "board_id": "UAV/DJ Yu2 motherboard copperAB",
@@ -67335,6 +67443,18 @@
     "thu_tu": 1250
   },
   {
+    "board_id": "VIV/VIV X200Ultra motherboard copperAB",
+    "display_name": "VIV X200Ultra motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "VIV X",
+      "VIV X200Ultra",
+      "VIV X200Ultra motherboard copperAB"
+    ],
+    "thu_tu": 1251
+  },
+  {
     "board_id": "VIV/VIV X20A motherboardAB",
     "display_name": "VIV X20A motherboardAB",
     "category": "VIV",
@@ -68307,6 +68427,18 @@
     "thu_tu": 1344
   },
   {
+    "board_id": "VIV/VIV Y600Pro motherboard copperAB",
+    "display_name": "VIV Y600Pro motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "VIV Y",
+      "VIV Y600Pro",
+      "VIV Y600Pro motherboard copperAB"
+    ],
+    "thu_tu": 1345
+  },
+  {
     "board_id": "VIV/VIV Y66BA motherboardAB",
     "display_name": "VIV Y66BA motherboardAB",
     "category": "VIV",
@@ -69229,6 +69361,30 @@
       "VIV iq00 U5X motherboardAB"
     ],
     "thu_tu": 1453
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z10TurboPro motherboard copperAB",
+    "display_name": "VIV iq00 Z10TurboPro motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "iq00",
+      "VIV iq00 Z10TurboPro",
+      "VIV iq00 Z10TurboPro motherboard copperAB"
+    ],
+    "thu_tu": 1454
+  },
+  {
+    "board_id": "VIV/VIV iqoo Z11Turbo motherboard copperAB",
+    "display_name": "VIV iq00 Z11Turbo motherboard copperAB",
+    "category": "VIV",
+    "nhanh": [
+      "VIV series",
+      "iq00",
+      "VIV iq00 Z11Turbo",
+      "VIV iq00 Z11Turbo motherboard copperAB"
+    ],
+    "thu_tu": 1455
   },
   {
     "board_id": "VIV/VIV iqoo Z1X_5G motherboardAB",
@@ -70869,6 +71025,18 @@
       "infini itelVison5 motherboardAB"
     ],
     "thu_tu": 4263
+  },
+  {
+    "board_id": "ipad/iPxd ProM4(2024 11in)_820-03113-A_A2837 A3006(5G) motherboard copperAB",
+    "display_name": "iPxd ProM4(2024 11in)_820-03113-A_A2837 A3006(5G) motherboard copperAB",
+    "category": "ipad",
+    "nhanh": [
+      "iPxd series",
+      "iPxd Pro",
+      "iPxd ProM4(2024 11in)_820-03113-A_A2837 A3006(5G)",
+      "iPxd ProM4(2024 11in)_820-03113-A_A2837 A3006(5G) motherboard copperAB"
+    ],
+    "thu_tu": 387
   },
   {
     "board_id": "ipad/iPxd ProM4(2024 11in)_820-03371-A_A2836(WIFI) motherboard copperAB",
@@ -73317,6 +73485,17 @@
       "iphxne17Pro motherboard copperAB"
     ],
     "thu_tu": 48
+  },
+  {
+    "board_id": "iphone/iphxne18Pro Max USA motherboard copperAB",
+    "display_name": "iphxne18Pro Max USA motherboard copperAB",
+    "category": "iphone",
+    "nhanh": [
+      "iPhxne series",
+      "iphxne18Pro Max USA",
+      "iphxne18Pro Max USA motherboard copperAB"
+    ],
+    "thu_tu": null
   },
   {
     "board_id": "iphone/iphxne18Pro Max motherboard copperAB",
